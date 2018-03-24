@@ -9,7 +9,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [ ] 4 Median of Two Sorted Arrays
 - [ ] 5 Longest Palindromic Substring
 - [x] 6 ZigZag Conversion
-- [ ] 7 Reverse Integer
+- [x] 7 Reverse Integer
 - [ ] 8 String to Integer (atoi)
 - [ ] 9 Palindrome Number
 - [ ] 10 Regular Expression Matching
