@@ -7,7 +7,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [x] 2 Add Two Numbers
 - [x] 3 Longest Substring Without Repeating Characters
 - [ ] 4 Median of Two Sorted Arrays
-- [ ] 5 Longest Palindromic Substring
+- [x] 5 Longest Palindromic Substring
 - [x] 6 ZigZag Conversion
 - [x] 7 Reverse Integer
 - [ ] 8 String to Integer (atoi)
