@@ -26,7 +26,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [ ] 21 Merge Two Sorted Lists
 - [ ] 22 Generate Parentheses
 - [ ] 23 Merge k Sorted Lists
-- [ ] 24 Swap Nodes in Pairs
+- [x] 24 Swap Nodes in Pairs
 - [ ] 25 Reverse Nodes in k-Group
 - [ ] 26 Remove Duplicates from Sorted Array
 - [x] 27 Remove Element
@@ -53,3 +53,5 @@ This repository is built for the leetcode study. The program language is mainly 
 - [ ] 48 Rotate Image
 - [ ] 49 Group Anagrams
 - [ ] 50 Pow(x, n)
+
+for (var i in array){console.log(parseInt(i)+1,array[i].children[2].getAttribute("value"))}
