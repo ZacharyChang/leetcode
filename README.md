@@ -5,11 +5,11 @@ This repository is built for the leetcode study. The program language is mainly 
 
 - [x] 1 Two Sum
 - [x] 2 Add Two Numbers
-- [ ] 3 Longest Substring Without Repeating Characters
+- [x] 3 Longest Substring Without Repeating Characters
 - [ ] 4 Median of Two Sorted Arrays
-- [ ] 5 Longest Palindromic Substring
+- [x] 5 Longest Palindromic Substring
 - [x] 6 ZigZag Conversion
-- [ ] 7 Reverse Integer
+- [x] 7 Reverse Integer
 - [ ] 8 String to Integer (atoi)
 - [ ] 9 Palindrome Number
 - [ ] 10 Regular Expression Matching
@@ -28,7 +28,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [ ] 23 Merge k Sorted Lists
 - [x] 24 Swap Nodes in Pairs
 - [ ] 25 Reverse Nodes in k-Group
-- [ ] 26 Remove Duplicates from Sorted Array
+- [x] 26 Remove Duplicates from Sorted Array
 - [x] 27 Remove Element
 - [ ] 28 Implement strStr()
 - [ ] 29 Divide Two Integers
