@@ -53,5 +53,3 @@ This repository is built for the leetcode study. The program language is mainly 
 - [ ] 48 Rotate Image
 - [ ] 49 Group Anagrams
 - [ ] 50 Pow(x, n)
-
-for (var i in array){console.log(parseInt(i)+1,array[i].children[2].getAttribute("value"))}
