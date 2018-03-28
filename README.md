@@ -19,7 +19,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [x] 14 Longest Common Prefix
 - [ ] 15 3Sum
 - [ ] 16 3Sum Closest
-- [ ] 17 Letter Combinations of a Phone Number
+- [x] 17 Letter Combinations of a Phone Number
 - [ ] 18 4Sum
 - [ ] 19 Remove Nth Node From End of List
 - [ ] 20 Valid Parentheses
