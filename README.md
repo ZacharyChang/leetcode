@@ -22,7 +22,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [x] 17 Letter Combinations of a Phone Number
 - [ ] 18 4Sum
 - [ ] 19 Remove Nth Node From End of List
-- [ ] 20 Valid Parentheses
+- [x] 20 Valid Parentheses
 - [ ] 21 Merge Two Sorted Lists
 - [ ] 22 Generate Parentheses
 - [ ] 23 Merge k Sorted Lists
