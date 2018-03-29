@@ -8,10 +8,6 @@
 // Although the above answer is in lexicographical order, your answer could be in any order you want.
 package leetcode
 
-import (
-	"fmt"
-)
-
 func letterCombinations(digits string) []string {
 	if len(digits) == 0 {
 		return []string{}
@@ -29,18 +25,14 @@ func letterCombinations(digits string) []string {
 
 	for i := 0; i < len(digits); i++ {
 		temp := array[string(digits[i])]
-		// make a copy of the last result
-		resultCopy := make([]string, len(result))
-		copy(resultCopy, result)
-		// important, iterator from the result itself
-		for k := 0; k < len(resultCopy); k++ {
+		// make a empty slice and copy new elements to it
+		newResult := []string{}
+		for k := 0; k < len(result); k++ {
 			for j := 0; j < len(temp); j++ {
-				result = append(result, resultCopy[k]+string(temp[j]))
-				fmt.Println(resultCopy[k] + string(temp[j]))
+				newResult = append(newResult, result[k]+string(temp[j]))
 			}
 		}
-		// remove old elements
-		result = result[len(resultCopy):]
+		result = newResult
 	}
 	return result
 }
