@@ -23,7 +23,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [ ] 18 4Sum
 - [ ] 19 Remove Nth Node From End of List
 - [x] 20 Valid Parentheses
-- [ ] 21 Merge Two Sorted Lists
+- [x] 21 Merge Two Sorted Lists
 - [ ] 22 Generate Parentheses
 - [ ] 23 Merge k Sorted Lists
 - [x] 24 Swap Nodes in Pairs
