@@ -15,7 +15,6 @@ package leetcode
  * }
  */
 func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
-	var head *ListNode
 	if l1 == nil {
 		return l2
 	}
@@ -23,13 +22,9 @@ func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 		return l1
 	}
 	if l2.Val >= l1.Val {
-		temp := l1.Next
-		l1.Next = mergeTwoLists(temp, l2)
-		head = l1
-	} else {
-		temp := l2.Next
-		l2.Next = mergeTwoLists(l1, temp)
-		head = l2
+		l1.Next = mergeTwoLists(l1.Next, l2)
+		return l1
 	}
-	return head
+	l2.Next = mergeTwoLists(l1, l2.Next)
+	return l2
 }
