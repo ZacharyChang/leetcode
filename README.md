@@ -37,7 +37,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [ ] 32 Longest Valid Parentheses
 - [ ] 33 Search in Rotated Sorted Array
 - [ ] 34 Search for a Range
-- [ ] 35 Search Insert Position
+- [x] 35 Search Insert Position
 - [ ] 36 Valid Sudoku
 - [ ] 37 Sudoku Solver
 - [ ] 38 Count and Say
