@@ -3,33 +3,33 @@ This repository is built for the leetcode study. The program language is mainly 
 
 ## TO DO List
 
-- [x] 1 Two Sum
-- [x] 2 Add Two Numbers
-- [x] 3 Longest Substring Without Repeating Characters
+- [x] 1 [Two Sum](https://github.com/ZacharyChang/leetcode/blob/master/problem1.go)
+- [x] 2 [Add Two Numbers](https://github.com/ZacharyChang/leetcode/blob/master/problem2.go)
+- [x] 3 [Longest Substring Without Repeating Characters](https://github.com/ZacharyChang/leetcode/blob/master/problem3.go)
 - [ ] 4 Median of Two Sorted Arrays
-- [x] 5 Longest Palindromic Substring
-- [x] 6 ZigZag Conversion
-- [x] 7 Reverse Integer
+- [x] 5 [Longest Palindromic Substring](https://github.com/ZacharyChang/leetcode/blob/master/problem5.go)
+- [x] 6 [ZigZag Conversion](https://github.com/ZacharyChang/leetcode/blob/master/problem6.go)
+- [x] 7 [Reverse Integer](https://github.com/ZacharyChang/leetcode/blob/master/problem7.go)
 - [ ] 8 String to Integer (atoi)
 - [ ] 9 Palindrome Number
 - [ ] 10 Regular Expression Matching
 - [ ] 11 Container With Most Water
 - [ ] 12 Integer to Roman
 - [ ] 13 Roman to Integer
-- [x] 14 Longest Common Prefix
+- [x] 14 [Longest Common Prefix](https://github.com/ZacharyChang/leetcode/blob/master/problem14.go)
 - [ ] 15 3Sum
 - [ ] 16 3Sum Closest
-- [x] 17 Letter Combinations of a Phone Number
+- [x] 17 [Letter Combinations of a Phone Number](https://github.com/ZacharyChang/leetcode/blob/master/problem17.go)
 - [ ] 18 4Sum
 - [ ] 19 Remove Nth Node From End of List
-- [x] 20 Valid Parentheses
-- [x] 21 Merge Two Sorted Lists
+- [x] 20 [Valid Parentheses](https://github.com/ZacharyChang/leetcode/blob/master/problem20.go)
+- [x] 21 [Merge Two Sorted Lists](https://github.com/ZacharyChang/leetcode/blob/master/problem21.go)
 - [ ] 22 Generate Parentheses
 - [ ] 23 Merge k Sorted Lists
-- [x] 24 Swap Nodes in Pairs
+- [x] 24 [Swap Nodes in Pairs](https://github.com/ZacharyChang/leetcode/blob/master/problem24.go)
 - [ ] 25 Reverse Nodes in k-Group
-- [x] 26 Remove Duplicates from Sorted Array
-- [x] 27 Remove Element
+- [x] 26 [Remove Duplicates from Sorted Array](https://github.com/ZacharyChang/leetcode/blob/master/problem26.go)
+- [x] 27 [Remove Element](https://github.com/ZacharyChang/leetcode/blob/master/problem27.go)
 - [ ] 28 Implement strStr()
 - [ ] 29 Divide Two Integers
 - [ ] 30 Substring with Concatenation of All Words
@@ -37,7 +37,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [ ] 32 Longest Valid Parentheses
 - [ ] 33 Search in Rotated Sorted Array
 - [ ] 34 Search for a Range
-- [x] 35 Search Insert Position
+- [x] 35 [Search Insert Position](https://github.com/ZacharyChang/leetcode/blob/master/problem35.go)
 - [ ] 36 Valid Sudoku
 - [ ] 37 Sudoku Solver
 - [ ] 38 Count and Say
