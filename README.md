@@ -30,7 +30,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [ ] 25 Reverse Nodes in k-Group
 - [x] 26 [Remove Duplicates from Sorted Array](https://github.com/ZacharyChang/leetcode/blob/master/problem26.go)
 - [x] 27 [Remove Element](https://github.com/ZacharyChang/leetcode/blob/master/problem27.go)
-- [ ] 28 Implement strStr()
+- [x] 28 [Implement strStr()](https://github.com/ZacharyChang/leetcode/blob/master/problem28.go)
 - [ ] 29 Divide Two Integers
 - [ ] 30 Substring with Concatenation of All Words
 - [ ] 31 Next Permutation
