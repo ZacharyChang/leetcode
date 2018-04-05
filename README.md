@@ -36,7 +36,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [ ] 31 Next Permutation
 - [ ] 32 Longest Valid Parentheses
 - [ ] 33 Search in Rotated Sorted Array
-- [ ] 34 Search for a Range
+- [x] 34 [Search for a Range](https://github.com/ZacharyChang/leetcode/blob/master/problem34.go)
 - [x] 35 [Search Insert Position](https://github.com/ZacharyChang/leetcode/blob/master/problem35.go)
 - [ ] 36 Valid Sudoku
 - [ ] 37 Sudoku Solver
