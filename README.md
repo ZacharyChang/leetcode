@@ -51,5 +51,5 @@ This repository is built for the leetcode study. The program language is mainly 
 - [x] 46 [Permutations](https://github.com/ZacharyChang/leetcode/blob/master/problem46.go)
 - [ ] 47 [Permutations II]https://github.com/ZacharyChang/leetcode/blob/master/problem47.go)
 - [ ] 48 Rotate Image
-- [ ] 49 Group Anagrams
+- [x] 49 [Group Anagrams](https://github.com/ZacharyChang/leetcode/blob/master/problem49.go)
 - [ ] 50 Pow(x, n)
