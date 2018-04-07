@@ -48,7 +48,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [ ] 43 Multiply Strings
 - [ ] 44 Wildcard Matching
 - [ ] 45 Jump Game II
-- [ ] 46 Permutations
+- [x] 46 [Permutations](https://github.com/ZacharyChang/leetcode/blob/master/problem46.go)
 - [ ] 47 Permutations II
 - [ ] 48 Rotate Image
 - [ ] 49 Group Anagrams
