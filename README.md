@@ -40,7 +40,7 @@ This repository is built for the leetcode study. The program language is mainly 
 - [x] 35 [Search Insert Position](https://github.com/ZacharyChang/leetcode/blob/master/problem35.go)
 - [ ] 36 Valid Sudoku
 - [ ] 37 Sudoku Solver
-- [ ] 38 Count and Say
+- [x] 38 [Count and Say](https://github.com/ZacharyChang/leetcode/blob/master/problem38.go)
 - [ ] 39 Combination Sum
 - [ ] 40 Combination Sum II
 - [ ] 41 First Missing Positive
