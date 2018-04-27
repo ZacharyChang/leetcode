@@ -11,6 +11,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Golang](https://github.com/ZacharyChang/leetcode/blob/master/problem5.go)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[Golang](https://github.com/ZacharyChang/leetcode/blob/master/problem6.go)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Golang](https://github.com/ZacharyChang/leetcode/blob/master/problem7.go)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Golang](https://github.com/ZacharyChang/leetcode/blob/master/problem13.go)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Golang](https://github.com/ZacharyChang/leetcode/blob/master/problem14.go)|Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Golang](https://github.com/ZacharyChang/leetcode/blob/master/problem17.go)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Golang](https://github.com/ZacharyChang/leetcode/blob/master/problem19.go)|Medium|
