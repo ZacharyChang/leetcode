@@ -27,6 +27,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/046.permutations)|Medium|Backtracking|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/047.permutations-ii)|Medium|Backtracking|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/049.group-anagrams)|Medium|HashTable, String|
+|66|[Plus One](https://leetcode.com/problems/plus-one)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/066.plus-one)|Easy|Array, Math|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/050.powx-n)|Medium|Math, BinarySearch|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|Array, BinarySearch|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|Tree, DepthFirstSearch|
