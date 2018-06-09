@@ -31,4 +31,5 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/050.powx-n)|Medium|Math, BinarySearch|
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/055.jump-game)|Medium|Array, Greedy|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|Array, BinarySearch|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|Array, TwoPointers|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|Tree, DepthFirstSearch|
