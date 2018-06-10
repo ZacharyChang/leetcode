@@ -21,6 +21,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/026.remove-duplicates-from-sorted-array)|Easy|Array, TwoPointers|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/027.remove-element)|Easy|Array, TwoPointers|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/028.implement-strstr)|Easy|TwoPointers, String|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/033.search-in-rotated-sorted-array)|Medium|Array, BinarySearch|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/034.search-for-a-range)|Medium|Array, BinarySearch|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/035.search-insert-position)|Easy|Array, BinarySearch|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/038.count-and-say)|Easy|String|
