@@ -35,3 +35,4 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|Array, BinarySearch|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|Array, TwoPointers|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|Tree, DepthFirstSearch|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/287.find-the-duplicate-number)|Medium|Array, TwoPointers, BinarySearch|
