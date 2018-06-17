@@ -35,6 +35,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|Array, BinarySearch|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|Array, TwoPointers|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|Tree, DepthFirstSearch|
+|121|[Path Sum](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/121.best-time-to-buy-and-sell-stock)|Easy|Array, DynamicProgramming|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/217.contains-duplicate)|Easy|Array, HashTable|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/219.contains-duplicate-ii)|Easy|Array, HashTable|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/238.product-of-array-except-self)|Medium|Array|
