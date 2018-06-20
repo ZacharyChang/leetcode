@@ -12,6 +12,7 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/055.jump-game)|Medium|[Array], Greedy|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|[Array], BinarySearch|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|[Array], TwoPointers|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/118.pascals-triangle)|Easy|Array|
 |121|[Path Sum](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/121.best-time-to-buy-and-sell-stock)|Easy|[Array], DynamicProgramming|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/153.find-minimum-in-rotated-sorted-array)|Medium|[Array], BinarySearch|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/162.find-peak-element)|Medium|[Array], BinarySearch|
