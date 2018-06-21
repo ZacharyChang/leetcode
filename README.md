@@ -35,8 +35,8 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|[Array], BinarySearch|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|[Array], TwoPointers|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|Tree, DepthFirstSearch|
-|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/118.pascals-triangle)|Easy|Array|
-|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/119.pascals-triangle-ii)|Easy|Array|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/118.pascals-triangle)|Easy|[Array]|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/119.pascals-triangle-ii)|Easy|[Array]|
 |121|[Path Sum](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/121.best-time-to-buy-and-sell-stock)|Easy|[Array], DynamicProgramming|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/153.find-minimum-in-rotated-sorted-array)|Medium|[Array], BinarySearch|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/162.find-peak-element)|Medium|[Array], BinarySearch|
