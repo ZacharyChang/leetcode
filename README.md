@@ -27,11 +27,12 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/038.count-and-say)|Easy|String|
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/046.permutations)|Medium|Backtracking|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/047.permutations-ii)|Medium|Backtracking|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/048.rotate-image)|Medium|[Array]|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/049.group-anagrams)|Medium|HashTable, String|
-|66|[Plus One](https://leetcode.com/problems/plus-one)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/066.plus-one)|Easy|[Array], Math|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/050.powx-n)|Medium|Math, BinarySearch|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/053.maximum-subarray)|Easy|[Array], DivideAndConquer, Dynamic Programming|
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/055.jump-game)|Medium|[Array], Greedy|
+|66|[Plus One](https://leetcode.com/problems/plus-one)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/066.plus-one)|Easy|[Array], Math|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|[Array], BinarySearch|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|[Array], TwoPointers|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|Tree, DepthFirstSearch|

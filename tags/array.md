@@ -7,9 +7,10 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/033.search-in-rotated-sorted-array)|Medium|[Array], BinarySearch|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/034.search-for-a-range)|Medium|[Array], BinarySearch|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/035.search-insert-position)|Easy|[Array], BinarySearch|
-|66|[Plus One](https://leetcode.com/problems/plus-one)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/066.plus-one)|Easy|[Array], Math|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/048.rotate-image)|Medium|[Array]|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/053.maximum-subarray)|Easy|[Array], DivideAndConquer, Dynamic Programming|
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/055.jump-game)|Medium|[Array], Greedy|
+|66|[Plus One](https://leetcode.com/problems/plus-one)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/066.plus-one)|Easy|[Array], Math|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|[Array], BinarySearch|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|[Array], TwoPointers|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/118.pascals-triangle)|Easy|[Array]|
