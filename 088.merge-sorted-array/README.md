@@ -15,6 +15,6 @@ nums2 = ```[2,5,6], n = 3```
 Output: ```[1,2,2,3,5,6]```
 
 ## Tags
-**[Arrary](https://leetcode.com/tag/array)**
+**[Array](https://leetcode.com/tag/array)**
 
 **[Tow Pointers](https://leetcode.com/tag/two-pointers)**
