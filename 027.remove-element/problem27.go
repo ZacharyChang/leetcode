@@ -16,10 +16,6 @@ Your function should return length = 2, with the first two elements of nums bein
 
 package leetcode
 
-import (
-	"fmt"
-)
-
 func removeElement(nums []int, val int) int {
 	length := len(nums)
 	for i := 0; i < len(nums); {
@@ -30,6 +26,5 @@ func removeElement(nums []int, val int) int {
 			i++
 		}
 	}
-	fmt.Println("[Test]", nums)
 	return length
 }

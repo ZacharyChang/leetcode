@@ -63,7 +63,7 @@ func Test_canJump(t *testing.T) {
 					0, 2, 3,
 				},
 			},
-			true,
+			false,
 		},
 	}
 	for _, tt := range tests {

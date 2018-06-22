@@ -1,15 +1,8 @@
 package leetcode
 
 import (
-	"fmt"
 	"testing"
 )
-
-func TestRemoveElement(t *testing.T) {
-	nums := []int{3, 2, 2, 3}
-	fmt.Println(removeElement(nums, 3))
-	t.Log(removeElement(nums, 3))
-}
 
 func Test_removeElement(t *testing.T) {
 	type args struct {

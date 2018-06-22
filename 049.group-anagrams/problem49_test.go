@@ -20,8 +20,8 @@ func Test_groupAnagrams(t *testing.T) {
 				[]string{"eat", "tea", "tan", "ate", "nat", "bat"},
 			},
 			[][]string{
-				{"ate", "eat", "tea"},
-				{"nat", "tan"},
+				{"eat", "tea", "ate"},
+				{"tan", "nat"},
 				{"bat"},
 			},
 		},

@@ -33,7 +33,7 @@ func Test_merge(t *testing.T) {
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
 			fmt.Println("befroe: ", tt.args.nums1)
-			merge_2(tt.args.nums1, tt.args.m, tt.args.nums2, tt.args.n)
+			merge(tt.args.nums1, tt.args.m, tt.args.nums2, tt.args.n)
 			fmt.Println("after: ", tt.args.nums1)
 		})
 	}
