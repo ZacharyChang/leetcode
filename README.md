@@ -1,6 +1,10 @@
 # leetcode
 This repository is built for the [leetcode](https://leetcode.com) study. 
 
+[![Build Status](https://travis-ci.org/ZacharyChang/leetcode.svg?branch=master)](https://travis-ci.org/ZacharyChang/leetcode)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ZacharyChang/leetcode)](https://goreportcard.com/report/github.com/ZacharyChang/leetcode)
+[![codecov](https://codecov.io/gh/ZacharyChang/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/ZacharyChang/leetcode)
+
 ## Algorithm
 
 |#|Title|Language|Difficulty|Tags|
