@@ -5,5 +5,5 @@ go:
   - "1.9"
   - "1.10"
 
-  after_success:
+after_success:
   - bash <(curl -s https://codecov.io/bash)
