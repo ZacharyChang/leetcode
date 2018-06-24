@@ -28,9 +28,28 @@ func Test_groupAnagrams(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := groupAnagrams(tt.args.strs); !reflect.DeepEqual(got, tt.want) {
+			if got := groupAnagrams(tt.args.strs); !hasSameElement(got, tt.want) {
 				t.Errorf("groupAnagrams() = %v, want %v", got, tt.want)
 			}
 		})
 	}
+}
+
+func hasSameElement(a [][]string, b [][]string) bool {
+	if len(a) != len(b) {
+		return false
+	}
+	for i := 0; i < len(a); i++ {
+		flag := false
+		for j := 0; j < len(b); j++ {
+			if reflect.DeepEqual(a[i], b[j]) {
+				flag = true
+				break
+			}
+		}
+		if !flag {
+			return false
+		}
+	}
+	return true
 }
