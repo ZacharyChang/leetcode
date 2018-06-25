@@ -37,6 +37,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/053.maximum-subarray)|Easy|[Array], DivideAndConquer, Dynamic Programming|
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/055.jump-game)|Medium|[Array], Greedy|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/066.plus-one)|Easy|[Array], Math|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/073.set-matrix-zeroes)|Medium|[Array]|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|[Array], BinarySearch|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/075.sort-colors)|Medium|[Array], TwoPointers, Sort|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|[Array], TwoPointers|
