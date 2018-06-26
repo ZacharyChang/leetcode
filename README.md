@@ -34,7 +34,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/048.rotate-image)|Medium|[Array]|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/049.group-anagrams)|Medium|HashTable, String|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/050.powx-n)|Medium|Math, BinarySearch|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/053.maximum-subarray)|Easy|[Array], DivideAndConquer, Dynamic Programming|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/053.maximum-subarray)|Easy|[Array], DivideAndConquer, DynamicProgramming|
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/055.jump-game)|Medium|[Array], Greedy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/064.minimum-path-sum)|Medium|[Array], DynamicProgramming|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/066.plus-one)|Easy|[Array], Math|
@@ -50,6 +50,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/153.find-minimum-in-rotated-sorted-array)|Medium|[Array], BinarySearch|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/162.find-peak-element)|Medium|[Array], BinarySearch|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/189.rotate-array)|Easy|[Array]|
+|198|[House Robber](https://leetcode.com/problems/house-robber)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/198.house-robber)|Easy|DynamicProgramming|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/217.contains-duplicate)|Easy|[Array], HashTable|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/219.contains-duplicate-ii)|Easy|[Array], HashTable|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/238.product-of-array-except-self)|Medium|[Array]|
