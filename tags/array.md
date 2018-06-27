@@ -27,6 +27,8 @@
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/219.contains-duplicate-ii)|Easy|[Array], HashTable|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/238.product-of-array-except-self)|Medium|[Array]|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/287.find-the-duplicate-number)|Medium|[Array], TwoPointers, BinarySearch|
+|289|[Game of Life](https://leetcode.com/problems/game-of-life)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/289.game-of-life)|Medium|[Array]|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/414.third-maximum-number)|Easy|[Array]|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],DynamicProgramming|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
