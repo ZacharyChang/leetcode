@@ -51,6 +51,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/162.find-peak-element)|Medium|[Array], BinarySearch|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/189.rotate-array)|Easy|[Array]|
 |198|[House Robber](https://leetcode.com/problems/house-robber)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/198.house-robber)|Easy|[DynamicProgramming]|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/213.house-robber-ii)|Medium|[DynamicProgramming]|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/217.contains-duplicate)|Easy|[Array], HashTable|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/219.contains-duplicate-ii)|Easy|[Array], HashTable|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/238.product-of-array-except-self)|Medium|[Array]|
