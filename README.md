@@ -36,6 +36,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/050.powx-n)|Medium|Math, BinarySearch|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/053.maximum-subarray)|Easy|[Array], DivideAndConquer, [DynamicProgramming]|
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/055.jump-game)|Medium|[Array], Greedy|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/062.unique-paths)|Medium|[Array], [DynamicProgramming]|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/063.unique-paths-ii)|Medium|[Array], [DynamicProgramming]|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/064.minimum-path-sum)|Medium|[Array], [DynamicProgramming]|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/066.plus-one)|Easy|[Array], Math|
@@ -59,6 +60,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/238.product-of-array-except-self)|Medium|[Array]|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/263.ugly-number)|Easy|Math|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/264.ugly-number-ii)|Medium|Math, [DynamicProgramming], Heap|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/279.perfect-squares)|Medium|Math, [DynamicProgramming], BreadthFirstSearch|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/287.find-the-duplicate-number)|Medium|[Array], TwoPointers, BinarySearch|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/289.game-of-life)|Medium|[Array]|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/303.range-sum-query-immutable)|Easy|[DynamicProgramming]|

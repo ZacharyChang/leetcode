@@ -13,6 +13,7 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/198.house-robber)|Easy|[DynamicProgramming]|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/213.house-robber-ii)|Medium|[DynamicProgramming]|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/264.ugly-number-ii)|Medium|Math, [DynamicProgramming], Heap|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/279.perfect-squares)|Medium|Math, [DynamicProgramming], BreadthFirstSearch|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/303.range-sum-query-immutable)|Easy|[DynamicProgramming]|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],[DynamicProgramming]|
 
