@@ -16,6 +16,7 @@
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/279.perfect-squares)|Medium|Math, [DynamicProgramming], BreadthFirstSearch|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/303.range-sum-query-immutable)|Easy|[DynamicProgramming]|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/304.range-sum-query-2d-immutable)|Medium|[DynamicProgramming]|
+|343|[Integer Break](https://leetcode.com/problems/integer-break)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/343.integer-break)|Medium|Math, [DynamicProgramming]|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],[DynamicProgramming]|
 
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md

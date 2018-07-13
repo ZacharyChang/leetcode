@@ -65,6 +65,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |289|[Game of Life](https://leetcode.com/problems/game-of-life)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/289.game-of-life)|Medium|[Array]|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/303.range-sum-query-immutable)|Easy|[DynamicProgramming]|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/304.range-sum-query-2d-immutable)|Medium|[DynamicProgramming]|
+|343|[Integer Break](https://leetcode.com/problems/integer-break)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/343.integer-break)|Medium|Math, [DynamicProgramming]|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/414.third-maximum-number)|Easy|[Array]|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],[DynamicProgramming]|
 
