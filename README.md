@@ -57,6 +57,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/213.house-robber-ii)|Medium|[DynamicProgramming]|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/217.contains-duplicate)|Easy|[Array], HashTable|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/219.contains-duplicate-ii)|Easy|[Array], HashTable|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/221.maximal-square)|Medium|[DynamicProgramming]|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/238.product-of-array-except-self)|Medium|[Array]|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/263.ugly-number)|Easy|Math|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/264.ugly-number-ii)|Medium|Math, [DynamicProgramming], Heap|
