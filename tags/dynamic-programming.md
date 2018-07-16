@@ -18,6 +18,7 @@
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/303.range-sum-query-immutable)|Easy|[DynamicProgramming]|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/304.range-sum-query-2d-immutable)|Medium|[DynamicProgramming]|
 |343|[Integer Break](https://leetcode.com/problems/integer-break)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/343.integer-break)|Medium|Math, [DynamicProgramming]|
+|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/357.count-numbers-with-unique-digits)|Medium|Math, [DynamicProgramming], Backtracking|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],[DynamicProgramming]|
 
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
