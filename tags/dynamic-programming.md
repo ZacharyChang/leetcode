@@ -17,6 +17,7 @@
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/279.perfect-squares)|Medium|Math, [DynamicProgramming], BreadthFirstSearch|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/303.range-sum-query-immutable)|Easy|[DynamicProgramming]|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/304.range-sum-query-2d-immutable)|Medium|[DynamicProgramming]|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/338.counting-bits)|Medium|[DynamicProgramming], BitManipulation|
 |343|[Integer Break](https://leetcode.com/problems/integer-break)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/343.integer-break)|Medium|Math, [DynamicProgramming]|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/357.count-numbers-with-unique-digits)|Medium|Math, [DynamicProgramming], Backtracking|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/376.wiggle-subsequence)|Medium|[DynamicProgramming], Greedy|
