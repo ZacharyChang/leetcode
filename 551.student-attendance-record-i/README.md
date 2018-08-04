@@ -16,7 +16,7 @@ Input: "PPALLP"
 Output: True
 ```
 
-### Example 1
+### Example 2
 ```
 Input: "PPALLL"
 Output: False
