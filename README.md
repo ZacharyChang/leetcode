@@ -73,6 +73,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/344.reverse-string)|Easy|TwoPointers, String|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/357.count-numbers-with-unique-digits)|Medium|Math, [DynamicProgramming], Backtracking|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/376.wiggle-subsequence)|Medium|[DynamicProgramming], Greedy|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/383.ransom-note)|Easy|String|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|BinarySearch, [DynamicProgramming], Greedy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/413.arithmetic-slices)|Medium|Math, [DynamicProgramming]|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/414.third-maximum-number)|Easy|[Array]|
