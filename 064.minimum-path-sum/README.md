@@ -19,6 +19,6 @@ Explanation: Because the path 1→3→1→1→1 minimizes the sum.
 ```
 
 ## Tags
-**[Arrary](https://leetcode.com/tag/array)**
+**[Array](https://leetcode.com/tag/array)**
 
 **[Dynamic Programming](https://leetcode.com/tag/dynamic-programming)**

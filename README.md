@@ -40,6 +40,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/063.unique-paths-ii)|Medium|[Array], [DynamicProgramming]|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/064.minimum-path-sum)|Medium|[Array], [DynamicProgramming]|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/066.plus-one)|Easy|[Array], Math|
+|67|[Add Binary](https://leetcode.com/problems/add-binary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/067.add-binary)|Easy|Math, String|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/073.set-matrix-zeroes)|Medium|[Array]|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|[Array], BinarySearch|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/075.sort-colors)|Medium|[Array], TwoPointers, Sort|
