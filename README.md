@@ -55,6 +55,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/152.maximum-product-subarray)|Medium|[Array], [DynamicProgramming]|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/153.find-minimum-in-rotated-sorted-array)|Medium|[Array], BinarySearch|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/162.find-peak-element)|Medium|[Array], BinarySearch|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/171.excel-sheet-column-number)|Easy|Math|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/172.factorial-trailing-zeroes)|Easy|Math|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/189.rotate-array)|Easy|[Array]|
 |198|[House Robber](https://leetcode.com/problems/house-robber)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/198.house-robber)|Easy|[DynamicProgramming]|
