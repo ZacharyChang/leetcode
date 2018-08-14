@@ -23,6 +23,6 @@ cost will have a length in the range ```[2, 1000]```.
 Every ```cost[i]``` will be an integer in the range ```[0, 999]```.
 
 ## Tags
-**[Arrary](https://leetcode.com/tag/array)**
+**[Array](https://leetcode.com/tag/array)**
 
 **[Dynamic Programming](https://leetcode.com/tag/dynamic-programming)**
