@@ -81,6 +81,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|BinarySearch, [DynamicProgramming], Greedy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/413.arithmetic-slices)|Medium|Math, [DynamicProgramming]|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/414.third-maximum-number)|Easy|[Array]|
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/441.arranging-coins)|Easy|Math, BinarySearch|
 |443|[String Compression](https://leetcode.com/problems/string-compression)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/443.string-compression)|Easy|String|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/453.minimum-moves-to-equal-array-elements)|Easy|Math|
 |459|[Third Maximum Number](https://leetcode.com/problems/repeated-substring-pattern)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/459.repeated-substring-pattern)|Easy|string|
