@@ -36,6 +36,52 @@ func Test_searchMatrix(t *testing.T) {
 			},
 			false,
 		},
+		{
+			"[Test Case 3]",
+			args{
+				[][]int{},
+				4,
+			},
+			false,
+		},
+		{
+			"[Test Case 4]",
+			args{
+				[][]int{
+					{},
+				},
+				2,
+			},
+			false,
+		},
+		{
+			"[Test Case 5]",
+			args{
+				[][]int{
+					{1, 4, 7, 11, 15},
+					{2, 5, 8, 12, 19},
+					{3, 6, 9, 16, 22},
+					{10, 13, 14, 17, 24},
+					{18, 21, 23, 26, 30},
+				},
+				3,
+			},
+			true,
+		},
+		{
+			"[Test Case 6]",
+			args{
+				[][]int{
+					{1, 4, 7, 11, 15},
+					{2, 5, 8, 12, 19},
+					{3, 6, 9, 16, 22},
+					{10, 13, 14, 17, 24},
+					{18, 21, 23, 26, 30},
+				},
+				7,
+			},
+			true,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
