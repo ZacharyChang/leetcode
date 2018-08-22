@@ -28,9 +28,9 @@ func Test_searchInsert(t *testing.T) {
 				[]int{
 					1, 3, 5, 6,
 				},
-				2,
+				4,
 			},
-			1,
+			2,
 		},
 		{
 			"[Test Case 3]",
@@ -38,17 +38,45 @@ func Test_searchInsert(t *testing.T) {
 				[]int{
 					1, 3, 5, 6,
 				},
-				7,
+				2,
+			},
+			1,
+		},
+		{
+			"[Test Case 4]",
+			args{
+				[]int{
+					1, 3, 5, 6,
+				},
+				0,
+			},
+			0,
+		},
+		{
+			"[Test Case 5]",
+			args{
+				[]int{
+					1, 3, 5, 6,
+				},
+				8,
 			},
 			4,
 		},
 		{
-			"[Test Case 3]",
+			"[Test Case 6]",
 			args{
 				[]int{
-					1, 3, 5, 0,
+					1, 3,
 				},
-				0,
+				1,
+			},
+			0,
+		},
+		{
+			"[Test Case 67]",
+			args{
+				[]int{},
+				1,
 			},
 			0,
 		},
