@@ -102,3 +102,4 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
 [Math]: https://github.com/ZacharyChang/leetcode/tree/master/tags/math.md
+[BinarySearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/binary-search.md
