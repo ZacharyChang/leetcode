@@ -16,6 +16,6 @@ Input: [4,5,6,7,0,1,2]
 Output: 0
 
 ## Tags
-**[Arrary](https://leetcode.com/tag/array)**
+**[Array](https://leetcode.com/tag/array)**
 
 **[Binary Search](https://leetcode.com/tag/binary-search)**
