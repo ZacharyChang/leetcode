@@ -8,11 +8,9 @@ func findMin(nums []int) int {
 	end := len(nums) - 1
 	for start < end-1 {
 		mid := (start + end) / 2
-		if nums[mid] > nums[start] && nums[mid] < nums[end] { // nums[start:end+1]为递增顺序(无pivot)
-			return nums[start]
-		} else if nums[mid] < nums[start] && nums[mid] < nums[end] { // pivot在nums[mid]左侧或恰好为nums[mid]
+		if nums[mid] < nums[end] { // pivot在mid左侧
 			end = mid
-		} else if nums[mid] > nums[start] && nums[mid] > nums[end] { // pivot在nums[mid]右侧
+		} else if nums[mid] > nums[end] { // pivot在mid右侧
 			start = mid
 		}
 	}
