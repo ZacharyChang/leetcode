@@ -25,15 +25,15 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/026.remove-duplicates-from-sorted-array)|Easy|[Array], TwoPointers|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/027.remove-element)|Easy|[Array], TwoPointers|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/028.implement-strstr)|Easy|TwoPointers, String|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/033.search-in-rotated-sorted-array)|Medium|[Array], BinarySearch|
-|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/034.search-for-a-range)|Medium|[Array], BinarySearch|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/035.search-insert-position)|Easy|[Array], BinarySearch|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/033.search-in-rotated-sorted-array)|Medium|[Array], [BinarySearch]|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/034.search-for-a-range)|Medium|[Array], [BinarySearch]|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/035.search-insert-position)|Easy|[Array], [BinarySearch]|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/038.count-and-say)|Easy|String|
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/046.permutations)|Medium|Backtracking|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/047.permutations-ii)|Medium|Backtracking|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/048.rotate-image)|Medium|[Array]|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/049.group-anagrams)|Medium|HashTable, String|
-|50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/050.powx-n)|Medium|[Math], BinarySearch|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/050.powx-n)|Medium|[Math], [BinarySearch]|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/053.maximum-subarray)|Easy|[Array], DivideAndConquer, [DynamicProgramming]|
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/055.jump-game)|Medium|[Array], Greedy|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/062.unique-paths)|Medium|[Array], [DynamicProgramming]|
@@ -43,7 +43,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |67|[Add Binary](https://leetcode.com/problems/add-binary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/067.add-binary)|Easy|[Math], String|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/071.simplify-path)|Medium|String, Stack|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/073.set-matrix-zeroes)|Medium|[Array]|
-|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|[Array], BinarySearch|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|[Array], [BinarySearch]|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/075.sort-colors)|Medium|[Array], TwoPointers, Sort|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|[Array], TwoPointers|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|Tree, DepthFirstSearch|
@@ -55,7 +55,8 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/152.maximum-product-subarray)|Medium|[Array], [DynamicProgramming]|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/153.find-minimum-in-rotated-sorted-array)|Medium|[Array], [BinarySearch]|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/154.find-minimum-in-rotated-sorted-array-ii)|Hard|[Array], [BinarySearch]|
-|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/162.find-peak-element)|Medium|[Array], BinarySearch|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/162.find-peak-element)|Medium|[Array], [BinarySearch]|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/167.two-sum-ii-input-array-is-sorted)|Easy|[Array], TwoPointers, [BinarySearch]|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/171.excel-sheet-column-number)|Easy|[Math]|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/172.factorial-trailing-zeroes)|Easy|[Math]|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/189.rotate-array)|Easy|[Array]|
@@ -68,7 +69,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/263.ugly-number)|Easy|[Math]|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/264.ugly-number-ii)|Medium|[Math], [DynamicProgramming], Heap|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/279.perfect-squares)|Medium|[Math], [DynamicProgramming], BreadthFirstSearch|
-|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/287.find-the-duplicate-number)|Medium|[Array], TwoPointers, BinarySearch|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/287.find-the-duplicate-number)|Medium|[Array], TwoPointers, [BinarySearch]|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/289.game-of-life)|Medium|[Array]|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/303.range-sum-query-immutable)|Easy|[DynamicProgramming]|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/304.range-sum-query-2d-immutable)|Medium|[DynamicProgramming]|
@@ -79,10 +80,10 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/357.count-numbers-with-unique-digits)|Medium|[Math], [DynamicProgramming], Backtracking|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/376.wiggle-subsequence)|Medium|[DynamicProgramming], Greedy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/383.ransom-note)|Easy|String|
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|BinarySearch, [DynamicProgramming], Greedy|
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|[BinarySearch], [DynamicProgramming], Greedy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/413.arithmetic-slices)|Medium|[Math], [DynamicProgramming]|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/414.third-maximum-number)|Easy|[Array]|
-|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/441.arranging-coins)|Easy|[Math], BinarySearch|
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/441.arranging-coins)|Easy|[Math], [BinarySearch]|
 |443|[String Compression](https://leetcode.com/problems/string-compression)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/443.string-compression)|Easy|String|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/453.minimum-moves-to-equal-array-elements)|Easy|[Math]|
 |459|[Third Maximum Number](https://leetcode.com/problems/repeated-substring-pattern)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/459.repeated-substring-pattern)|Easy|string|
