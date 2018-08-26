@@ -67,6 +67,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/219.contains-duplicate-ii)|Easy|[Array], HashTable|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/221.maximal-square)|Medium|[DynamicProgramming]|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/238.product-of-array-except-self)|Medium|[Array]|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/240.search-a-2d-matrix-ii)|Medium|[BinarySearch], DivideAndConquer|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/263.ugly-number)|Easy|[Math]|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/264.ugly-number-ii)|Medium|[Math], [DynamicProgramming], Heap|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/279.perfect-squares)|Medium|[Math], [DynamicProgramming], BreadthFirstSearch|
@@ -79,6 +80,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/345.reverse-vowels-of-a-string)|Medium|TwoPointers, String|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/344.reverse-string)|Easy|TwoPointers, String|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/357.count-numbers-with-unique-digits)|Medium|[Math], [DynamicProgramming], Backtracking|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/367.valid-perfect-square)|Easy|[Math], [BinarySearch]|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/376.wiggle-subsequence)|Medium|[DynamicProgramming], Greedy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/383.ransom-note)|Easy|String|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|[BinarySearch], [DynamicProgramming], Greedy|
