@@ -46,6 +46,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/073.set-matrix-zeroes)|Medium|[Array]|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/074.search-a-2d-matrix)|Medium|[Array], [BinarySearch]|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/075.sort-colors)|Medium|[Array], TwoPointers, Sort|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/081.search-in-rotated-sorted-array-ii)|Medium|[Array], [BinarySearch]|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|[Array], TwoPointers|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|Tree, DepthFirstSearch|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/118.pascals-triangle)|Easy|[Array]|
