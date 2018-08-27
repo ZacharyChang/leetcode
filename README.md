@@ -80,6 +80,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |343|[Integer Break](https://leetcode.com/problems/integer-break)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/343.integer-break)|Medium|[Math], [DynamicProgramming]|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/345.reverse-vowels-of-a-string)|Medium|TwoPointers, String|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/344.reverse-string)|Easy|TwoPointers, String|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/349.intersection-of-two-arrays)|Easy|HashTable, TwoPointers, [BinarySearch], Sort|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/357.count-numbers-with-unique-digits)|Medium|[Math], [DynamicProgramming], Backtracking|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/367.valid-perfect-square)|Easy|[Math], [BinarySearch]|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/376.wiggle-subsequence)|Medium|[DynamicProgramming], Greedy|

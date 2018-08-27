@@ -15,6 +15,7 @@
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/167.two-sum-ii-input-array-is-sorted)|Easy|[Array], TwoPointers, [BinarySearch]|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/240.search-a-2d-matrix-ii)|Medium|[BinarySearch], DivideAndConquer|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/287.find-the-duplicate-number)|Medium|[Array], TwoPointers, [BinarySearch]|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/349.intersection-of-two-arrays)|Easy|HashTable, TwoPointers, [BinarySearch], Sort|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/367.valid-perfect-square)|Easy|[Math], [BinarySearch]|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|BinarySearch, [DynamicProgramming], Greedy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/441.arranging-coins)|Easy|[Math], [BinarySearch]|
