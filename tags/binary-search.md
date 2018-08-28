@@ -19,8 +19,9 @@
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/367.valid-perfect-square)|Easy|[Math], [BinarySearch]|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|BinarySearch, [DynamicProgramming], Greedy|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/441.arranging-coins)|Easy|[Math], [BinarySearch]|
-
+|744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/744.find-smallest-letter-greater-than-target)|Easy|[BinarySearch]|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
 [Math]: https://github.com/ZacharyChang/leetcode/tree/master/tags/math.md
+[BinarySearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/binary-search.md
