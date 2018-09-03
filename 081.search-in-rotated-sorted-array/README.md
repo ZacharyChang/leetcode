@@ -21,7 +21,7 @@ Input: nums = ```[4,5,6,7,0,1,2]```, target = ```3```
 Output: ```-1```
 
 ## Tags
-**[Arrary](https://leetcode.com/tag/array)**
+**[Array](https://leetcode.com/tag/array)**
 
 **[Binary Search](https://leetcode.com/tag/binary-search)**
 
