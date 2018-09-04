@@ -19,6 +19,7 @@
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/075.sort-colors)|Medium|[Array], TwoPointers, Sort|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/081.search-in-rotated-sorted-array-ii)|Medium|[Array], [BinarySearch]|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|[Array], TwoPointers|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/105.construct-binary-tree-from-preorder-and-inorder-traversal)|Meidum|[Arrat], Tree, DepthFirstSearch|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/118.pascals-triangle)|Easy|[Array]|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/119.pascals-triangle-ii)|Easy|[Array]|
 |120|[Triangle](https://leetcode.com/problems/triangle)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/120.triangle)|Medium|[Array], DynamicProgramming|
