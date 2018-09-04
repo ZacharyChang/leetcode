@@ -48,9 +48,9 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/075.sort-colors)|Medium|[Array], TwoPointers, Sort|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/081.search-in-rotated-sorted-array-ii)|Medium|[Array], [BinarySearch]|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|[Array], TwoPointers|
-|100|[Same Tree](https://leetcode.com/problems/same-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/100.same-tree)|Easy|Tree, DepthFirstSearch|
-|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/105.construct-binary-tree-from-preorder-and-inorder-traversal)|Meidum|[Array], Tree, DepthFirstSearch|
-|112|[Path Sum](https://leetcode.com/problems/path-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|Tree, DepthFirstSearch|
+|100|[Same Tree](https://leetcode.com/problems/same-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/100.same-tree)|Easy|[Tree], DepthFirstSearch|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/105.construct-binary-tree-from-preorder-and-inorder-traversal)|Meidum|[Array], [Tree], DepthFirstSearch|
+|112|[Path Sum](https://leetcode.com/problems/path-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|[Tree], DepthFirstSearch|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/118.pascals-triangle)|Easy|[Array]|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/119.pascals-triangle-ii)|Easy|[Array]|
 |120|[Triangle](https://leetcode.com/problems/triangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/120.triangle)|Medium|[Array], DynamicProgramming|
@@ -116,3 +116,4 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
 [Math]: https://github.com/ZacharyChang/leetcode/tree/master/tags/math.md
 [BinarySearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/binary-search.md
+[Tree]: https://github.com/ZacharyChang/leetcode/tree/master/tags/tree.md

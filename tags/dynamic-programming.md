@@ -27,4 +27,8 @@
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/650.2-keys-keyboard)|Medium|[DynamicProgramming]|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],[DynamicProgramming]|
 
+[Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
+[Math]: https://github.com/ZacharyChang/leetcode/tree/master/tags/math.md
+[BinarySearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/binary-search.md
+[Tree]: https://github.com/ZacharyChang/leetcode/tree/master/tags/tree.md

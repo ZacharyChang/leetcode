@@ -27,3 +27,5 @@
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
 [Math]: https://github.com/ZacharyChang/leetcode/tree/master/tags/math.md
+[BinarySearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/binary-search.md
+[Tree]: https://github.com/ZacharyChang/leetcode/tree/master/tags/tree.mds
