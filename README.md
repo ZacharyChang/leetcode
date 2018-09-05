@@ -111,7 +111,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/728.self-dividing-numbers)|Easy|[Math]|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/744.find-smallest-letter-greater-than-target)|Easy|[BinarySearch]|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],[DynamicProgramming]|
-|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/852.peak-index-in-a-mountain-array|Easy|[BinarySearch]|
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/852.peak-index-in-a-mountain-array)|Easy|[BinarySearch]|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
