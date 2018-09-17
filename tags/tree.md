@@ -15,6 +15,7 @@
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/113.path-sum-ii)|Medium|[Tree], DepthFirstSearch|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/226.invert-binary-tree)|Easy|[Tree]|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/257.binary-tree-paths)|Easy|[Tree], DepthFirstSearch|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/404.sum-of-left-leaves)|Medium|[Tree]|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md

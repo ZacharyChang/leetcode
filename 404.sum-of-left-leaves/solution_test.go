@@ -1,18 +1,15 @@
 package leetcode
 
-import (
-	"reflect"
-	"testing"
-)
+import "testing"
 
-func Test_levelOrder(t *testing.T) {
+func Test_sumOfLeftLeaves(t *testing.T) {
 	type args struct {
 		root *TreeNode
 	}
 	tests := []struct {
 		name string
 		args args
-		want [][]int
+		want int
 	}{
 		{
 			"[Test Case 1]",
@@ -39,30 +36,13 @@ func Test_levelOrder(t *testing.T) {
 					},
 				},
 			},
-			[][]int{
-				{3},
-				{9, 20},
-				{15, 7},
-			},
-		},
-		{
-			"[Test Case 2]",
-			args{
-				&TreeNode{
-					3,
-					nil,
-					nil,
-				},
-			},
-			[][]int{
-				{3},
-			},
+			24,
 		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := levelOrder(tt.args.root); !reflect.DeepEqual(got, tt.want) {
-				t.Errorf("levelOrder() = %v, want %v", got, tt.want)
+			if got := sumOfLeftLeaves(tt.args.root); got != tt.want {
+				t.Errorf("sumOfLeftLeaves() = %v, want %v", got, tt.want)
 			}
 		})
 	}
