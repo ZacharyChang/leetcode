@@ -38,6 +38,21 @@ func Test_maxDepth(t *testing.T) {
 			},
 			3,
 		},
+		{
+			"[Test Case 1]",
+			args{
+				&TreeNode{
+					3,
+					&TreeNode{
+						9,
+						nil,
+						nil,
+					},
+					nil,
+				},
+			},
+			2,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
