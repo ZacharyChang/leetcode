@@ -18,4 +18,4 @@ Output: True
 3. Input points have ```no order```.
 
 ## Tags
-**[Math](https://leetcode.com/tag/strmathing)**
+**[Math](https://leetcode.com/tag/math)**
