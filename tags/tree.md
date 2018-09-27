@@ -21,6 +21,7 @@
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/563.binary-tree-tilt)|Easy|[Tree]|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/572.subtree-of-another-tree)|Easy|[Tree]|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/606.construct-string-from-binary-tree)|Easy|String, [Tree]|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/617.merge-two-binary-trees)|Easy|[Tree]|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/700.search-in-a-binary-search-tree)|Easy|[Tree]|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md

@@ -119,6 +119,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/572.subtree-of-another-tree)|Easy|[Tree]|
 |593|[Valid Square](https://leetcode.com/problems/valid-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/593.valid-square)|Medium|[Math]|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/606.construct-string-from-binary-tree)|Easy|String, [Tree]|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/617.merge-two-binary-trees)|Easy|[Tree]|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/633.sum-of-square-numbers)|Easy|[Math]|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/650.2-keys-keyboard)|Medium|[DynamicProgramming]|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/657.judge-route-circle)|Easy|string|
