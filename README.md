@@ -122,6 +122,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/606.construct-string-from-binary-tree)|Easy|String, [Tree]|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/617.merge-two-binary-trees)|Easy|[Tree]|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/633.sum-of-square-numbers)|Easy|[Math]|
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/637.average-of-levels-in-binary-tree)|Easy|[Tree]|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/650.2-keys-keyboard)|Medium|[DynamicProgramming]|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/657.judge-route-circle)|Easy|string|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/700.search-in-a-binary-search-tree)|Easy|[Tree]|
