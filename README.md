@@ -124,6 +124,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/633.sum-of-square-numbers)|Easy|[Math]|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/637.average-of-levels-in-binary-tree)|Easy|[Tree]|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/650.2-keys-keyboard)|Medium|[DynamicProgramming]|
+|654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/654.maximum-binary-tree)|Medium|[Tree]|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/657.judge-route-circle)|Easy|string|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/700.search-in-a-binary-search-tree)|Easy|[Tree]|
 |704|[Binary Search](https://leetcode.com/problems/binary-search)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/704.binary-search)|Easy|[BinarySearch]|
