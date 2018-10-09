@@ -23,6 +23,7 @@
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/537.complex-number-multiplication)|Easy|[Math], String|
 |593|[Valid Square](https://leetcode.com/problems/valid-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/593.valid-square)|Medium|[Math]|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/633.sum-of-square-numbers)|Easy|[Math]|
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/645.set-mismatch)|Easy|HashTable,[Math|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/728.self-dividing-numbers)|Easy|[Math]|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
