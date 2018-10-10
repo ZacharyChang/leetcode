@@ -108,6 +108,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/414.third-maximum-number)|Easy|[Array]|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/441.arranging-coins)|Easy|[Math], [BinarySearch]|
 |443|[String Compression](https://leetcode.com/problems/string-compression)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/443.string-compression)|Easy|String|
+|451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/451.sort-characters-by-frequency)|Medium|HashTable, Heap|
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/453.minimum-moves-to-equal-array-elements)|Easy|[Math]|
 |459|[Third Maximum Number](https://leetcode.com/problems/repeated-substring-pattern)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/459.repeated-substring-pattern)|Easy|string|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/462.minimum-moves-to-equal-array-elements-ii)|Medium|[Math]|
