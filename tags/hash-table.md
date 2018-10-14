@@ -6,7 +6,8 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/003.longest-substring-without-repeating-characters)|Medium|[HashTable], TwoPointers, String|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/049.group-anagrams)|Medium|[HashTable], String|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/094.binary-tree-inorder-traversal)|Medium|[HashTable], Stack, [Tree]|
-|202|[Happy Number](https://leetcode.com/problems/happy-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/202.happy-number)|Easy|[HashTable], [Math|
+|202|[Happy Number](https://leetcode.com/problems/happy-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/202.happy-number)|Easy|[HashTable], [Math]|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/205.isomorphic-strings)|Easy|[HashTable]|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/217.contains-duplicate)|Easy|[Array], [HashTable]|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/219.contains-duplicate-ii)|Easy|[Array], [HashTable]|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/349.intersection-of-two-arrays)|Easy|[HashTable], TwoPointers, [BinarySearch], Sort|
