@@ -11,6 +11,7 @@
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/171.excel-sheet-column-number)|Easy|[Math]|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/172.factorial-trailing-zeroes)|Easy|[Math]|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/202.happy-number)|Easy|HashTable, [Math]|
+|204|[Count Primes](https://leetcode.com/problems/count-primes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/204.count-primes)|Easy|[HashTable], [Math]|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/263.ugly-number)|Easy|[Math]|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/264.ugly-number-ii)|Medium|[Math], [DynamicProgramming], Heap|
 |343|[Integer Break](https://leetcode.com/problems/integer-break)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/343.integer-break)|Medium|[Math], [DynamicProgramming]|
