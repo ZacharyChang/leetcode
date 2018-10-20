@@ -106,6 +106,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/376.wiggle-subsequence)|Medium|[DynamicProgramming], Greedy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/383.ransom-note)|Easy|String|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|[BinarySearch], [DynamicProgramming], Greedy|
+|394|[Decode String](https://leetcode.com/problems/decode-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/394.decode-string)|Medium|Stack, DepthFirstSearch|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/404.sum-of-left-leaves)|Medium|[Tree]|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/409.longest-palindrome)|Easy|[HashTable]|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/413.arithmetic-slices)|Medium|[Math], [DynamicProgramming]|
