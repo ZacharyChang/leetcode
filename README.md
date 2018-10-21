@@ -49,24 +49,24 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/081.search-in-rotated-sorted-array-ii)|Medium|[Array], [BinarySearch]|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|[Array], TwoPointers|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/094.binary-tree-inorder-traversal)|Medium|[HashTable], Stack, [Tree]|
-|100|[Same Tree](https://leetcode.com/problems/same-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/100.same-tree)|Easy|[Tree], DepthFirstSearch|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/101.symmetric-tree)|Easy|[Tree], DepthFirstSearch, BreadthFirstSearch|
+|100|[Same Tree](https://leetcode.com/problems/same-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/100.same-tree)|Easy|[Tree], [DepthFirstSearch]|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/101.symmetric-tree)|Easy|[Tree], [DepthFirstSearch], BreadthFirstSearch|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/102.binary-tree-level-order-traversal)|Medium|[Tree], BreadthFirstSearch|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/104.maximum-depth-of-binary-tree)|Easy|[Tree], DepthFirstSearch|
-|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/105.construct-binary-tree-from-preorder-and-inorder-traversal)|Meidum|[Array], [Tree], DepthFirstSearch|
-|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/106.construct-binary-tree-from-inorder-and-postorder-traversal)|Meidum|[Array], [Tree], DepthFirstSearch|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/104.maximum-depth-of-binary-tree)|Easy|[Tree], [DepthFirstSearch]|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/105.construct-binary-tree-from-preorder-and-inorder-traversal)|Meidum|[Array], [Tree], [DepthFirstSearch]|
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/106.construct-binary-tree-from-inorder-and-postorder-traversal)|Meidum|[Array], [Tree], [DepthFirstSearch]|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/107.binary-tree-level-order-traversal-ii)|Medium|[Tree], BreadthFirstSearch|
-|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/108.convert-sorted-array-to-binary-search-tree)|Easy|[Tree], DepthFirstSearch|
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tre)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/110.balanced-binary-tre)|Easy|[Tree], DepthFirstSearch|
-|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/111.minimum-depth-of-binary-tree)|Meidum|[Tree], DepthFirstSearch, BreadthFirstSearch|
-|112|[Path Sum](https://leetcode.com/problems/path-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|[Tree], DepthFirstSearch|
-|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/113.path-sum-ii)|Medium|[Tree], DepthFirstSearch|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/108.convert-sorted-array-to-binary-search-tree)|Easy|[Tree], [DepthFirstSearch]|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tre)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/110.balanced-binary-tre)|Easy|[Tree], [DepthFirstSearch]|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/111.minimum-depth-of-binary-tree)|Meidum|[Tree], [DepthFirstSearch], BreadthFirstSearch|
+|112|[Path Sum](https://leetcode.com/problems/path-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|[Tree], [DepthFirstSearch]|
+|113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/113.path-sum-ii)|Medium|[Tree], [DepthFirstSearch]|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/118.pascals-triangle)|Easy|[Array]|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/119.pascals-triangle-ii)|Easy|[Array]|
 |120|[Triangle](https://leetcode.com/problems/triangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/120.triangle)|Medium|[Array], DynamicProgramming|
 |121|[Path Sum](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/121.best-time-to-buy-and-sell-stock)|Easy|[Array], [DynamicProgramming]|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/125.valid-palindrome)|Easy|TwoPointers, String|
-|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/129.sum-root-to-leaf-numbers)|Medium|[Tree], DepthFirstSearch|
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/129.sum-root-to-leaf-numbers)|Medium|[Tree], [DepthFirstSearch]|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/152.maximum-product-subarray)|Medium|[Array], [DynamicProgramming]|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/153.find-minimum-in-rotated-sorted-array)|Medium|[Array], [BinarySearch]|
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/154.find-minimum-in-rotated-sorted-array-ii)|Hard|[Array], [BinarySearch]|
@@ -76,7 +76,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/172.factorial-trailing-zeroes)|Easy|[Math]|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/189.rotate-array)|Easy|[Array]|
 |198|[House Robber](https://leetcode.com/problems/house-robber)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/198.house-robber)|Easy|[DynamicProgramming]|
-|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/199.binary-tree-right-side-view)|Medium|[Tree], DepthFirstSearch, BreadthFirstSearch|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/199.binary-tree-right-side-view)|Medium|[Tree], [DepthFirstSearch], BreadthFirstSearch|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/202.happy-number)|Easy|[HashTable], [Math]|
 |204|[Count Primes](https://leetcode.com/problems/count-primes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/204.count-primes)|Easy|[HashTable], [Math]|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/205.isomorphic-strings)|Easy|[HashTable]|
@@ -87,7 +87,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/226.invert-binary-tree)|Easy|[Tree]|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/238.product-of-array-except-self)|Medium|[Array]|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/240.search-a-2d-matrix-ii)|Medium|[BinarySearch], DivideAndConquer|
-|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/257.binary-tree-paths)|Easy|[Tree], DepthFirstSearch|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/257.binary-tree-paths)|Easy|[Tree], [DepthFirstSearch]|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/263.ugly-number)|Easy|[Math]|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/264.ugly-number-ii)|Medium|[Math], [DynamicProgramming], Heap|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/279.perfect-squares)|Medium|[Math], [DynamicProgramming], BreadthFirstSearch|
@@ -106,7 +106,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/376.wiggle-subsequence)|Medium|[DynamicProgramming], Greedy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/383.ransom-note)|Easy|String|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|[BinarySearch], [DynamicProgramming], Greedy|
-|394|[Decode String](https://leetcode.com/problems/decode-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/394.decode-string)|Medium|Stack, DepthFirstSearch|
+|394|[Decode String](https://leetcode.com/problems/decode-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/394.decode-string)|Medium|Stack, [DepthFirstSearch]|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/404.sum-of-left-leaves)|Medium|[Tree]|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/409.longest-palindrome)|Easy|[HashTable]|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/413.arithmetic-slices)|Medium|[Math], [DynamicProgramming]|
@@ -118,8 +118,8 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |459|[Third Maximum Number](https://leetcode.com/problems/repeated-substring-pattern)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/459.repeated-substring-pattern)|Easy|string|
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/462.minimum-moves-to-equal-array-elements-ii)|Medium|[Math]|
 |475|[Heaters](https://leetcode.com/problems/heaters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/475.heaters)|Easy|[BinarySearch]|
-|513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/513.find-bottom-left-tree-value)|Medium|[Tree], DepthFirstSearch, BreadthFirstSearch|
-|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/515.find-largest-value-in-each-tree-row)|Medium|[Tree], DepthFirstSearch, BreadthFirstSearch|
+|513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/513.find-bottom-left-tree-value)|Medium|[Tree], [DepthFirstSearch], BreadthFirstSearch|
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/515.find-largest-value-in-each-tree-row)|Medium|[Tree], [DepthFirstSearch], BreadthFirstSearch|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/521.longest-uncommon-subsequence-i)|Easy|String|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/537.complex-number-multiplication)|Easy|[Math], String|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/541.reverse-string-ii)|Easy|string|
@@ -148,7 +148,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/771.jewels-and-stones)|Easy|[HashTable]|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/811.subdomain-visit-count)|Easy|[HashTable]|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/852.peak-index-in-a-mountain-array)|Easy|[BinarySearch]|
-|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/872.leaf-similar-trees)|Easy|[Tree], DepthFirstSearch|
+|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/872.leaf-similar-trees)|Easy|[Tree], [DepthFirstSearch]|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
@@ -156,3 +156,4 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 [BinarySearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/binary-search.md
 [Tree]: https://github.com/ZacharyChang/leetcode/tree/master/tags/tree.md
 [HashTable]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
+[DepthFirstSearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/depth-first-search.md
