@@ -139,6 +139,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/650.2-keys-keyboard)|Medium|[DynamicProgramming]|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/654.maximum-binary-tree)|Medium|[Tree]|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/657.judge-route-circle)|Easy|string|
+|658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/658.find-k-closest-elements)|Medium|[BinarySearch]|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/692.top-k-frequent-words)|Medium|[HashTable], Heap, Trie|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/700.search-in-a-binary-search-tree)|Easy|[Tree]|
 |704|[Binary Search](https://leetcode.com/problems/binary-search)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/704.binary-search)|Easy|[BinarySearch]|
