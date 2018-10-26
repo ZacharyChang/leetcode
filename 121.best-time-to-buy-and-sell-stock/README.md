@@ -22,6 +22,6 @@ Explanation: In this case, no transaction is done, i.e. max profit = 0.
 
 
 ## Tags
-**[Arrary](https://leetcode.com/tag/array)**
+**[Array](https://leetcode.com/tag/array)**
 
 **[Dynamic Programming](https://leetcode.com/tag/dynamic-programming)**
