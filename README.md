@@ -73,6 +73,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/154.find-minimum-in-rotated-sorted-array-ii)|Hard|[Array], [BinarySearch]|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/162.find-peak-element)|Medium|[Array], [BinarySearch]|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/167.two-sum-ii-input-array-is-sorted)|Easy|[Array], TwoPointers, [BinarySearch]|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/168.excel-sheet-column-title)|Easy|[Math]|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/171.excel-sheet-column-number)|Easy|[Math]|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/172.factorial-trailing-zeroes)|Easy|[Math]|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/189.rotate-array)|Easy|[Array]|

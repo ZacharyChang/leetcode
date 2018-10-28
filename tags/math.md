@@ -8,6 +8,7 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/066.plus-one)|Easy|[Array], [Math]|
 |67|[Add Binary](https://leetcode.com/problems/add-binary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/067.add-binary)|Easy|[Math], String|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/069.sqrtx)|Easy|[Math], [BinarySearch]|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/168.excel-sheet-column-title)|Easy|[Math]|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/171.excel-sheet-column-number)|Easy|[Math]|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/172.factorial-trailing-zeroes)|Easy|[Math]|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/202.happy-number)|Easy|HashTable, [Math]|
