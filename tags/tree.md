@@ -17,6 +17,7 @@
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/129.sum-root-to-leaf-numbers)|Medium|[Tree], DepthFirstSearch|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/144.binary-tree-preorder-traversal)|Medium|Stack, [Tree]|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/199.binary-tree-right-side-view)|Medium|[Tree], DepthFirstSearch, BreadthFirstSearchs|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/222.count-complete-tree-nodes)|Medium|[BinarySearch], [Tree]|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/226.invert-binary-tree)|Easy|[Tree]|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/257.binary-tree-paths)|Easy|[Tree], DepthFirstSearch|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/404.sum-of-left-leaves)|Medium|[Tree]|
