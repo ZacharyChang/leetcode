@@ -16,6 +16,7 @@
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/209.minimum-size-subarray-sum)|Medium|[Array], TwoPointers, [BinarySearch]|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/222.count-complete-tree-nodes)|Medium|[BinarySearch], [Tree]|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/240.search-a-2d-matrix-ii)|Medium|[BinarySearch], DivideAndConquer|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/275.h-index-ii)|Medium|[BinarySearch]|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/278.first-bad-version)|Easy|[BinarySearch]|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/287.find-the-duplicate-number)|Medium|[Array], TwoPointers, [BinarySearch]|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/349.intersection-of-two-arrays)|Easy|HashTable, TwoPointers, [BinarySearch], Sort|

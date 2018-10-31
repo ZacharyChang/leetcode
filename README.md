@@ -95,6 +95,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/263.ugly-number)|Easy|[Math]|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/264.ugly-number-ii)|Medium|[Math], [DynamicProgramming], Heap|
 |274|[H-Index](https://leetcode.com/problems/h-index)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/274.h-index)|Easy|[HashTable], Sort|
+|275|[H-Index II](https://leetcode.com/problems/h-index-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/275.h-index-ii)|Medium|[BinarySearch]|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/278.first-bad-version)|Easy|[BinarySearch]|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/279.perfect-squares)|Medium|[Math], [DynamicProgramming], BreadthFirstSearch|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/287.find-the-duplicate-number)|Medium|[Array], TwoPointers, [BinarySearch]|
