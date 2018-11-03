@@ -157,9 +157,9 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/771.jewels-and-stones)|Easy|[HashTable]|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/811.subdomain-visit-count)|Easy|[HashTable]|
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/838.push-dominoes)|Medium|TwoPointers, [DynamicProgramming]|
-
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/852.peak-index-in-a-mountain-array)|Easy|[BinarySearch]|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/872.leaf-similar-trees)|Easy|[Tree], [DepthFirstSearch]|
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/875.koko-eating-bananas)|Medium|[BinarySearch]|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md

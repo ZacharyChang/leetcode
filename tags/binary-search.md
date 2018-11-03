@@ -29,6 +29,7 @@
 |704|[Binary Search](https://leetcode.com/problems/binary-search)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/704.binary-search)|Easy|[BinarySearch]|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/744.find-smallest-letter-greater-than-target)|Easy|[BinarySearch]|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/852.peak-index-in-a-mountain-array|Easy|[BinarySearch]|
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/875.koko-eating-bananas)|Medium|[BinarySearch]|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
