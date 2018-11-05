@@ -29,11 +29,15 @@ func Test_subdomainVisits(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := subdomainVisits(tt.args.cpdomains); !reflect.DeepEqual(got, tt.want) {
-				sort.Strings(got)
-				sort.Strings(tt.want)
+			if got := subdomainVisits(tt.args.cpdomains); !equal(got, tt.want) {
 				t.Errorf("subdomainVisits() = %v, want %v", got, tt.want)
 			}
 		})
 	}
+}
+
+func equal(a []string, b []string) bool {
+	sort.Strings(a)
+	sort.Strings(b)
+	return reflect.DeepEqual(a, b)
 }
