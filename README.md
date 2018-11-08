@@ -67,6 +67,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |121|[Path Sum](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/121.best-time-to-buy-and-sell-stock)|Easy|[Array], [DynamicProgramming]|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/125.valid-palindrome)|Easy|TwoPointers, String|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/129.sum-root-to-leaf-numbers)|Medium|[Tree], [DepthFirstSearch]|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/141.linked-list-cycle)|Easy|LinkedList, TwoPointers|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/144.binary-tree-preorder-traversal)|Medium|Stack, [Tree]|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/152.maximum-product-subarray)|Medium|[Array], [DynamicProgramming]|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/153.find-minimum-in-rotated-sorted-array)|Medium|[Array], [BinarySearch]|
