@@ -86,6 +86,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/202.happy-number)|Easy|[HashTable], [Math]|
 |204|[Count Primes](https://leetcode.com/problems/count-primes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/204.count-primes)|Easy|[HashTable], [Math]|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/205.isomorphic-strings)|Easy|[HashTable]|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/206.reverse-linked-list)|Easy|LinkedList|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/209.minimum-size-subarray-sum)|Medium|[Array], TwoPointers, [BinarySearch]|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/213.house-robber-ii)|Medium|[DynamicProgramming]|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/217.contains-duplicate)|Easy|[Array], [HashTable]|
