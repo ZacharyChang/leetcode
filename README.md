@@ -10,7 +10,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/001.two-sum)|Easy|[Array], [HashTable]|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/002.add-two-numbers)|Medium|LinkedList, [Math]|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/002.add-two-numbers)|Medium|[LinkedList], [Math]|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/003.longest-substring-without-repeating-characters)|Medium|[HashTable], TwoPointers, String|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/005.longest-palindromic-substring)|Medium|String, [DynamicProgramming]|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/006.zigzag-conversion)|Medium|String|
@@ -18,10 +18,10 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/013.roman-to-integer)|Easy|[Math], String|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/014.longest-common-prefix)|Easy|String|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/017.letter-combinations-of-a-phone-number)|Medium|String, Backtracking|
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/019.remove-nth-node-from-end-of-list)|Medium|LinkedList, TwoPointers|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/019.remove-nth-node-from-end-of-list)|Medium|[LinkedList], TwoPointers|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/020.valid-parentheses)|Easy|String, Stack|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/021.merge-two-sorted-lists)|Easy|LinkedList|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/024.swap-nodes-in-pairs)|Medium|LinkedList|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/021.merge-two-sorted-lists)|Easy|[LinkedList]|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/024.swap-nodes-in-pairs)|Medium|[LinkedList]|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/026.remove-duplicates-from-sorted-array)|Easy|[Array], TwoPointers|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/027.remove-element)|Easy|[Array], TwoPointers|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/028.implement-strstr)|Easy|TwoPointers, String|
@@ -48,8 +48,8 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/075.sort-colors)|Medium|[Array], TwoPointers, Sort|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/080.remove-duplicates-from-sorted-array-ii)|Medium|[Array], TwoPointers|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/081.search-in-rotated-sorted-array-ii)|Medium|[Array], [BinarySearch]|
-|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/082.remove-duplicates-from-sorted-list-ii)|Medium|LinkedList|
-|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/083.remove-duplicates-from-sorted-list)|Easy|LinkedList|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/082.remove-duplicates-from-sorted-list-ii)|Medium|[LinkedList]|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/083.remove-duplicates-from-sorted-list)|Easy|[LinkedList]|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|[Array], TwoPointers|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/094.binary-tree-inorder-traversal)|Medium|[HashTable], Stack, [Tree]|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/100.same-tree)|Easy|[Tree], [DepthFirstSearch]|
@@ -70,7 +70,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |121|[Path Sum](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/121.best-time-to-buy-and-sell-stock)|Easy|[Array], [DynamicProgramming]|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/125.valid-palindrome)|Easy|TwoPointers, String|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/129.sum-root-to-leaf-numbers)|Medium|[Tree], [DepthFirstSearch]|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/141.linked-list-cycle)|Easy|LinkedList, TwoPointers|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/141.linked-list-cycle)|Easy|[LinkedList], TwoPointers|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/144.binary-tree-preorder-traversal)|Medium|Stack, [Tree]|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/152.maximum-product-subarray)|Medium|[Array], [DynamicProgramming]|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/153.find-minimum-in-rotated-sorted-array)|Medium|[Array], [BinarySearch]|
@@ -86,7 +86,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/202.happy-number)|Easy|[HashTable], [Math]|
 |204|[Count Primes](https://leetcode.com/problems/count-primes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/204.count-primes)|Easy|[HashTable], [Math]|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/205.isomorphic-strings)|Easy|[HashTable]|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/206.reverse-linked-list)|Easy|LinkedList|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/206.reverse-linked-list)|Easy|[LinkedList]|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/209.minimum-size-subarray-sum)|Medium|[Array], TwoPointers, [BinarySearch]|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/213.house-robber-ii)|Medium|[DynamicProgramming]|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/217.contains-duplicate)|Easy|[Array], [HashTable]|
@@ -108,7 +108,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |289|[Game of Life](https://leetcode.com/problems/game-of-life)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/289.game-of-life)|Medium|[Array]|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/303.range-sum-query-immutable)|Easy|[DynamicProgramming]|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/304.range-sum-query-2d-immutable)|Medium|[DynamicProgramming]|
-|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/328.odd-even-linked-list)|Medium|LinkedList|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/328.odd-even-linked-list)|Medium|[LinkedList]|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/338.counting-bits)|Medium|[DynamicProgramming], BitManipulation|
 |343|[Integer Break](https://leetcode.com/problems/integer-break)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/343.integer-break)|Medium|[Math], [DynamicProgramming]|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/345.reverse-vowels-of-a-string)|Medium|TwoPointers, String|
@@ -167,7 +167,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/852.peak-index-in-a-mountain-array)|Easy|[BinarySearch]|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/872.leaf-similar-trees)|Easy|[Tree], [DepthFirstSearch]|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/875.koko-eating-bananas)|Medium|[BinarySearch]|
-|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/876.middle-of-the-linked-list)|Easy|LinkedList|
+|876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/876.middle-of-the-linked-list)|Easy|[LinkedList]|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
@@ -176,3 +176,4 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 [Tree]: https://github.com/ZacharyChang/leetcode/tree/master/tags/tree.md
 [HashTable]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [DepthFirstSearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/depth-first-search.md
+[LinkedList]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md
