@@ -1,5 +1,14 @@
 package leetcode
 
+/**
+ * Definition for singly-linked list.
+ *
+ */
+type ListNode struct {
+	Val  int
+	Next *ListNode
+}
+
 // O(n) space
 func isPalindrome(head *ListNode) bool {
 	if head == nil || head.Next == nil {
