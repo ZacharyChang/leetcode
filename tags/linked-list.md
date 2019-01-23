@@ -8,9 +8,11 @@
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/082.remove-duplicates-from-sorted-list-ii)|Medium|[LinkedList]|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/083.remove-duplicates-from-sorted-list)|Easy|[LinkedList]|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/141.linked-list-cycle)|Easy|[LinkedList], TwoPointers|
+|148|[Sort List](https://leetcode.com/problems/sort-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/148.sort-list)|Medium|[LinkedList], Sort|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/206.reverse-linked-list)|Easy|[LinkedList]|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/234.palindrome-linked-list)|Easy|[LinkedList], TwoPointers|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/328.odd-even-linked-list)|Medium|[LinkedList]|
+|725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/725.split-linked-list-in-parts)|Medium|[LinkedList]|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/876.middle-of-the-linked-list)|Easy|[LinkedList]|
 
 
