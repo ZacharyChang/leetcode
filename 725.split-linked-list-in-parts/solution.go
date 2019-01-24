@@ -11,39 +11,30 @@ type ListNode struct {
 
 func splitListToParts(root *ListNode, k int) []*ListNode {
 	result := make([]*ListNode, k)
-	if root == nil {
-		return result
-	}
-	len := length(root)
-	avg := len / k
-	last := len % k
-	tmp := root
-	result[0] = root
-	for i := 1; i < k; i++ {
-		result[i] = result[i-1]
-		if last != 0 && i <= last {
-			tmp = result[i]
-			result[i] = result[i].Next
+
+	len := func(cur *ListNode) int {
+		res := 0
+		for cur != nil {
+			cur = cur.Next
+			res++
 		}
-		for j := 0; j < avg && result[i] != nil; j++ {
-			tmp = result[i]
-			result[i] = result[i].Next
+		return res
+	}(root)
+
+	div, mod := len/k, len%k
+	cur := root
+	for i := 0; i < k; i++ {
+		result[i] = cur
+		num := div
+		if i < mod {
+			num++
 		}
-		tmp.Next = nil
-	}
-	if len < k {
-		for i := len; i < k; i++ {
-			result[i] = nil
+		for j := 0; j < num-1; j++ {
+			cur = cur.Next
+		}
+		if cur != nil {
+			cur, cur.Next = cur.Next, nil
 		}
 	}
 	return result
-}
-
-func length(root *ListNode) int {
-	res := 0
-	for root != nil {
-		root = root.Next
-		res++
-	}
-	return res
 }
