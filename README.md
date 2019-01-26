@@ -158,6 +158,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/692.top-k-frequent-words)|Medium|[HashTable], Heap, Trie|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/700.search-in-a-binary-search-tree)|Easy|[Tree]|
 |704|[Binary Search](https://leetcode.com/problems/binary-search)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/704.binary-search)|Easy|[BinarySearch]|
+|707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/707.design-linked-list)|Easy|[LinkedList], Design|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/709.to-lower-case)|Easy|string|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/725.split-linked-list-in-parts)|Medium|[LinkedList]|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/728.self-dividing-numbers)|Easy|[Math]|
