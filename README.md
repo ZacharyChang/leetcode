@@ -71,6 +71,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/125.valid-palindrome)|Easy|TwoPointers, String|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/129.sum-root-to-leaf-numbers)|Medium|[Tree], [DepthFirstSearch]|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/141.linked-list-cycle)|Easy|[LinkedList], TwoPointers|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/142.linked-list-cycle-ii)|Medium|[LinkedList], TwoPointers|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/144.binary-tree-preorder-traversal)|Medium|Stack, [Tree]|
 |148|[Sort List](https://leetcode.com/problems/sort-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/148.sort-list)|Medium|[LinkedList], Sort|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/152.maximum-product-subarray)|Medium|[Array], [DynamicProgramming]|
