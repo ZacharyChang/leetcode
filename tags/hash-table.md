@@ -12,7 +12,8 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/217.contains-duplicate)|Easy|[Array], [HashTable]|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/219.contains-duplicate-ii)|Easy|[Array], [HashTable]|
 |274|[H-Index](https://leetcode.com/problems/h-index)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/274.h-index)|Easy|[HashTable], Sort|
-|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/349.intersection-of-two-arrays)|Easy|[HashTable], TwoPointers, [BinarySearch], Sort|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/299.bulls-and-cows)|Medium|[HashTable]|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Detail]　(https://github.com/ZacharyChang/leetcode/tree/master/349.intersection-of-two-arrays)|Easy|[HashTable], TwoPointers, [BinarySearch], Sort|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/350.intersection-of-two-arrays-ii)|Easy|[HashTable], TwoPointers, [BinarySearch], Sort|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/409.longest-palindrome)|Easy|[HashTable]|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/451.sort-characters-by-frequency)|Medium|[HashTable], Heap|
