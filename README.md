@@ -28,6 +28,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/033.search-in-rotated-sorted-array)|Medium|[Array], [BinarySearch]|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/034.search-for-a-range)|Medium|[Array], [BinarySearch]|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/035.search-insert-position)|Easy|[Array], [BinarySearch]|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/036.valid-sudoku)|Meidum|[HashTable]|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/038.count-and-say)|Easy|String|
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/046.permutations)|Medium|Backtracking|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/047.permutations-ii)|Medium|Backtracking|
