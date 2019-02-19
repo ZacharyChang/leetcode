@@ -125,6 +125,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/367.valid-perfect-square)|Easy|[Math], [BinarySearch]|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/376.wiggle-subsequence)|Medium|[DynamicProgramming], Greedy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/383.ransom-note)|Easy|String|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/389.find-the-difference)|Easy|[HashTable], BitManipulation|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|[BinarySearch], [DynamicProgramming], Greedy|
 |394|[Decode String](https://leetcode.com/problems/decode-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/394.decode-string)|Medium|Stack, [DepthFirstSearch]|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/404.sum-of-left-leaves)|Medium|[Tree]|

@@ -16,6 +16,7 @@
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/299.bulls-and-cows)|Medium|[HashTable]|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Detail]　(https://github.com/ZacharyChang/leetcode/tree/master/349.intersection-of-two-arrays)|Easy|[HashTable], TwoPointers, [BinarySearch], Sort|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/350.intersection-of-two-arrays-ii)|Easy|[HashTable], TwoPointers, [BinarySearch], Sort|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/389.find-the-difference)|Easy|[HashTable], BitManipulation|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/409.longest-palindrome)|Easy|[HashTable]|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/451.sort-characters-by-frequency)|Medium|[HashTable], Heap|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/575.distribute-candies)|Easy|[HashTable]|
