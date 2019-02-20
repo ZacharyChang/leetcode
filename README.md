@@ -132,6 +132,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/409.longest-palindrome)|Easy|[HashTable]|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/413.arithmetic-slices)|Medium|[Math], [DynamicProgramming]|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/414.third-maximum-number)|Easy|[Array]|
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/438.find-all-anagrams-in-a-string)|Easy|[HashTable]|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/441.arranging-coins)|Easy|[Math], [BinarySearch]|
 |443|[String Compression](https://leetcode.com/problems/string-compression)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/443.string-compression)|Easy|String|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/451.sort-characters-by-frequency)|Medium|[HashTable], Heap|
