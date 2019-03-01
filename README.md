@@ -147,6 +147,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/537.complex-number-multiplication)|Easy|[Math], String|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/541.reverse-string-ii)|Easy|string|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/551.student-attendance-record-i)|Easy|string|
+|554|[Brick Wall](https://leetcode.com/problems/brick-wall)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/554.brick-wall)|Medium|[HashTable]|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/557.reverse-words-in-a-string-iii)|Easy|string|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/563.binary-tree-tilt)|Easy|[Tree]|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/572.subtree-of-another-tree)|Easy|[Tree]|
