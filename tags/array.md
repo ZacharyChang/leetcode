@@ -35,6 +35,7 @@
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/287.find-the-duplicate-number)|Medium|[Array], TwoPointers, BinarySearch|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/289.game-of-life)|Medium|[Array]|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/414.third-maximum-number)|Easy|[Array]|
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/560.subarray-sum-equals-k)|Medium|[Array], [HashTable]|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],DynamicProgramming|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
