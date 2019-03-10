@@ -29,6 +29,15 @@ func Test_longestWord(t *testing.T) {
 			},
 			"apple",
 		},
+		{
+			"[Test Case 3]",
+			args{
+				[]string{
+					"yo", "ew", "fc", "zrc", "yodn", "fcm", "qm", "qmo", "fcmz", "z", "ewq", "yod", "ewqz", "y",
+				},
+			},
+			"yodn",
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {

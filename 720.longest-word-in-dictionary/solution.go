@@ -7,14 +7,18 @@ import (
 func longestWord(words []string) string {
 
 	wordMap := make(map[string]bool, 0)
+	wordMap[""] = true
 	sort.Strings(words)
 	maxLen := 0
 	result := ""
 	for _, word := range words {
-		wordMap[word] = true
-		if len(word) > maxLen && checkValid(word, &wordMap) {
-			result = word
-			maxLen = len(word)
+		if checkValid(word, &wordMap) {
+			wordMap[word] = true
+			if len(word) > maxLen {
+				result = word
+				maxLen = len(word)
+			}
+
 		}
 	}
 	return result
@@ -22,10 +26,5 @@ func longestWord(words []string) string {
 
 func checkValid(s string, mPtr *map[string]bool) bool {
 	m := *mPtr
-	for i := 0; i < len(s); i++ {
-		if !m[s[0:i+1]] {
-			return false
-		}
-	}
-	return true
+	return m[s[0:len(s)-1]]
 }
