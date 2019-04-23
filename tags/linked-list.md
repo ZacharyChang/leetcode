@@ -7,6 +7,7 @@
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/024.swap-nodes-in-pairs)|Medium|[LinkedList]|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/082.remove-duplicates-from-sorted-list-ii)|Medium|[LinkedList]|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/083.remove-duplicates-from-sorted-list)|Easy|[LinkedList]|
+|86|[Partition List](https://leetcode.com/problems/partition-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/086.partition-list)|Meidum|[LinkedList], TwoPointers|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/141.linked-list-cycle)|Easy|[LinkedList], TwoPointers|
 |148|[Sort List](https://leetcode.com/problems/sort-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/148.sort-list)|Medium|[LinkedList], Sort|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/206.reverse-linked-list)|Easy|[LinkedList]|
