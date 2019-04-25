@@ -22,7 +22,7 @@ Output: ```false```
 Explanation: You will always arrive at index 3 no matter what. Its maximum jump length is 0, which makes it impossible to reach the last index.
 
 ## Tags
-**[Arrary](https://leetcode.com/tag/array)**
+**[Array](https://leetcode.com/tag/array)**
 
 **[Greedy](https://leetcode.com/tag/greedy)**
 
