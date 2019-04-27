@@ -12,6 +12,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/001.two-sum)|Easy|[Array], [HashTable]|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/002.add-two-numbers)|Medium|[LinkedList], [Math]|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/003.longest-substring-without-repeating-characters)|Medium|[HashTable], TwoPointers, String|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/004.median-of-two-sorted-arrays)|Hard|[Array], [BinarySearch], DivideAndConquer|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/005.longest-palindromic-substring)|Medium|String, [DynamicProgramming]|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/006.zigzag-conversion)|Medium|String|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/007.reverse-integer)|Easy|[Math]|

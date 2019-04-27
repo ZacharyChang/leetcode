@@ -2,6 +2,7 @@
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/001.two-sum)|Easy|[Array], HashTable|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/004.median-of-two-sorted-arrays)|Hard|[Array], [BinarySearch], DivideAndConquer|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/026.remove-duplicates-from-sorted-array)|Easy|[Array], TwoPointers|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/027.remove-element)|Easy|[Array], TwoPointers|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Golang](https://github.com/ZacharyChang/leetcode/tree/master/033.search-in-rotated-sorted-array)|Medium|[Array], BinarySearch|

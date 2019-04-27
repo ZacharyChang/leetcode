@@ -1,6 +1,7 @@
 # Binary Search
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/004.median-of-two-sorted-arrays)|Hard|[Array], [BinarySearch], DivideAndConquer|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/033.search-in-rotated-sorted-array)|Medium|[Array], BinarySearch|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/034.search-for-a-range)|Medium|[Array], [BinarySearch]|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/035.search-insert-position)|Easy|[Array], [BinarySearch]|
