@@ -3,6 +3,7 @@
 |-|-----|--------|----------|----|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/002.add-two-numbers)|Medium|LinkedList, [Math]|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/007.reverse-integer)|Easy|[Math]|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/008.string-to-integer-atoi)|Medium|[Math], String|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/013.roman-to-integer)|Easy|[Math], String|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/050.powx-n)|Medium|[Math], BinarySearch|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/066.plus-one)|Easy|[Array], [Math]|
