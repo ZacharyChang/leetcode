@@ -1,19 +1,22 @@
 package leetcode
 
-// Brute Force
-// TODO: Two Pointers
+// Two Pointers
 func maxArea(height []int) int {
 	length := len(height)
-	max := 0
-	for i := 0; i < length; i++ {
-		for j := i + 1; j < length; j++ {
-			num := min(height[i], height[j]) * (j - i)
-			if num > max {
-				max = num
-			}
+	l, r := 0, length-1
+	maxRes := 0
+	for l < r {
+		minHeight := min(height[l], height[r]) * (r - l)
+		if minHeight > maxRes {
+			maxRes = minHeight
+		}
+		if height[l] < height[r] {
+			l++
+		} else {
+			r--
 		}
 	}
-	return max
+	return maxRes
 }
 
 func min(a int, b int) int {

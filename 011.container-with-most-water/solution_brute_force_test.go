@@ -2,7 +2,7 @@ package leetcode
 
 import "testing"
 
-func Test_maxArea(t *testing.T) {
+func Test_maxArea_2(t *testing.T) {
 	type args struct {
 		height []int
 	}
@@ -32,8 +32,8 @@ func Test_maxArea(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := maxArea(tt.args.height); got != tt.want {
-				t.Errorf("maxArea() = %v, want %v", got, tt.want)
+			if got := maxArea_2(tt.args.height); got != tt.want {
+				t.Errorf("maxArea_2() = %v, want %v", got, tt.want)
 			}
 		})
 	}
