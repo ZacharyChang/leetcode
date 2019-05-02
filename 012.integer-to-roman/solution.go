@@ -1,45 +1,26 @@
 package leetcode
 
-import (
-	"sort"
-)
-
-var romanMap = map[int]string{
-	1:    "I",
-	4:    "IV",
-	5:    "V",
-	9:    "IX",
-	10:   "X",
-	40:   "XL",
-	50:   "L",
-	90:   "XC",
-	100:  "C",
-	400:  "CD",
-	500:  "D",
-	900:  "CM",
-	1000: "M",
+var romanArray = [][]string{
+	{
+		"", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
+	},
+	{
+		"", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC",
+	},
+	{
+		"", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM",
+	},
+	{
+		"", "M", "MM", "MMM",
+	},
 }
 
-// Hashtable
+// Array
 func intToRoman(num int) string {
-	v, exist := romanMap[num]
-	if exist {
-		return v
-	}
-	max := findMax(num)
-	return romanMap[max] + intToRoman(num-max)
-}
-
-func findMax(num int) int {
-	nums := make([]int, 0)
-	for k, _ := range romanMap {
-		nums = append(nums, k)
-	}
-	sort.Ints(nums)
-	for i, v := range nums {
-		if v > num {
-			return nums[i-1]
-		}
-	}
-	return nums[len(nums)-1]
+	res := ""
+	res += romanArray[3][num/1000%10]
+	res += romanArray[2][num/100%10]
+	res += romanArray[1][num/10%10]
+	res += romanArray[0][num%10]
+	return res
 }
