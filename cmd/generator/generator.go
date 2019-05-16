@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"sort"
 	"strings"
 )
 
@@ -44,6 +45,7 @@ func main() {
 	for k := range tagMap {
 		footer = append(footer, fmt.Sprintf("[%s]: https://github.com/ZacharyChang/leetcode/tree/master/tags/%s.md", k, camel2Snake(k)))
 	}
+	sort.Strings(footer)
 	for k, v := range tagMap {
 		_ = os.MkdirAll(target, os.ModePerm)
 		file, err := os.Create(target + camel2Snake(k) + ".md")
