@@ -192,6 +192,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/876.middle-of-the-linked-list)|Easy|[LinkedList]|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/884.uncommon-words-from-two-sentences)|Easy|[HashTable]|
 
+## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
 [Math]: https://github.com/ZacharyChang/leetcode/tree/master/tags/math.md
