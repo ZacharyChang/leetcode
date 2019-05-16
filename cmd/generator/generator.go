@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"io/ioutil"
 	"log"
 	"os"
@@ -9,7 +10,7 @@ import (
 
 var (
 	source = "../../README.md"
-	target = "../../out/"
+	target = "../../tags/"
 )
 
 func main() {
@@ -23,6 +24,7 @@ func main() {
 	str := string(b) // convert content to a 'string'
 	from := "|-|-----|--------|----------|----|"
 	to := "## Link"
+
 	for _, v := range strings.Split(str[strings.Index(str, from)+len(from):strings.Index(str, to)], "\n") {
 		if len(strings.Split(v, "|")) <= 5 {
 			continue
@@ -38,14 +40,25 @@ func main() {
 			tagMap[name] = append(tagMap[name], v)
 		}
 	}
+	footer := make([]string, 0)
+	for k := range tagMap {
+		footer = append(footer, fmt.Sprintf("[%s]: https://github.com/ZacharyChang/leetcode/tree/master/tags/%s.md", k, camel2Snake(k)))
+	}
 	for k, v := range tagMap {
-		os.MkdirAll(target, os.ModePerm)
+		_ = os.MkdirAll(target, os.ModePerm)
 		file, err := os.Create(target + camel2Snake(k) + ".md")
 		if err != nil {
 			log.Fatal("Cannot create file", err)
 		}
-		defer file.Close()
-		file.Write([]byte(strings.Join(v, "\n")))
+		defer func() {
+			_ = file.Close()
+		}()
+		_, _ = file.Write([]byte("# " + k + "\n"))
+		_, _ = file.Write([]byte("|#|Title|Language|Difficulty|Tags|\n|-|-----|--------|----------|----|\n"))
+		_, _ = file.Write([]byte(strings.Join(v, "\n")))
+		_, _ = file.Write([]byte("\n\n## Link\n"))
+		_, _ = file.Write([]byte(strings.Join(footer, "\n")))
+
 	}
 }
 
