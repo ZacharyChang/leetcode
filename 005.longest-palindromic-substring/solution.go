@@ -2,7 +2,6 @@ package leetcode
 
 // expand around center
 // time complexity: O(n^2)
-// TODO: DP
 func longestPalindrome(s string) string {
 	if len(s) <= 1 {
 		return s
