@@ -28,6 +28,7 @@
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/557.reverse-words-in-a-string-iii)|Easy|[String]|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/606.construct-string-from-binary-tree)|Easy|[String], [Tree]|
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/609.find-duplicate-file-in-system)|Medium|[HashTable], [String]|
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/647.palindromic-substrings)|Medium|[String],[DynamicProgramming]|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/657.judge-route-circle)|Easy|[String]|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/709.to-lower-case)|Easy|[String]|
 
