@@ -99,6 +99,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/206.reverse-linked-list)|Easy|[LinkedList]|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/209.minimum-size-subarray-sum)|Medium|[Array], [TwoPointers], [BinarySearch]|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/213.house-robber-ii)|Medium|[DynamicProgramming]|
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/214.shortest-palindrome)|Hard|[String]|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/217.contains-duplicate)|Easy|[Array], [HashTable]|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/219.contains-duplicate-ii)|Easy|[Array], [HashTable]|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/221.maximal-square)|Medium|[DynamicProgramming]|

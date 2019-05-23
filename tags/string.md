@@ -16,6 +16,7 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/067.add-binary)|Easy|[Math], [String]|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/071.simplify-path)|Medium|[String], [Stack]|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/125.valid-palindrome)|Easy|[TwoPointers], [String]|
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/214.shortest-palindrome)|Hard|[String]|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/345.reverse-vowels-of-a-string)|Medium|[TwoPointers], [String]|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/344.reverse-string)|Easy|[TwoPointers], [String]|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/383.ransom-note)|Easy|[String]|

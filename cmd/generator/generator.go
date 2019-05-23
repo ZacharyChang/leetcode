@@ -24,9 +24,8 @@ func main() {
 
 	str := string(b) // convert content to a 'string'
 	from := "|-|-----|--------|----------|----|"
-	to := "## Link"
 
-	for _, v := range strings.Split(str[strings.Index(str, from)+len(from):strings.Index(str, to)], "\n") {
+	for _, v := range strings.Split(str[strings.Index(str, from)+len(from):], "\n") {
 		if len(strings.Split(v, "|")) <= 5 {
 			continue
 		}
