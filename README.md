@@ -34,6 +34,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/035.search-insert-position)|Easy|[Array], [BinarySearch]|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/036.valid-sudoku)|Meidum|[HashTable]|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/038.count-and-say)|Easy|[String]|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/039.combination-sum)|Medium|[String], [Backtracking]|
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/046.permutations)|Medium|[Backtracking]|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/047.permutations-ii)|Medium|[Backtracking]|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/048.rotate-image)|Medium|[Array]|

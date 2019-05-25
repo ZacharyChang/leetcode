@@ -12,6 +12,7 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/020.valid-parentheses)|Easy|[String], [Stack]|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/028.implement-strstr)|Easy|[TwoPointers], [String]|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/038.count-and-say)|Easy|[String]|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/039.combination-sum)|Medium|[String], [Backtracking]|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/049.group-anagrams)|Medium|[HashTable], [String]|
 |67|[Add Binary](https://leetcode.com/problems/add-binary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/067.add-binary)|Easy|[Math], [String]|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/071.simplify-path)|Medium|[String], [Stack]|
