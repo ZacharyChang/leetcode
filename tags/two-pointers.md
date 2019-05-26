@@ -7,6 +7,7 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/026.remove-duplicates-from-sorted-array)|Easy|[Array], [TwoPointers]|
 |27|[Remove Element](https://leetcode.com/problems/remove-element)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/027.remove-element)|Easy|[Array], [TwoPointers]|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/028.implement-strstr)|Easy|[TwoPointers], [String]|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/059.rotate-list)|Medium|[LinkedList],[TwoPointers]|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/075.sort-colors)|Medium|[Array], [TwoPointers], [Sort]|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/080.remove-duplicates-from-sorted-array-ii)|Medium|[Array], [TwoPointers]|
 |86|[Partition List](https://leetcode.com/problems/partition-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/086.partition-list)|Meidum|[LinkedList], [TwoPointers]|

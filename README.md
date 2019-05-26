@@ -43,6 +43,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/053.maximum-subarray)|Easy|[Array], [DivideAndConquer], [DynamicProgramming]|
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/055.jump-game)|Medium|[Array], [Greedy]|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/059.spiral-matrix-ii)|Medium|[Array]|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/059.rotate-list)|Medium|[LinkedList],[TwoPointers]|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/062.unique-paths)|Medium|[Array], [DynamicProgramming]|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/063.unique-paths-ii)|Medium|[Array], [DynamicProgramming]|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/064.minimum-path-sum)|Medium|[Array], [DynamicProgramming]|

@@ -5,6 +5,7 @@
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/019.remove-nth-node-from-end-of-list)|Medium|[LinkedList], [TwoPointers]|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/021.merge-two-sorted-lists)|Easy|[LinkedList]|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/024.swap-nodes-in-pairs)|Medium|[LinkedList]|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/059.rotate-list)|Medium|[LinkedList],[TwoPointers]|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/082.remove-duplicates-from-sorted-list-ii)|Medium|[LinkedList]|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/083.remove-duplicates-from-sorted-list)|Easy|[LinkedList]|
 |86|[Partition List](https://leetcode.com/problems/partition-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/086.partition-list)|Meidum|[LinkedList], [TwoPointers]|
