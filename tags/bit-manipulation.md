@@ -1,6 +1,7 @@
 # BitManipulation
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
+|137|[Single Number II](https://leetcode.com/problems/single-number-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/137.single-number-ii)|Medium|[BitManipulation]|
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/338.counting-bits)|Medium|[DynamicProgramming], [BitManipulation]|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/389.find-the-difference)|Easy|[HashTable], [BitManipulation]|
 
