@@ -6,8 +6,8 @@ GOCLEAN=$(GOCMD) clean
 GOTEST=$(GOCMD) test
 
 default:
-	$(GOTEST) ./...
+	GO111MODULE=on $(GOTEST) ./...
 install:
-	$(GOINSTALL)
+	GO111MODULE=on $(GOINSTALL)
 test:
-	$(GOTEST) ./... -v
+	GO111MODULE=on $(GOTEST) ./... -v
