@@ -1,6 +1,7 @@
 # Design
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/208.implement-trie-prefix-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/208.implement-trie-prefix-tree)|Medium|[Design], [Trie]|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/225.implement-stack-using-queues)|Medium|[Stack], [Design]|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/707.design-linked-list)|Easy|[LinkedList], [Design]|
 

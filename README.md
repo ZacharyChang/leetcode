@@ -101,6 +101,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |204|[Count Primes](https://leetcode.com/problems/count-primes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/204.count-primes)|Easy|[HashTable], [Math]|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/205.isomorphic-strings)|Easy|[HashTable]|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/206.reverse-linked-list)|Easy|[LinkedList]|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/208.implement-trie-prefix-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/208.implement-trie-prefix-tree)|Medium|[Design], [Trie]|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/209.minimum-size-subarray-sum)|Medium|[Array], [TwoPointers], [BinarySearch]|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/213.house-robber-ii)|Medium|[DynamicProgramming]|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/214.shortest-palindrome)|Hard|[String]|

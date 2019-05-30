@@ -1,6 +1,7 @@
 # Trie
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/208.implement-trie-prefix-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/208.implement-trie-prefix-tree)|Medium|[Design], [Trie]|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/692.top-k-frequent-words)|Medium|[HashTable], [Heap], [Trie]|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/720.longest-word-in-dictionary)|Easy|[HashTable], [Trie]|
 
