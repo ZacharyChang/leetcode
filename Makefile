@@ -19,4 +19,4 @@ test:
 
 .PHONY: travis-test
 travis-test:
-	$(ENV) $(GOTEST) ./... -v -coverprofile=coverage.txt -covermode=atomic
+	$(ENV) $(GOTEST) ./... -coverprofile=coverage.txt -covermode=atomic
