@@ -4,10 +4,19 @@ GOBUILD=$(GOCMD) build
 GOINSTALL=$(GOCMD) install
 GOCLEAN=$(GOCMD) clean
 GOTEST=$(GOCMD) test
+ENV=GO111MODULE=on CGO_ENABLED=1
 
 default:
-	GO111MODULE=on $(GOTEST) ./...
+	$(ENV) $(GOTEST) ./...
+
+.PHONY: install
 install:
-	GO111MODULE=on $(GOINSTALL)
+	$(ENV) $(GOINSTALL)
+
+.PHONY: test
 test:
-	GO111MODULE=on $(GOTEST) ./... -v
+	$(ENV) $(GOTEST) ./... -v
+
+.PHONY: travis-test
+travis-test:
+	$(ENV) $(GOTEST) ./... -v -coverprofile=coverage.txt -covermode=atomic
