@@ -2,14 +2,14 @@ package leetcode
 
 type Trie struct {
 	isLeaf   bool
-	children map[byte]*Trie
+	children [26]*Trie
 }
 
 /** Initialize your data structure here. */
 func Constructor() Trie {
 	return Trie{
 		isLeaf:   false,
-		children: make(map[byte]*Trie, 0),
+		children: [26]*Trie{},
 	}
 }
 
@@ -18,15 +18,15 @@ func (this *Trie) Insert(word string) {
 	if len(word) == 0 {
 		return
 	}
-	_, exist := this.children[word[0]]
-	if !exist {
+	k := word[0] - 'a'
+	if this.children[k] == nil {
 		t := Constructor()
-		this.children[word[0]] = &t
+		this.children[k] = &t
 	}
 	if len(word) == 1 {
-		this.children[word[0]].isLeaf = true
+		this.children[k].isLeaf = true
 	} else {
-		this.children[word[0]].Insert(word[1:])
+		this.children[k].Insert(word[1:])
 	}
 }
 
@@ -35,8 +35,8 @@ func (this *Trie) Search(word string) bool {
 	if len(word) == 0 {
 		return true
 	}
-	v, exist := this.children[word[0]]
-	if !exist {
+	v := this.children[word[0]-'a']
+	if v == nil {
 		return false
 	}
 	if len(word) == 1 {
@@ -50,8 +50,8 @@ func (this *Trie) StartsWith(prefix string) bool {
 	if len(prefix) == 0 {
 		return true
 	}
-	v, exist := this.children[prefix[0]]
-	if !exist {
+	v := this.children[prefix[0]-'a']
+	if v == nil {
 		return false
 	}
 	return v.StartsWith(prefix[1:])
