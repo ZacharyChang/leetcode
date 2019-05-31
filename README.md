@@ -170,6 +170,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/599.minimum-index-sum-of-two-lists)|Easy|[HashTable]|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/606.construct-string-from-binary-tree)|Easy|[String], [Tree]|
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/609.find-duplicate-file-in-system)|Medium|[HashTable], [String]|
+|611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-numbe)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/611.valid-triangle-numbe)|Medium|[Array]|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/617.merge-two-binary-trees)|Easy|[Tree]|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/633.sum-of-square-numbers)|Easy|[Math]|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/637.average-of-levels-in-binary-tree)|Easy|[Tree]|
