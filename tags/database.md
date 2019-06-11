@@ -1,9 +1,7 @@
-# Design
+# Database
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
-|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/208.implement-trie-prefix-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/208.implement-trie-prefix-tree)|Medium|[Design], [Trie]|
-|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/225.implement-stack-using-queues)|Medium|[Stack], [Design]|
-|707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/707.design-linked-list)|Easy|[LinkedList], [Design]|
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/183.customers-who-never-order)|Easy|[Database]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md

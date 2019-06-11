@@ -95,6 +95,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/168.excel-sheet-column-title)|Easy|[Math]|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/171.excel-sheet-column-number)|Easy|[Math]|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/172.factorial-trailing-zeroes)|Easy|[Math]|
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/183.customers-who-never-order)|Easy|[Database]|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/189.rotate-array)|Easy|[Array]|
 |198|[House Robber](https://leetcode.com/problems/house-robber)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/198.house-robber)|Easy|[DynamicProgramming]|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/199.binary-tree-right-side-view)|Medium|[Tree], [DepthFirstSearch], [BreadthFirstSearch]|
@@ -208,6 +209,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 [BinarySearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/binary-search.md
 [BitManipulation]: https://github.com/ZacharyChang/leetcode/tree/master/tags/bit-manipulation.md
 [BreadthFirstSearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/breadth-first-search.md
+[Database]: https://github.com/ZacharyChang/leetcode/tree/master/tags/database.md
 [DepthFirstSearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/depth-first-search.md
 [Design]: https://github.com/ZacharyChang/leetcode/tree/master/tags/design.md
 [DivideAndConquer]: https://github.com/ZacharyChang/leetcode/tree/master/tags/divide-and-conquer.md

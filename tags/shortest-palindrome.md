@@ -1,9 +1,7 @@
-# Design
+# shortest-palindrome
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
-|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/208.implement-trie-prefix-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/208.implement-trie-prefix-tree)|Medium|[Design], [Trie]|
-|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/225.implement-stack-using-queues)|Medium|[Stack], [Design]|
-|707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/707.design-linked-list)|Easy|[LinkedList], [Design]|
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/214.shortest-palindrome)|Hard|[shortest-palindrome]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
@@ -11,7 +9,6 @@
 [BinarySearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/binary-search.md
 [BitManipulation]: https://github.com/ZacharyChang/leetcode/tree/master/tags/bit-manipulation.md
 [BreadthFirstSearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/breadth-first-search.md
-[Database]: https://github.com/ZacharyChang/leetcode/tree/master/tags/database.md
 [DepthFirstSearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/depth-first-search.md
 [Design]: https://github.com/ZacharyChang/leetcode/tree/master/tags/design.md
 [DivideAndConquer]: https://github.com/ZacharyChang/leetcode/tree/master/tags/divide-and-conquer.md
@@ -27,3 +24,4 @@
 [Tree]: https://github.com/ZacharyChang/leetcode/tree/master/tags/tree.md
 [Trie]: https://github.com/ZacharyChang/leetcode/tree/master/tags/trie.md
 [TwoPointers]: https://github.com/ZacharyChang/leetcode/tree/master/tags/two-pointers.md
+[shortest-palindrome]: https://github.com/ZacharyChang/leetcode/tree/master/tags/shortest-palindrome.md

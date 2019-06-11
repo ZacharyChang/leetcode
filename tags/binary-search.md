@@ -37,6 +37,7 @@
 [BinarySearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/binary-search.md
 [BitManipulation]: https://github.com/ZacharyChang/leetcode/tree/master/tags/bit-manipulation.md
 [BreadthFirstSearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/breadth-first-search.md
+[Database]: https://github.com/ZacharyChang/leetcode/tree/master/tags/database.md
 [DepthFirstSearch]: https://github.com/ZacharyChang/leetcode/tree/master/tags/depth-first-search.md
 [Design]: https://github.com/ZacharyChang/leetcode/tree/master/tags/design.md
 [DivideAndConquer]: https://github.com/ZacharyChang/leetcode/tree/master/tags/divide-and-conquer.md
