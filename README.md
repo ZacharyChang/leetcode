@@ -144,6 +144,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|[BinarySearch], [DynamicProgramming], [DivideAndConquer], [Greedy]|
 |394|[Decode String](https://leetcode.com/problems/decode-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/394.decode-string)|Medium|[Stack], [DepthFirstSearch]|
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/396.rotate-function)|Medium|[Math]|
+|397|[Integer Replacement](https://leetcode.com/problems/integer-replacement)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/397.integer-replacement)|Medium|[Math],[BitManipulation]|
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/404.sum-of-left-leaves)|Medium|[Tree]|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/409.longest-palindrome)|Easy|[HashTable]|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/413.arithmetic-slices)|Medium|[Math], [DynamicProgramming]|
