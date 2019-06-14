@@ -140,6 +140,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/367.valid-perfect-square)|Easy|[Math], [BinarySearch]|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/376.wiggle-subsequence)|Medium|[DynamicProgramming], [DivideAndConquer], [Greedy]|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/383.ransom-note)|Easy|[String]|
+|383|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/384.shuffle-an-array)|Medium|[Array]|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/389.find-the-difference)|Easy|[HashTable], [BitManipulation]|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|[BinarySearch], [DynamicProgramming], [DivideAndConquer], [Greedy]|
 |394|[Decode String](https://leetcode.com/problems/decode-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/394.decode-string)|Medium|[Stack], [DepthFirstSearch]|

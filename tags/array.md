@@ -41,6 +41,7 @@
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/238.product-of-array-except-self)|Medium|[Array]|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/287.find-the-duplicate-number)|Medium|[Array], [TwoPointers], [BinarySearch]|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/289.game-of-life)|Medium|[Array]|
+|383|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/384.shuffle-an-array)|Medium|[Array]|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/414.third-maximum-number)|Easy|[Array]|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/560.subarray-sum-equals-k)|Medium|[Array], [HashTable]|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-numbe)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/611.valid-triangle-numbe)|Medium|[Array]|
