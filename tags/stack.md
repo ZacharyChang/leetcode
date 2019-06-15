@@ -7,6 +7,7 @@
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/144.binary-tree-preorder-traversal)|Medium|[Stack], [Tree]|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/225.implement-stack-using-queues)|Medium|[Stack], [Design]|
 |394|[Decode String](https://leetcode.com/problems/decode-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/394.decode-string)|Medium|[Stack], [DepthFirstSearch]|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/496.next-greater-element-i)|Easy|[Stack]|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/844.backspace-string-compare)|Easy|[TwoPointers], [Stack]|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|[Stack]|
 
