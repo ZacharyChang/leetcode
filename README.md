@@ -173,6 +173,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/572.subtree-of-another-tree)|Easy|[Tree]|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/575.distribute-candies)|Easy|[HashTable]|
 |593|[Valid Square](https://leetcode.com/problems/valid-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/593.valid-square)|Medium|[Math]|
+|595|[Big Countries](https://leetcode.com/problems/big-countries)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/595.big-countries)|Easy|[Database]|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/599.minimum-index-sum-of-two-lists)|Easy|[HashTable]|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/606.construct-string-from-binary-tree)|Easy|[String], [Tree]|
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/609.find-duplicate-file-in-system)|Medium|[HashTable], [String]|

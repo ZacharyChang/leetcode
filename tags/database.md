@@ -2,6 +2,7 @@
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/183.customers-who-never-order)|Easy|[Database]|
+|595|[Big Countries](https://leetcode.com/problems/big-countries)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/595.big-countries)|Easy|[Database]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
