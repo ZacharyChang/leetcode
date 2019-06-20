@@ -23,6 +23,7 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/344.reverse-string)|Easy|[TwoPointers], [String]|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/349.intersection-of-two-arrays)|Easy|[HashTable], [TwoPointers], [BinarySearch], [Sort]|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/350.intersection-of-two-arrays-ii)|Easy|[HashTable], [TwoPointers], [BinarySearch], [Sort]|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/532.k-diff-pairs-in-an-array)|Easy|[Array], [TwoPointers]|
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/838.push-dominoes)|Medium|[TwoPointers], [DynamicProgramming]|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/844.backspace-string-compare)|Easy|[TwoPointers], [Stack]|
 
