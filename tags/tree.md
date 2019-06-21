@@ -23,6 +23,7 @@
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/404.sum-of-left-leaves)|Medium|[Tree]|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/513.find-bottom-left-tree-value)|Medium|[Tree], [DepthFirstSearch], [BreadthFirstSearch]|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/515.find-largest-value-in-each-tree-row)|Medium|[Tree], [DepthFirstSearch], [BreadthFirstSearch]|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/543.diameter-of-binary-tree)|Easy|[Tree]|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/563.binary-tree-tilt)|Easy|[Tree]|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/572.subtree-of-another-tree)|Easy|[Tree]|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/606.construct-string-from-binary-tree)|Easy|[String], [Tree]|

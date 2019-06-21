@@ -166,6 +166,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/532.k-diff-pairs-in-an-array)|Easy|[Array], [TwoPointers]|
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/537.complex-number-multiplication)|Easy|[Math], [String]|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/541.reverse-string-ii)|Easy|[String]|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/543.diameter-of-binary-tree)|Easy|[Tree]|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/551.student-attendance-record-i)|Easy|[String]|
 |554|[Brick Wall](https://leetcode.com/problems/brick-wall)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/554.brick-wall)|Medium|[HashTable]|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/557.reverse-words-in-a-string-iii)|Easy|[String]|
