@@ -171,6 +171,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |554|[Brick Wall](https://leetcode.com/problems/brick-wall)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/554.brick-wall)|Medium|[HashTable]|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/557.reverse-words-in-a-string-iii)|Easy|[String]|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/560.subarray-sum-equals-k)|Medium|[Array], [HashTable]|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/561.array-partition-i)|Easy|[Array]|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/563.binary-tree-tilt)|Easy|[Tree]|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/572.subtree-of-another-tree)|Easy|[Tree]|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/575.distribute-candies)|Easy|[HashTable]|

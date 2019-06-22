@@ -46,6 +46,7 @@
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/509.fibonacci-number)|Easy|[Array]|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/532.k-diff-pairs-in-an-array)|Easy|[Array], [TwoPointers]|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/560.subarray-sum-equals-k)|Medium|[Array], [HashTable]|
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/561.array-partition-i)|Easy|[Array]|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-numbe)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/611.valid-triangle-numbe)|Medium|[Array]|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],[DynamicProgramming]|
 
