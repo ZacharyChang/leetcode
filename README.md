@@ -173,6 +173,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/560.subarray-sum-equals-k)|Medium|[Array], [HashTable]|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/561.array-partition-i)|Easy|[Array]|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/563.binary-tree-tilt)|Easy|[Tree]|
+|566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/566.reshape-the-matrix)|Easy|[Array]|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/572.subtree-of-another-tree)|Easy|[Tree]|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/575.distribute-candies)|Easy|[HashTable]|
 |593|[Valid Square](https://leetcode.com/problems/valid-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/593.valid-square)|Medium|[Math]|
