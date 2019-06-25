@@ -183,6 +183,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/609.find-duplicate-file-in-system)|Medium|[HashTable], [String]|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-numbe)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/611.valid-triangle-numbe)|Medium|[Array]|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/617.merge-two-binary-trees)|Easy|[Tree]|
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/620.not-boring-movies)|Easy|[Database]|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/627.swap-salary)|Easy|[Database]|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/633.sum-of-square-numbers)|Easy|[Math]|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/637.average-of-levels-in-binary-tree)|Easy|[Tree]|

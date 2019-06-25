@@ -3,6 +3,7 @@
 |-|-----|--------|----------|----|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/183.customers-who-never-order)|Easy|[Database]|
 |595|[Big Countries](https://leetcode.com/problems/big-countries)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/595.big-countries)|Easy|[Database]|
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/620.not-boring-movies)|Easy|[Database]|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/627.swap-salary)|Easy|[Database]|
 
 ## Link
