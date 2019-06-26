@@ -195,6 +195,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/658.find-k-closest-elements)|Medium|[BinarySearch]|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/680.valid-palindrome-ii)|Easy|[String]|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/692.top-k-frequent-words)|Medium|[HashTable], [Heap], [Trie]|
+|697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/697.degree-of-an-array)|Easy|[Array]|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/700.search-in-a-binary-search-tree)|Easy|[Tree]|
 |704|[Binary Search](https://leetcode.com/problems/binary-search)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/704.binary-search)|Easy|[BinarySearch]|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/707.design-linked-list)|Easy|[LinkedList], [Design]|
