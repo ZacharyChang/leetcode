@@ -193,6 +193,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/654.maximum-binary-tree)|Medium|[Tree]|
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/657.judge-route-circle)|Easy|[String]|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/658.find-k-closest-elements)|Medium|[BinarySearch]|
+|661|[Image Smoother](https://leetcode.com/problems/image-smoother)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/661.image-smoother)|Easy|[Array]|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/680.valid-palindrome-ii)|Easy|[String]|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/692.top-k-frequent-words)|Medium|[HashTable], [Heap], [Trie]|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/697.degree-of-an-array)|Easy|[Array]|
