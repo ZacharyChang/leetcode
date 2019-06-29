@@ -194,6 +194,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/657.judge-route-circle)|Easy|[String]|
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/658.find-k-closest-elements)|Medium|[BinarySearch]|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/661.image-smoother)|Easy|[Array]|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/665.non-decreasing-array)|Easy|[Array]|
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/677.map-sum-pairs)|Medium|[Trie]|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/680.valid-palindrome-ii)|Easy|[String]|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/692.top-k-frequent-words)|Medium|[HashTable], [Heap], [Trie]|

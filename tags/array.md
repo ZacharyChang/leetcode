@@ -50,6 +50,7 @@
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/566.reshape-the-matrix)|Easy|[Array]|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-numbe)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/611.valid-triangle-numbe)|Medium|[Array]|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/661.image-smoother)|Easy|[Array]|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/665.non-decreasing-array)|Easy|[Array]|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/697.degree-of-an-array)|Easy|[Array]|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],[DynamicProgramming]|
 
