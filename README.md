@@ -195,6 +195,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/658.find-k-closest-elements)|Medium|[BinarySearch]|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/661.image-smoother)|Easy|[Array]|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/665.non-decreasing-array)|Easy|[Array]|
+|674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/674.longest-continuous-increasing-subsequence)|Easy|[Array]|
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/677.map-sum-pairs)|Medium|[Trie]|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/680.valid-palindrome-ii)|Easy|[String]|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/692.top-k-frequent-words)|Medium|[HashTable], [Heap], [Trie]|
