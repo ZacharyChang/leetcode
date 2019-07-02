@@ -5,16 +5,15 @@ func findLengthOfLCIS(nums []int) int {
 		return len(nums)
 	}
 	res := 1
-	array := make([]int, len(nums))
-	array[0] = 1
+	tmp := 1
 	for i := 1; i < len(nums); i++ {
 		if nums[i] > nums[i-1] {
-			array[i] = array[i-1] + 1
+			tmp++
+			if tmp > res {
+				res = tmp
+			}
 		} else {
-			array[i] = 1
-		}
-		if array[i] > res {
-			res = array[i]
+			tmp = 1
 		}
 	}
 	return res
