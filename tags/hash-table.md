@@ -26,6 +26,7 @@
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/599.minimum-index-sum-of-two-lists)|Easy|[HashTable]|
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/609.find-duplicate-file-in-system)|Medium|[HashTable], [String]|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/645.set-mismatch)|Easy|[HashTable],[Math]|
+|648|[Replace Words](https://leetcode.com/problems/replace-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/648.replace-words)|Medium|[HashTable],[Trie]|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/692.top-k-frequent-words)|Medium|[HashTable], [Heap], [Trie]|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/720.longest-word-in-dictionary)|Easy|[HashTable], [Trie]|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/771.jewels-and-stones)|Easy|[HashTable]|
