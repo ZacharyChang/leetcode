@@ -49,6 +49,7 @@
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/561.array-partition-i)|Easy|[Array]|
 |566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/566.reshape-the-matrix)|Easy|[Array]|
 |611|[Valid Triangle Number](https://leetcode.com/problems/valid-triangle-numbe)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/611.valid-triangle-numbe)|Medium|[Array]|
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/643.maximum-average-subarray-i)|Easy|[Array]|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/661.image-smoother)|Easy|[Array]|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/665.non-decreasing-array)|Easy|[Array]|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/674.longest-continuous-increasing-subsequence)|Easy|[Array]|

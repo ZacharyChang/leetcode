@@ -187,6 +187,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/627.swap-salary)|Easy|[Database]|
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/633.sum-of-square-numbers)|Easy|[Math]|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/637.average-of-levels-in-binary-tree)|Easy|[Tree]|
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/643.maximum-average-subarray-i)|Easy|[Array]|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/645.set-mismatch)|Easy|[HashTable],[Math]|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/647.palindromic-substrings)|Medium|[String],[DynamicProgramming]|
 |648|[Replace Words](https://leetcode.com/problems/replace-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/648.replace-words)|Medium|[HashTable],[Trie]|
