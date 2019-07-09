@@ -35,6 +35,7 @@
 |657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/657.judge-route-circle)|Easy|[String]|
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/680.valid-palindrome-ii)|Easy|[String]|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/709.to-lower-case)|Easy|[String]|
+|796|[Rotate String](https://leetcode.com/problems/rotate-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/796.rotate-string)|Easy|[String]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
