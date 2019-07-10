@@ -219,6 +219,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/838.push-dominoes)|Medium|[TwoPointers], [DynamicProgramming]|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/844.backspace-string-compare)|Easy|[TwoPointers], [Stack]|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/852.peak-index-in-a-mountain-array)|Easy|[BinarySearch]|
+|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/867.transpose-matrix)|Easy|[Array]|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/872.leaf-similar-trees)|Easy|[Tree], [DepthFirstSearch]|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/875.koko-eating-bananas)|Medium|[BinarySearch]|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/876.middle-of-the-linked-list)|Easy|[LinkedList]|
