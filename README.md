@@ -211,6 +211,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/728.self-dividing-numbers)|Easy|[Math]|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/733.flood-fill)|Easy|[DepthFirstSearch]|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/744.find-smallest-letter-greater-than-target)|Easy|[BinarySearch]|
+|745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/745.prefix-and-suffix-search)|Hard|[Trie]|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],[DynamicProgramming]|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/766.toeplitz-matrix)|Easy|[Array]|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/771.jewels-and-stones)|Easy|[HashTable]|

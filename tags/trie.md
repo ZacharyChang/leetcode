@@ -6,6 +6,7 @@
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/677.map-sum-pairs)|Medium|[Trie]|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/692.top-k-frequent-words)|Medium|[HashTable], [Heap], [Trie]|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/720.longest-word-in-dictionary)|Easy|[HashTable], [Trie]|
+|745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/745.prefix-and-suffix-search)|Hard|[Trie]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
