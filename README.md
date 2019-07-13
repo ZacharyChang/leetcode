@@ -210,6 +210,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/725.split-linked-list-in-parts)|Medium|[LinkedList]|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/728.self-dividing-numbers)|Easy|[Math]|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/733.flood-fill)|Easy|[DepthFirstSearch]|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/739.daily-temperatures)|Medium|[HashTable], [Stack]|
 |744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/744.find-smallest-letter-greater-than-target)|Easy|[BinarySearch]|
 |745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/745.prefix-and-suffix-search)|Hard|[Trie]|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],[DynamicProgramming]|

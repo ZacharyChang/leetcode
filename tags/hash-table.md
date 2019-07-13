@@ -29,6 +29,7 @@
 |648|[Replace Words](https://leetcode.com/problems/replace-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/648.replace-words)|Medium|[HashTable],[Trie]|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/692.top-k-frequent-words)|Medium|[HashTable], [Heap], [Trie]|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/720.longest-word-in-dictionary)|Easy|[HashTable], [Trie]|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/739.daily-temperatures)|Medium|[HashTable], [Stack]|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/771.jewels-and-stones)|Easy|[HashTable]|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/811.subdomain-visit-count)|Easy|[HashTable]|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/884.uncommon-words-from-two-sentences)|Easy|[HashTable]|
