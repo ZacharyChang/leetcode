@@ -4,6 +4,7 @@
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/001.two-sum)|Easy|[Array], [HashTable]|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/003.longest-substring-without-repeating-characters)|Medium|[HashTable], [TwoPointers], [String]|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/036.valid-sudoku)|Meidum|[HashTable]|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/037.sudoku-solver)|Hard|[HashTable], [Backtracking]|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/049.group-anagrams)|Medium|[HashTable], [String]|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/094.binary-tree-inorder-traversal)|Medium|[HashTable], [Stack], [Tree]|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/202.happy-number)|Easy|[HashTable], [Math]|

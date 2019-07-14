@@ -33,6 +33,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/034.search-for-a-range)|Medium|[Array], [BinarySearch]|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/035.search-insert-position)|Easy|[Array], [BinarySearch]|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/036.valid-sudoku)|Meidum|[HashTable]|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/037.sudoku-solver)|Hard|[HashTable], [Backtracking]|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/038.count-and-say)|Easy|[String]|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/039.combination-sum)|Medium|[String], [Backtracking]|
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/046.permutations)|Medium|[Backtracking]|
