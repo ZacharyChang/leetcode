@@ -17,6 +17,7 @@
 |394|[Decode String](https://leetcode.com/problems/decode-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/394.decode-string)|Medium|[Stack], [DepthFirstSearch]|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/513.find-bottom-left-tree-value)|Medium|[Tree], [DepthFirstSearch], [BreadthFirstSearch]|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/515.find-largest-value-in-each-tree-row)|Medium|[Tree], [DepthFirstSearch], [BreadthFirstSearch]|
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/542.01-matrix)|Medium|[DepthFirstSearch], [BreadthFirstSearch]|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/733.flood-fill)|Easy|[DepthFirstSearch]|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/872.leaf-similar-trees)|Easy|[Tree], [DepthFirstSearch]|
 
