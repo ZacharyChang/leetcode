@@ -210,6 +210,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/707.design-linked-list)|Easy|[LinkedList], [Design]|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/709.to-lower-case)|Easy|[String]|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/720.longest-word-in-dictionary)|Easy|[HashTable], [Trie]|
+|721|[Accounts Merge](https://leetcode.com/problems/accounts-merge)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/721.accounts-merge)|Medium|[DepthFirstSearch], [UnionFind]|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/725.split-linked-list-in-parts)|Medium|[LinkedList]|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/728.self-dividing-numbers)|Easy|[Math]|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/733.flood-fill)|Easy|[DepthFirstSearch]|
@@ -253,3 +254,4 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 [Tree]: https://github.com/ZacharyChang/leetcode/tree/master/tags/tree.md
 [Trie]: https://github.com/ZacharyChang/leetcode/tree/master/tags/trie.md
 [TwoPointers]: https://github.com/ZacharyChang/leetcode/tree/master/tags/two-pointers.md
+[UnionFind]: https://github.com/ZacharyChang/leetcode/tree/master/tags/union-find.md

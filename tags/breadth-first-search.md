@@ -33,3 +33,4 @@
 [Tree]: https://github.com/ZacharyChang/leetcode/tree/master/tags/tree.md
 [Trie]: https://github.com/ZacharyChang/leetcode/tree/master/tags/trie.md
 [TwoPointers]: https://github.com/ZacharyChang/leetcode/tree/master/tags/two-pointers.md
+[UnionFind]: https://github.com/ZacharyChang/leetcode/tree/master/tags/union-find.md
