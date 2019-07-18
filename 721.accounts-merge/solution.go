@@ -2,24 +2,25 @@ package leetcode
 
 import "sort"
 
-type DSD struct {
+// DSU is a type of Disjoint Sets UnionFind
+type DSU struct {
 	parent map[string]string
 }
 
-func NewDSD() DSD {
-	return DSD{
+func NewDSD() DSU {
+	return DSU{
 		parent: make(map[string]string, 0),
 	}
 }
 
-func (d *DSD) findRoot(s string) string {
+func (d *DSU) findRoot(s string) string {
 	for d.parent[s] != "" {
 		s = d.parent[s]
 	}
 	return s
 }
 
-func (d *DSD) union(a string, b string) bool {
+func (d *DSU) union(a string, b string) bool {
 	rootA := d.findRoot(a)
 	rootB := d.findRoot(b)
 	if rootA == rootB {
