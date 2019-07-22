@@ -221,6 +221,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/748.shortest-completing-word)|Easy|[HashTable]|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/766.toeplitz-matrix)|Easy|[Array]|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/771.jewels-and-stones)|Easy|[HashTable]|
+|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/79.custom-sort-string)|Medium|[String]|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/796.rotate-string)|Easy|[String]|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/811.subdomain-visit-count)|Easy|[HashTable]|
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/838.push-dominoes)|Medium|[TwoPointers], [DynamicProgramming]|
