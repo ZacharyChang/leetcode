@@ -36,8 +36,8 @@ func Test_accountsMerge(t *testing.T) {
 		t.Run(tt.name, func(t *testing.T) {
 			got := accountsMerge(tt.args.accounts)
 			w := tt.want
-			sort.Sort(accountInfo(got))
-			sort.Sort(accountInfo(w))
+			sort.Sort(emailList(got))
+			sort.Sort(emailList(w))
 			if !reflect.DeepEqual(got, tt.want) {
 				t.Errorf("accountsMerge() = %v, want %v", got, tt.want)
 			}
@@ -45,10 +45,10 @@ func Test_accountsMerge(t *testing.T) {
 	}
 }
 
-type accountInfo [][]string
+type emailList [][]string
 
-func (a accountInfo) Len() int { return len(a) }
-func (a accountInfo) Less(i, j int) bool {
+func (a emailList) Len() int { return len(a) }
+func (a emailList) Less(i, j int) bool {
 	if len(a[i]) < len(a[j]) {
 		return true
 	} else if len(a[i]) == len(a[j]) {
@@ -62,4 +62,4 @@ func (a accountInfo) Less(i, j int) bool {
 	}
 	return false
 }
-func (a accountInfo) Swap(i, j int) { a[i], a[j] = a[j], a[i] }
+func (a emailList) Swap(i, j int) { a[i], a[j] = a[j], a[i] }

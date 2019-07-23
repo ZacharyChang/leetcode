@@ -1,26 +1,36 @@
 package leetcode
 
-import "sort"
+import (
+	"sort"
+)
 
 // DSU is a type of Disjoint Sets UnionFind
+// performance improved by using array rather than hashtable
 type DSU struct {
-	parent map[string]string
+	parent []int
 }
 
 func NewDSD() DSU {
+	// max email number is 1000 * 10
+	parent := make([]int, 10000)
+	for i := range parent {
+		parent[i] = i
+	}
 	return DSU{
-		parent: make(map[string]string, 0),
+		parent: parent,
 	}
 }
 
-func (d *DSU) findRoot(s string) string {
-	for d.parent[s] != "" {
-		s = d.parent[s]
+func (d *DSU) findRoot(x int) int {
+	// can use recursive here
+	// but use loop because of performance
+	for d.parent[x] != x {
+		x = d.parent[x]
 	}
-	return s
+	return x
 }
 
-func (d *DSU) union(a string, b string) bool {
+func (d *DSU) union(a int, b int) bool {
 	rootA := d.findRoot(a)
 	rootB := d.findRoot(b)
 	if rootA == rootB {
@@ -31,29 +41,36 @@ func (d *DSU) union(a string, b string) bool {
 }
 
 // union find
-// TODO: performance
 func accountsMerge(accounts [][]string) [][]string {
 	res := make([][]string, 0)
-	accountMap := make(map[string]string, 0)
+	emailToAccount := make(map[string]string, 0)
+	emailToID := make(map[string]int, 0)
 
 	d := NewDSD()
 
+	id := 0
 	for i := 0; i < len(accounts); i++ {
 		for j := 1; j < len(accounts[i]); j++ {
-			d.union(accounts[i][1], accounts[i][j])
-			accountMap[accounts[i][j]] = accounts[i][0]
+			if _, ok := emailToID[accounts[i][j]]; !ok {
+				emailToID[accounts[i][j]] = id
+				id++
+			}
+			d.union(emailToID[accounts[i][1]], emailToID[accounts[i][j]])
+			emailToAccount[accounts[i][j]] = accounts[i][0]
 		}
 	}
 
-	group := make(map[string][]string, 0)
+	group := make(map[int][]string, 0)
 
-	for k := range accountMap {
-		group[d.findRoot(k)] = append(group[d.findRoot(k)], k)
+	// create the group by different root
+	for k := range emailToAccount {
+		rootID := d.findRoot(emailToID[k])
+		group[rootID] = append(group[rootID], k)
 	}
 	for _, v := range group {
 		// in sorted order
 		sort.Strings(v)
-		res = append(res, append([]string{accountMap[v[0]]}, v...))
+		res = append(res, append([]string{emailToAccount[v[0]]}, v...))
 	}
 
 	return res
