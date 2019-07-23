@@ -1,6 +1,7 @@
 package main
 
 import (
+	"flag"
 	"fmt"
 	"io/ioutil"
 	"log"
@@ -10,12 +11,14 @@ import (
 )
 
 var (
-	source = "../../README.md"
-	target = "../../tags/"
+	source    = flag.String("source", "./README.md", "The file to parse from")
+	outputDir = flag.String("outputDir", "./tags/", "The directory to write outputDir files")
 )
 
 func main() {
-	b, err := ioutil.ReadFile(source)
+	flag.Parse()
+
+	b, err := ioutil.ReadFile(*source)
 	if err != nil {
 		log.Fatalf(err.Error())
 	}
@@ -46,8 +49,8 @@ func main() {
 	}
 	sort.Strings(footer)
 	for k, v := range tagMap {
-		_ = os.MkdirAll(target, os.ModePerm)
-		file, err := os.Create(target + camel2Snake(k) + ".md")
+		_ = os.MkdirAll(*outputDir, os.ModePerm)
+		file, err := os.Create(*outputDir + camel2Snake(k) + ".md")
 		if err != nil {
 			log.Fatal("Cannot create file", err)
 		}
