@@ -1,6 +1,7 @@
 # UnionFind
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
+|547|[Friend Circles](https://leetcode.com/problems/friend-circles)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/547.friend-circles)|Medium|[DepthFirstSearch], [UnionFind]|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/721.accounts-merge)|Medium|[DepthFirstSearch], [UnionFind]|
 
 ## Link
