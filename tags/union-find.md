@@ -3,6 +3,7 @@
 |-|-----|--------|----------|----|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/547.friend-circles)|Medium|[DepthFirstSearch], [UnionFind]|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/721.accounts-merge)|Medium|[DepthFirstSearch], [UnionFind]|
+|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
@@ -15,6 +16,7 @@
 [Design]: https://github.com/ZacharyChang/leetcode/tree/master/tags/design.md
 [DivideAndConquer]: https://github.com/ZacharyChang/leetcode/tree/master/tags/divide-and-conquer.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
+[Graph]: https://github.com/ZacharyChang/leetcode/tree/master/tags/graph.md
 [Greedy]: https://github.com/ZacharyChang/leetcode/tree/master/tags/greedy.md
 [HashTable]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Heap]: https://github.com/ZacharyChang/leetcode/tree/master/tags/heap.md

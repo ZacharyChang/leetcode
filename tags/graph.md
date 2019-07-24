@@ -1,11 +1,7 @@
-# DivideAndConquer
+# Graph
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/004.median-of-two-sorted-arrays)|Hard|[Array], [BinarySearch], [DivideAndConquer]|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/053.maximum-subarray)|Easy|[Array], [DivideAndConquer], [DynamicProgramming]|
-|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/240.search-a-2d-matrix-ii)|Medium|[BinarySearch], [DivideAndConquer]|
-|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/376.wiggle-subsequence)|Medium|[DynamicProgramming], [DivideAndConquer], [Greedy]|
-|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|[BinarySearch], [DynamicProgramming], [DivideAndConquer], [Greedy]|
+|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md

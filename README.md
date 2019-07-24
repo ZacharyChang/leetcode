@@ -234,6 +234,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/875.koko-eating-bananas)|Medium|[BinarySearch]|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/876.middle-of-the-linked-list)|Easy|[LinkedList]|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/884.uncommon-words-from-two-sentences)|Easy|[HashTable]|
+|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|[Stack]|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
@@ -246,6 +247,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 [Design]: https://github.com/ZacharyChang/leetcode/tree/master/tags/design.md
 [DivideAndConquer]: https://github.com/ZacharyChang/leetcode/tree/master/tags/divide-and-conquer.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
+[Graph]: https://github.com/ZacharyChang/leetcode/tree/master/tags/graph.md
 [Greedy]: https://github.com/ZacharyChang/leetcode/tree/master/tags/greedy.md
 [HashTable]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Heap]: https://github.com/ZacharyChang/leetcode/tree/master/tags/heap.md

@@ -38,6 +38,7 @@
 [Design]: https://github.com/ZacharyChang/leetcode/tree/master/tags/design.md
 [DivideAndConquer]: https://github.com/ZacharyChang/leetcode/tree/master/tags/divide-and-conquer.md
 [DynamicProgramming]: https://github.com/ZacharyChang/leetcode/tree/master/tags/dynamic-programming.md
+[Graph]: https://github.com/ZacharyChang/leetcode/tree/master/tags/graph.md
 [Greedy]: https://github.com/ZacharyChang/leetcode/tree/master/tags/greedy.md
 [HashTable]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Heap]: https://github.com/ZacharyChang/leetcode/tree/master/tags/heap.md
