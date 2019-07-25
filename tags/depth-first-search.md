@@ -13,6 +13,7 @@
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/113.path-sum-ii)|Medium|[Tree], [DepthFirstSearch]|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/129.sum-root-to-leaf-numbers)|Medium|[Tree], [DepthFirstSearch]|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/199.binary-tree-right-side-view)|Medium|[Tree], [DepthFirstSearch], [BreadthFirstSearch]|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/200.number-of-islands)|Medium|[DepthFirstSearch], [BreadthFirstSearch], [UnionFind]|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/257.binary-tree-paths)|Easy|[Tree], [DepthFirstSearch]|
 |394|[Decode String](https://leetcode.com/problems/decode-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/394.decode-string)|Medium|[Stack], [DepthFirstSearch]|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/513.find-bottom-left-tree-value)|Medium|[Tree], [DepthFirstSearch], [BreadthFirstSearch]|
