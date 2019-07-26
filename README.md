@@ -226,6 +226,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/79.custom-sort-string)|Medium|[String]|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/796.rotate-string)|Easy|[String]|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/811.subdomain-visit-count)|Easy|[HashTable]|
+|832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/832.flipping-an-image)|Easy|[Array]|
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/838.push-dominoes)|Medium|[TwoPointers], [DynamicProgramming]|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/844.backspace-string-compare)|Easy|[TwoPointers], [Stack]|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/852.peak-index-in-a-mountain-array)|Easy|[BinarySearch]|
