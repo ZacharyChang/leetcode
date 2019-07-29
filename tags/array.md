@@ -54,6 +54,7 @@
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/665.non-decreasing-array)|Easy|[Array]|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/674.longest-continuous-increasing-subsequence)|Easy|[Array]|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/697.degree-of-an-array)|Easy|[Array]|
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/724.find-pivot-index)|Easy|[Array]|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],[DynamicProgramming]|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/766.toeplitz-matrix)|Easy|[Array]|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/807.max-increase-to-keep-city-skyline)|Medium|[Array]|
