@@ -58,6 +58,7 @@
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array],[DynamicProgramming]|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/766.toeplitz-matrix)|Easy|[Array]|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/807.max-increase-to-keep-city-skyline)|Medium|[Array]|
+|824|[Goat Latin](https://leetcode.com/problems/goat-latin)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/824.goat-latin)|Easy|[Array]|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/832.flipping-an-image)|Easy|[Array]|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/867.transpose-matrix)|Easy|[Array]|
 
