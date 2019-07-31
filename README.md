@@ -228,6 +228,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |796|[Rotate String](https://leetcode.com/problems/rotate-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/796.rotate-string)|Easy|[String]|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/807.max-increase-to-keep-city-skyline)|Medium|[Array]|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/811.subdomain-visit-count)|Easy|[HashTable]|
+|821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/821.shortest-distance-to-a-character)|Easy|[Array]|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/824.goat-latin)|Easy|[Array]|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/832.flipping-an-image)|Easy|[Array]|
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/838.push-dominoes)|Medium|[TwoPointers], [DynamicProgramming]|
