@@ -231,6 +231,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/821.shortest-distance-to-a-character)|Easy|[Array]|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/824.goat-latin)|Easy|[Array]|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/832.flipping-an-image)|Easy|[Array]|
+|836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/836.rectangle-overlap)|Easy|[Math]|
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/838.push-dominoes)|Medium|[TwoPointers], [DynamicProgramming]|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/844.backspace-string-compare)|Easy|[TwoPointers], [Stack]|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/852.peak-index-in-a-mountain-array)|Easy|[BinarySearch]|
