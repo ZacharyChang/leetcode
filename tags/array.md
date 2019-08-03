@@ -62,6 +62,7 @@
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/824.goat-latin)|Easy|[Array]|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/832.flipping-an-image)|Easy|[Array]|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/867.transpose-matrix)|Easy|[Array]|
+|888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/888.fair-candy-swap|Easy|[Array]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
