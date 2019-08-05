@@ -33,6 +33,7 @@
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/645.set-mismatch)|Easy|[HashTable],[Math]|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/728.self-dividing-numbers)|Easy|[Math]|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/836.rectangle-overlap)|Easy|[Math]|
+|868|[Binary Gap](https://leetcode.com/problems/binary-gap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/868.binary-gap)|Easy|[Math]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md

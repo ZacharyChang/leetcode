@@ -237,6 +237,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/852.peak-index-in-a-mountain-array)|Easy|[BinarySearch]|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/860.lemonade-change)|Easy|[Greedy]|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/867.transpose-matrix)|Easy|[Array]|
+|868|[Binary Gap](https://leetcode.com/problems/binary-gap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/868.binary-gap)|Easy|[Math]|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/872.leaf-similar-trees)|Easy|[Tree], [DepthFirstSearch]|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/875.koko-eating-bananas)|Medium|[BinarySearch]|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/876.middle-of-the-linked-list)|Easy|[LinkedList]|
