@@ -226,8 +226,9 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/771.jewels-and-stones)|Easy|[HashTable]|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/79.custom-sort-string)|Medium|[String]|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/796.rotate-string)|Easy|[String]|
+|802|[ Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/802.find-eventual-safe-states)|Medium|[DepthFirstSearch], [Graph]|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/807.max-increase-to-keep-city-skyline)|Medium|[Array]|
-|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/811.subdomain-visit-count)|Easy|[HashTable]|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[Detail](http   ' 　s://github.com/ZacharyChang/leetcode/tree/master/811.subdomain-visit-count)|Easy|[HashTable]|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/821.shortest-distance-to-a-character)|Easy|[Array]|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/824.goat-latin)|Easy|[Array]|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/832.flipping-an-image)|Easy|[Array]|

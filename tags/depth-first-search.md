@@ -22,6 +22,7 @@
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/547.friend-circles)|Medium|[DepthFirstSearch], [UnionFind]|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/721.accounts-merge)|Medium|[DepthFirstSearch], [UnionFind]|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/733.flood-fill)|Easy|[DepthFirstSearch]|
+|802|[ Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/802.find-eventual-safe-states)|Medium|[DepthFirstSearch], [Graph]|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/872.leaf-similar-trees)|Easy|[Tree], [DepthFirstSearch]|
 
 ## Link

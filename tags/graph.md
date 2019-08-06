@@ -1,6 +1,7 @@
 # Graph
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
+|802|[ Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/802.find-eventual-safe-states)|Medium|[DepthFirstSearch], [Graph]|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|
 
 ## Link

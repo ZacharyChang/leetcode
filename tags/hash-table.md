@@ -33,7 +33,7 @@
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/739.daily-temperatures)|Medium|[HashTable], [Stack]|
 |748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/748.shortest-completing-word)|Easy|[HashTable]|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/771.jewels-and-stones)|Easy|[HashTable]|
-|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/811.subdomain-visit-count)|Easy|[HashTable]|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[Detail](http   ' 　s://github.com/ZacharyChang/leetcode/tree/master/811.subdomain-visit-count)|Easy|[HashTable]|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/884.uncommon-words-from-two-sentences)|Easy|[HashTable]|
 
 ## Link
