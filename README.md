@@ -228,7 +228,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |796|[Rotate String](https://leetcode.com/problems/rotate-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/796.rotate-string)|Easy|[String]|
 |802|[ Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/802.find-eventual-safe-states)|Medium|[DepthFirstSearch], [Graph]|
 |807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/807.max-increase-to-keep-city-skyline)|Medium|[Array]|
-|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[Detail](http   ' 　s://github.com/ZacharyChang/leetcode/tree/master/811.subdomain-visit-count)|Easy|[HashTable]|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/811.subdomain-visit-count)|Easy|[HashTable]|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/821.shortest-distance-to-a-character)|Easy|[Array]|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/824.goat-latin)|Easy|[Array]|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/832.flipping-an-image)|Easy|[Array]|
@@ -243,8 +243,8 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/875.koko-eating-bananas)|Medium|[BinarySearch]|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/876.middle-of-the-linked-list)|Easy|[LinkedList]|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/884.uncommon-words-from-two-sentences)|Easy|[HashTable]|
-|888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/888.fair-candy-swap|Easy|[Array]|
-|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/905.sort-array-by-parity|Easy|[Array]|
+|888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/888.fair-candy-swap)|Easy|[Array]|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/905.sort-array-by-parity)|Easy|[Array]|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|[Stack]|
 
