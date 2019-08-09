@@ -37,6 +37,7 @@
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/709.to-lower-case)|Easy|[String]|
 |791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/79.custom-sort-string)|Medium|[String]|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/796.rotate-string)|Easy|[String]|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/804.unique-morse-code-words)|Easy|[String]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
