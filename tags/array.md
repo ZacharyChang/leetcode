@@ -64,6 +64,7 @@
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/867.transpose-matrix)|Easy|[Array]|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/888.fair-candy-swap)|Easy|[Array]|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/905.sort-array-by-parity)|Easy|[Array]|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/941.valid-mountain-array/)|Easy|[Array]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md

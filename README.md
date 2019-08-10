@@ -246,6 +246,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/884.uncommon-words-from-two-sentences)|Easy|[HashTable]|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/888.fair-candy-swap)|Easy|[Array]|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/905.sort-array-by-parity)|Easy|[Array]|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/941.valid-mountain-array/)|Easy|[Array]|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|[Stack]|
 
