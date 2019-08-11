@@ -245,6 +245,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/876.middle-of-the-linked-list)|Easy|[LinkedList]|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/884.uncommon-words-from-two-sentences)|Easy|[HashTable]|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/888.fair-candy-swap)|Easy|[Array]|
+|901|[Online Stock Span](https://leetcode.com/problems/online-stock-span)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/901.online-stock-span)|Easy|[Stack]|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/905.sort-array-by-parity)|Easy|[Array]|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/941.valid-mountain-array/)|Easy|[Array]|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|
