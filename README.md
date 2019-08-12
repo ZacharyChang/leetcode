@@ -247,6 +247,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/888.fair-candy-swap)|Easy|[Array]|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/901.online-stock-span)|Easy|[Stack]|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/905.sort-array-by-parity)|Easy|[Array]|
+|908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/908.smallest-range-i)|Easy|[Math]|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/941.valid-mountain-array/)|Easy|[Array]|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|[Stack]|
