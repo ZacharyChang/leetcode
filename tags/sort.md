@@ -6,6 +6,7 @@
 |274|[H-Index](https://leetcode.com/problems/h-index)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/274.h-index)|Easy|[HashTable], [Sort]|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/349.intersection-of-two-arrays)|Easy|[HashTable], [TwoPointers], [BinarySearch], [Sort]|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/350.intersection-of-two-arrays-ii)|Easy|[HashTable], [TwoPointers], [BinarySearch], [Sort]|
+|922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/922.sort-array-by-parity-ii)|Easy|[Array], [Sort]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
