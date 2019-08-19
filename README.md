@@ -248,6 +248,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/901.online-stock-span)|Easy|[Stack]|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/905.sort-array-by-parity)|Easy|[Array]|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/908.smallest-range-i)|Easy|[Math]|
+|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/914.x-of-a-kind-in-a-deck-of-cards)|Easy|[Array], [Math]|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/917.reverse-only-letters)|Easy|[String]|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/922.sort-array-by-parity-ii)|Easy|[Array], [Sort]|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/941.valid-mountain-array/)|Easy|[Array]|
