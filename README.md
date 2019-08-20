@@ -250,6 +250,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/908.smallest-range-i)|Easy|[Math]|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/914.x-of-a-kind-in-a-deck-of-cards)|Easy|[Array], [Math]|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/917.reverse-only-letters)|Easy|[String]|
+|921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/921.minimum-add-to-make-parentheses-valid)|Easy|[Stack], [Greedy]|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/922.sort-array-by-parity-ii)|Easy|[Array], [Sort]|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/941.valid-mountain-array/)|Easy|[Array]|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|

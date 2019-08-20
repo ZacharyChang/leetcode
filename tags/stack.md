@@ -11,6 +11,7 @@
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/739.daily-temperatures)|Medium|[HashTable], [Stack]|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/844.backspace-string-compare)|Easy|[TwoPointers], [Stack]|
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/901.online-stock-span)|Easy|[Stack]|
+|921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/921.minimum-add-to-make-parentheses-valid)|Easy|[Stack], [Greedy]|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|[Stack]|
 
 ## Link
