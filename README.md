@@ -252,6 +252,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/917.reverse-only-letters)|Easy|[String]|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/921.minimum-add-to-make-parentheses-valid)|Easy|[Stack], [Greedy]|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/922.sort-array-by-parity-ii)|Easy|[Array], [Sort]|
+|929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/927.unique-email-addresses)|Easy|[String]|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/941.valid-mountain-array/)|Easy|[Array]|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|[Stack]|
