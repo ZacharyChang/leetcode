@@ -44,6 +44,7 @@
 [Heap]: https://github.com/ZacharyChang/leetcode/tree/master/tags/heap.md
 [LinkedList]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md
 [Math]: https://github.com/ZacharyChang/leetcode/tree/master/tags/math.md
+[Queue]: https://github.com/ZacharyChang/leetcode/tree/master/tags/queue.md
 [Sort]: https://github.com/ZacharyChang/leetcode/tree/master/tags/sort.md
 [Stack]: https://github.com/ZacharyChang/leetcode/tree/master/tags/stack.md
 [String]: https://github.com/ZacharyChang/leetcode/tree/master/tags/string.md
