@@ -40,6 +40,7 @@
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/804.unique-morse-code-words)|Easy|[String]|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/917.reverse-only-letters)|Easy|[String]|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/927.unique-email-addresses)|Easy|[String]|
+|937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/937.reorder-log-files)|Easy|[String]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
