@@ -26,6 +26,7 @@
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/532.k-diff-pairs-in-an-array)|Easy|[Array], [TwoPointers]|
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/838.push-dominoes)|Medium|[TwoPointers], [DynamicProgramming]|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/844.backspace-string-compare)|Easy|[TwoPointers], [Stack]|
+|925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/925.long-pressed-name)|Easy|[TwoPointers], [String]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md

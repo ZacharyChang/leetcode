@@ -252,6 +252,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/917.reverse-only-letters)|Easy|[String]|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/921.minimum-add-to-make-parentheses-valid)|Easy|[Stack], [Greedy]|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/922.sort-array-by-parity-ii)|Easy|[Array], [Sort]|
+|925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/925.long-pressed-name)|Easy|[TwoPointers], [String]|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/927.unique-email-addresses)|Easy|[String]|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/933.number-of-recent-calls)|Easy|[Queue]|
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/937.reorder-log-files)|Easy|[String]|
@@ -275,6 +276,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 [Heap]: https://github.com/ZacharyChang/leetcode/tree/master/tags/heap.md
 [LinkedList]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md
 [Math]: https://github.com/ZacharyChang/leetcode/tree/master/tags/math.md
+[Queue]: https://github.com/ZacharyChang/leetcode/tree/master/tags/queue.md
 [Sort]: https://github.com/ZacharyChang/leetcode/tree/master/tags/sort.md
 [Stack]: https://github.com/ZacharyChang/leetcode/tree/master/tags/stack.md
 [String]: https://github.com/ZacharyChang/leetcode/tree/master/tags/string.md

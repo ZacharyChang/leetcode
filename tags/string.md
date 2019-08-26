@@ -39,6 +39,7 @@
 |796|[Rotate String](https://leetcode.com/problems/rotate-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/796.rotate-string)|Easy|[String]|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/804.unique-morse-code-words)|Easy|[String]|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/917.reverse-only-letters)|Easy|[String]|
+|925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/925.long-pressed-name)|Easy|[TwoPointers], [String]|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/927.unique-email-addresses)|Easy|[String]|
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/937.reorder-log-files)|Easy|[String]|
 
