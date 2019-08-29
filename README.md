@@ -258,6 +258,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/937.reorder-log-files)|Easy|[String]|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/941.valid-mountain-array/)|Easy|[Array]|
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/953.verifying-an-alien-dictionary/)|Easy|[HashTable]|
+|965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/965.univalued-binary-tree/)|Easy|[Tree]|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|[Stack]|
 
