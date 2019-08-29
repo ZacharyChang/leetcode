@@ -36,6 +36,7 @@
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/868.binary-gap)|Easy|[Math]|
 |908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/908.smallest-range-i)|Easy|[Math]|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/914.x-of-a-kind-in-a-deck-of-cards)|Easy|[Array], [Math]|
+|970|[Powerful Integers](https://leetcode.com/problems/powerful-integers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/970.powerful-integers/)|Easy|[HashTable], [Math]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
