@@ -6,6 +6,7 @@
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|[BinarySearch], [DynamicProgramming], [DivideAndConquer], [Greedy]|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/860.lemonade-change)|Easy|[Greedy]|
 |921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/921.minimum-add-to-make-parentheses-valid)|Easy|[Stack], [Greedy]|
+|984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/984.string-without-aaa-or-bbb/)|Medium|[Greedy]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
