@@ -258,6 +258,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/937.reorder-log-files)|Easy|[String]|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/941.valid-mountain-array/)|Easy|[Array]|
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/953.verifying-an-alien-dictionary/)|Easy|[HashTable]|
+|957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/957.prison-cells-after-n-days/)|Easy|[HashTable]|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/965.univalued-binary-tree/)|Easy|[Tree]|
 |970|[Powerful Integers](https://leetcode.com/problems/powerful-integers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/970.powerful-integers/)|Easy|[HashTable], [Math]|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/976.largest-perimeter-triangle/)|Easy|[Math], [Sort]|
