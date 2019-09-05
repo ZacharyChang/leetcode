@@ -27,6 +27,7 @@
 |838|[Push Dominoes](https://leetcode.com/problems/push-dominoes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/838.push-dominoes)|Medium|[TwoPointers], [DynamicProgramming]|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/844.backspace-string-compare)|Easy|[TwoPointers], [Stack]|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/925.long-pressed-name)|Easy|[TwoPointers], [String]|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/977.squares-of-a-sorted-array/)|Easy|[Array], [TwoPointers]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
