@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func Test_sortedSquares(t *testing.T) {
+func Test_sortedSquares_2(t *testing.T) {
 	type args struct {
 		A []int
 	}
@@ -72,7 +72,7 @@ func Test_sortedSquares(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := sortedSquares(tt.args.A); !reflect.DeepEqual(got, tt.want) {
+			if got := sortedSquares_2(tt.args.A); !reflect.DeepEqual(got, tt.want) {
 				t.Errorf("sortedSquares() = %v, want %v", got, tt.want)
 			}
 		})
