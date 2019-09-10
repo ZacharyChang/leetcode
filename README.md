@@ -264,6 +264,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/976.largest-perimeter-triangle/)|Easy|[Math], [Sort]|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/977.squares-of-a-sorted-array/)|Easy|[Array], [TwoPointers]|
 |984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/984.string-without-aaa-or-bbb/)|Medium|[Greedy]|
+|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/989.add-to-array-form-of-integer)|Easy|[Array]|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|[Stack]|
 

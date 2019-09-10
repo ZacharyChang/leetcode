@@ -68,6 +68,7 @@
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/922.sort-array-by-parity-ii)|Easy|[Array], [Sort]|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/941.valid-mountain-array/)|Easy|[Array]|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/977.squares-of-a-sorted-array/)|Easy|[Array], [TwoPointers]|
+|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/989.add-to-array-form-of-integer)|Easy|[Array]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
