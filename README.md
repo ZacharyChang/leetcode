@@ -266,6 +266,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/984.string-without-aaa-or-bbb/)|Medium|[Greedy]|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/989.add-to-array-form-of-integer)|Easy|[Array]|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[UnionFind], [Graph]|
+|993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/993.cousins-in-binary-tree)|Easy|[Tree], [BreadthFirstSearch]|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|[Stack]|
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
