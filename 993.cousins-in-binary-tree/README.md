@@ -11,18 +11,21 @@ Return true if and only if the nodes corresponding to the values x and y are cou
 
 ## Example
 ### Example 1
+![](../images/933_example_1.png)
 ```
 Input: root = [1,2,3,4], x = 4, y = 3
 Output: false
 ```
 
 ### Example 2
+![](../images/933_example_2.png)
 ```
 Input: root = [1,2,3,null,4,null,5], x = 5, y = 4
 Output: true
 ```
 
 ### Example 3
+![](../images/933_example_3.png)
 ```
 Input: root = [1,2,3,null,4], x = 2, y = 3
 Output: false
