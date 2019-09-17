@@ -42,6 +42,7 @@
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/925.long-pressed-name)|Easy|[TwoPointers], [String]|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/927.unique-email-addresses)|Easy|[String]|
 |937|[Reorder Log Files](https://leetcode.com/problems/reorder-log-files)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/937.reorder-log-files)|Easy|[String]|
+|1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1033.check-if-word-is-valid-after-substitutions)|Medium|[String], [Stack]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
