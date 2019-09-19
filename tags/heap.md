@@ -4,6 +4,7 @@
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/264.ugly-number-ii)|Medium|[Math], [DynamicProgramming], [Heap]|
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/451.sort-characters-by-frequency)|Medium|[HashTable], [Heap]|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/692.top-k-frequent-words)|Medium|[HashTable], [Heap], [Trie]|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1046.last-stone-weight)|Easy|[Heap], [Greedy]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
