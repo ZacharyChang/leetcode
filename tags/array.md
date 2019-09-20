@@ -69,6 +69,7 @@
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/941.valid-mountain-array/)|Easy|[Array]|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/977.squares-of-a-sorted-array/)|Easy|[Array], [TwoPointers]|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/989.add-to-array-form-of-integer)|Easy|[Array]|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/find-common-characters)|Easy|[Array], [HashTable]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md

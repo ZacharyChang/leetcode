@@ -38,6 +38,7 @@
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/953.verifying-an-alien-dictionary/)|Easy|[HashTable]|
 |957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/957.prison-cells-after-n-days/)|Easy|[HashTable]|
 |970|[Powerful Integers](https://leetcode.com/problems/powerful-integers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/970.powerful-integers/)|Easy|[HashTable], [Math]|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/find-common-characters)|Easy|[Array], [HashTable]|
 
 ## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
