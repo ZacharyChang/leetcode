@@ -269,6 +269,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/993.cousins-in-binary-tree)|Easy|[Tree], [BreadthFirstSearch]|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/find-common-characters)|Easy|[Array], [HashTable]|
 |1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1033.check-if-word-is-valid-after-substitutions)|Medium|[String], [Stack]|
+|1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1009.complement-of-base-10-integer)|Easy|[Math]|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1046.last-stone-weight)|Easy|[Heap], [Greedy]|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|[Stack]|
 
