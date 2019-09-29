@@ -2,6 +2,7 @@
 |#|Title|Language|Difficulty|Tags|
 |-|-----|--------|----------|----|
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/055.jump-game)|Medium|[Array], [Greedy]|
+|134|[Gas Station](https://leetcode.com/problems/gas-station)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/134.gas-station)|Medium|[Greedy]|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/376.wiggle-subsequence)|Medium|[DynamicProgramming], [DivideAndConquer], [Greedy]|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Medium|[BinarySearch], [DynamicProgramming], [DivideAndConquer], [Greedy]|
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/860.lemonade-change)|Easy|[Greedy]|
