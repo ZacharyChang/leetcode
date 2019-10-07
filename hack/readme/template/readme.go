@@ -1,6 +1,6 @@
 package template
 
-type Problem struct {
+type Question struct {
 	Id          int
 	Title       string
 	LeetcodeUrl string

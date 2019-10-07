@@ -1,0 +1,27 @@
+syntax = "proto3";
+package login;
+service LeetcodeService {
+    rpc Login (LoginRequest) returns (Response) {
+    }
+    rpc ListAllProblems (ListAllProblemsRequest) returns (Response) {
+    }
+    rpc QueryProblem (QueryProblemRequest) returns (Response) {
+    }
+}
+
+message LoginRequest {
+    string name = 1;
+    string password = 2;
+}
+
+message ListAllProblemsRequest {
+
+}
+
+message QueryProblemRequest {
+    string slug = 1;
+}
+
+message Response {
+    string result = 1;
+}

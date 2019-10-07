@@ -1,0 +1,8 @@
+# {{ .QuestionTitle }}
+
+{{ .Content }}
+
+## Tags
+{{range .TopicTags}}
+**[{{ .Name }}](https://leetcode.com/tag/{{ .Slug }})**
+{{end}}

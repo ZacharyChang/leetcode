@@ -1,11 +1,12 @@
+import json
 import time
 from concurrent import futures
 
 import requests
 from requests_toolbelt import MultipartEncoder
 
-from hack.readme.login.login_pb2 import *
-from hack.readme.login.login_pb2_grpc import *
+from hack.readme.leetcode.leetcode_pb2 import *
+from hack.readme.leetcode.leetcode_pb2_grpc import *
 
 session = requests.Session()
 user_agent = r'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 ' \
@@ -33,8 +34,7 @@ def login(username, password):
 
     headers['Content-Type'] = m.content_type
     session.post(url, headers=headers, data=m, timeout=10, allow_redirects=False)
-    is_login = session.cookies.get('LEETCODE_SESSION') != None
-    return is_login
+    return session.cookies.get('LEETCODE_SESSION') is not None
 
 
 def get_problems():
@@ -46,13 +46,58 @@ def get_problems():
     return resp.content.decode('utf-8')
 
 
+def get_problem_by_slug(slug):
+    url = "https://leetcode.com/graphql"
+    params = {
+        'operationName': "getQuestionDetail",
+        'variables': {'titleSlug': slug},
+        'query': '''query getQuestionDetail($titleSlug: String!) {
+            question(titleSlug: $titleSlug) {
+                questionId
+                questionFrontendId
+                questionTitle
+                questionTitleSlug
+                content
+                difficulty
+                stats
+                similarQuestions
+                categoryTitle
+                topicTags {
+                    name
+                    slug
+                }
+            }
+        }'''
+    }
+
+    json_data = json.dumps(params).encode('utf8')
+
+    headers = {
+        'User-Agent': user_agent,
+        'Connection': 'keep-alive',
+        'Content-Type': 'application/json',
+        'Referer': 'https://leetcode.com/problems/' + slug
+    }
+    resp = session.post(url, data=json_data, headers=headers, timeout=10)
+    print(resp.content.decode("utf-8"))
+    return resp.content.decode('utf-8')
+
+
 _ONE_DAY_IN_SECONDS = 60 * 60 * 24
 
 
 class LeetcodeServicer(LeetcodeServiceServicer):
+
     def Login(self, request, context):
         login(request.name, request.password)
-        return LoginResponse(result=get_problems())
+        return Response(result="ok")
+
+    def ListAllProblems(self, request, context):
+        res = get_problems()
+        return Response(result=res)
+
+    def QueryProblem(self, request, context):
+        return Response(result=get_problem_by_slug(request.slug))
 
 
 def serve():
