@@ -24,4 +24,4 @@ travis-test:
 
 .PHONY: generate
 generate:
-	$(ENV) $(GORUN) cmd/generator/generator.go
+	$(ENV) $(GORUN) hack/generator/generator.go

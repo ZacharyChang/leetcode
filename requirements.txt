@@ -1,0 +1,5 @@
+requests==2.21.0
+requests-toolbelt==0.9.1
+grpcio==1.24.1
+protobuf==3.10.0
+grpcio-tools==1.24.1
