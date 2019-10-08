@@ -2,7 +2,9 @@
 
 {{ .Content }}
 
+{{if .TopicTags}}
 ## Tags
 {{range .TopicTags}}
 **[{{ .Name }}](https://leetcode.com/tag/{{ .Slug }})**
-{{end}}
+{{ end }}
+{{ end }}

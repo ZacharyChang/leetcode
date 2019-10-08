@@ -5,6 +5,7 @@ GOINSTALL=$(GOCMD) install
 GOCLEAN=$(GOCMD) clean
 GOTEST=$(GOCMD) test
 GORUN=$(GOCMD) run
+GORUN=$(GOCMD) build
 ENV=GO111MODULE=on CGO_ENABLED=1
 
 default:
@@ -26,6 +27,11 @@ travis-test:
 generate:
 	$(ENV) $(GORUN) hack/generator/generator.go
 
+.PHONY: grpc-update
 grpc-update:
 	protoc --go_out=plugins=grpc:. hack/readme/leetcode/leetcode.proto
 	python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. hack/readme/leetcode/leetcode.proto
+
+.PHONY: build
+build:
+	$(ENV) $(GOBUILD) hack/readme/client.go
