@@ -94,8 +94,10 @@ func (s StatStatusPairs) Swap(i, j int) {
 }
 
 var (
-	username = flag.String("username", os.Getenv("LEETCODE_USERNAME"), "")
-	password = flag.String("password", os.Getenv("LEETCODE_PASSWORD"), "")
+	username    = flag.String("username", os.Getenv("LEETCODE_USERNAME"), "")
+	password    = flag.String("password", os.Getenv("LEETCODE_PASSWORD"), "")
+	templateDir = flag.String("template-dir", "./hack/readme/template", "")
+	outputDir   = flag.String("output-dir", "./", "")
 )
 
 func main() {
@@ -141,7 +143,7 @@ func main() {
 				Difficulty:  stat.Difficulty.LevelName(),
 			})
 
-			dir := "../../" + title
+			dir := *outputDir + title
 			readmeFile := dir + "/README.md"
 			if _, err := os.Stat(readmeFile); os.IsNotExist(err) {
 
@@ -164,7 +166,7 @@ func main() {
 				err = json.Unmarshal([]byte(resp.Result), &queryProblemResponse)
 				checkErr(err)
 
-				templ, err := template.ParseFiles("template/problem.tmpl")
+				templ, err := template.ParseFiles(*templateDir + "/problem.tmpl")
 				checkErr(err)
 				err = templ.Execute(f, queryProblemResponse.Data.Question)
 				checkErr(err)
@@ -173,7 +175,7 @@ func main() {
 		}
 	}
 
-	templ, err := template.ParseFiles("template/readme.tmpl")
+	templ, err := template.ParseFiles(*templateDir + "/readme.tmpl")
 	checkErr(err)
 	err = templ.Execute(os.Stdout, problems)
 	checkErr(err)
