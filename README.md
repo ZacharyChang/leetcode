@@ -67,6 +67,8 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/088.merge-sorted-array)|Easy|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/092.reverse-linked-list-ii)|Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/094.binary-tree-inorder-traversal)|Medium|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/095.unique-binary-search-trees-ii)|Medium|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/096.unique-binary-search-trees)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/100.same-tree)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/101.symmetric-tree)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/102.binary-tree-level-order-traversal)|Medium|
@@ -108,6 +110,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/183.customers-who-never-order)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/189.rotate-array)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/191.number-of-1-bits)|Easy|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/197.rising-temperature)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/198.house-robber)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/199.binary-tree-right-side-view)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/200.number-of-islands)|Medium|
@@ -245,7 +248,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/700.search-in-a-binary-search-tree)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/704.binary-search)|Easy|
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/706.design-hashmap)|Easy|
-|707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/707.design-linked-list)|Easy|
+|707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/707.design-linked-list)|Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/709.to-lower-case)|Easy|
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/720.longest-word-in-dictionary)|Easy|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/721.accounts-merge)|Medium|
@@ -309,3 +312,4 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1009.complement-of-base-10-integer)|Easy|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1046.last-stone-weight)|Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|
+
