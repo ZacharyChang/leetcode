@@ -12,6 +12,7 @@ RUN apk update && \
     apk add --update \
         bash \
         git \
+        openssh \
         ca-certificates \
         gcc \
         g++

@@ -175,9 +175,12 @@ func main() {
 		}
 	}
 
+	f, err := os.OpenFile(*outputDir+"README.md", os.O_WRONLY|os.O_TRUNC|os.O_CREATE, 0666)
+	checkErr(err)
+
 	templ, err := template.ParseFiles(*templateDir + "/readme.tmpl")
 	checkErr(err)
-	err = templ.Execute(os.Stdout, problems)
+	err = templ.Execute(f, problems)
 	checkErr(err)
 }
 
