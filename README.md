@@ -69,6 +69,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/094.binary-tree-inorder-traversal)|Medium|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/095.unique-binary-search-trees-ii)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/096.unique-binary-search-trees)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/098.validate-binary-search-tree)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/100.same-tree)|Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/101.symmetric-tree)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/102.binary-tree-level-order-traversal)|Medium|
