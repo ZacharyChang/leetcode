@@ -5,16 +5,11 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 [![Go Report Card](https://goreportcard.com/badge/github.com/ZacharyChang/leetcode)](https://goreportcard.com/report/github.com/ZacharyChang/leetcode)
 [![codecov](https://codecov.io/gh/ZacharyChang/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/ZacharyChang/leetcode)
 
-## backtracking
+## sliding-window
 
 |#|Title|Solution|Difficulty|Tags|
 |-|-----|--------|----------|----|
-|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/017.letter-combinations-of-a-phone-number)|Medium|[String], [Backtracking]
-|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/037.sudoku-solver)|Hard|[Hash Table], [Backtracking]
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/039.combination-sum)|Medium|[Array], [Backtracking]
-|46|[Permutations](https://leetcode.com/problems/permutations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/046.permutations)|Medium|[Backtracking]
-|47|[Permutations II](https://leetcode.com/problems/permutations-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/047.permutations-ii)|Medium|[Backtracking]
-|357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/357.count-numbers-with-unique-digits)|Medium|[Math], [Dynamic Programming], [Backtracking]
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/003.longest-substring-without-repeating-characters)|Medium|[Hash Table], [Two Pointers], [String], [Sliding Window]
 
 
 ## Link
