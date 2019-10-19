@@ -5,9 +5,13 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 [![Go Report Card](https://goreportcard.com/badge/github.com/ZacharyChang/leetcode)](https://goreportcard.com/report/github.com/ZacharyChang/leetcode)
 [![codecov](https://codecov.io/gh/ZacharyChang/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/ZacharyChang/leetcode)
 
-## Algorithm
+## {{ .Title }}
 
-|#|Title|Solution|Difficulty|
-|-|-----|--------|----------|
-{{range .}}|{{ .Id }}|[{{ .Title }}]({{ .LeetcodeUrl }})|{{ .GithubUrl }}|{{ .Difficulty }}|
+|#|Title|Solution|Difficulty|Tags|
+|-|-----|--------|----------|----|
+{{range .Questions }}|{{ .Id }}|[{{ .Title }}]({{ .LeetcodeUrl }})|{{ .GithubUrl }}|{{ .Difficulty }}|{{ .Tags }}
+{{end}}
+
+## Link
+{{range .Topics }}[{{ .Name }}]: https://github.com/ZacharyChang/leetcode/tree/master/tags/{{ .Slug }}.md
 {{end}}
