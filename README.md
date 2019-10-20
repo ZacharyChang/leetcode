@@ -317,7 +317,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1047.remove-all-adjacent-duplicates-in-string)|Easy|[Stack]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

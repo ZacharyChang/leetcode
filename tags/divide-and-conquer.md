@@ -15,7 +15,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/240.search-a-2d-matrix-ii)|Medium|[Binary Search], [Divide and Conquer]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

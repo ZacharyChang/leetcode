@@ -32,7 +32,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/876.middle-of-the-linked-list)|Easy|[Linked List]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

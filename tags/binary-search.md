@@ -41,7 +41,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/875.koko-eating-bananas)|Medium|[Binary Search]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

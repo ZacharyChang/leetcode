@@ -17,7 +17,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/357.count-numbers-with-unique-digits)|Medium|[Math], [Dynamic Programming], [Backtracking]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

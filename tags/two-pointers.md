@@ -38,7 +38,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/977.squares-of-a-sorted-array)|Easy|[Array], [Two Pointers]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

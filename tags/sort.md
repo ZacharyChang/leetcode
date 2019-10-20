@@ -19,7 +19,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/976.largest-perimeter-triangle)|Easy|[Math], [Sort]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

@@ -54,7 +54,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1009.complement-of-base-10-integer)|Easy|[Math]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

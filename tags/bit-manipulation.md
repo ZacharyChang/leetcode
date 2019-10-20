@@ -22,7 +22,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |476|[Number Complement](https://leetcode.com/problems/number-complement)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/476.number-complement)|Easy|[Bit Manipulation]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

@@ -36,7 +36,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/872.leaf-similar-trees)|Easy|[Tree], [Depth-first Search]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

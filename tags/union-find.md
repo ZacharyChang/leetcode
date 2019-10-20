@@ -15,7 +15,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[Union Find], [Graph]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

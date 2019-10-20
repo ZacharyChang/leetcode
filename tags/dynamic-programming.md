@@ -38,7 +38,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array], [Dynamic Programming]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

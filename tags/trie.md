@@ -17,7 +17,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/745.prefix-and-suffix-search)|Hard|[Trie]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

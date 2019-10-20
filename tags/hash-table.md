@@ -56,7 +56,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1002.find-common-characters)|Easy|[Array], [Hash Table]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

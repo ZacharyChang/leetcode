@@ -56,7 +56,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |1003|[Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1003.check-if-word-is-valid-after-substitutions)|Medium|[String], [Stack]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

@@ -19,7 +19,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1046.last-stone-weight)|Easy|[Heap], [Greedy]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

@@ -49,7 +49,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/993.cousins-in-binary-tree)|Easy|[Tree], [Breadth-first Search]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md

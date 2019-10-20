@@ -12,7 +12,6 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/003.longest-substring-without-repeating-characters)|Medium|[Hash Table], [Two Pointers], [String], [Sliding Window]
 
 
-## Link
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
 [Hash Table]: https://github.com/ZacharyChang/leetcode/tree/master/tags/hash-table.md
 [Linked List]: https://github.com/ZacharyChang/leetcode/tree/master/tags/linked-list.md
