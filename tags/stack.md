@@ -12,6 +12,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/020.valid-parentheses)|Easy|[String], [Stack]
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/071.simplify-path)|Medium|[String], [Stack]
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/094.binary-tree-inorder-traversal)|Medium|[Hash Table], [Stack], [Tree]
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/103.binary-tree-zigzag-level-order-traversal)|Medium|[Stack], [Tree], [Breadth-first Search]
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/144.binary-tree-preorder-traversal)|Medium|[Stack], [Tree]
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/155.min-stack)|Easy|[Stack], [Design]
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/225.implement-stack-using-queues)|Easy|[Stack], [Design]
