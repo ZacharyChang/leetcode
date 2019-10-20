@@ -24,7 +24,7 @@ client --username "${LEETCODE_USERNAME}" --password "${LEETCODE_PASSWORD}"
 git add .
 
 if ! git diff-index --quiet HEAD --; then
-    git commit -m "doc: update readme on $(date +'%Y-%m-%d %H:%M:%S')"
+    git commit -m "doc: update readme on $(date +'%Y-%m-%d %H:%M:%S %Z')"
     git push origin "${GIT_BRANCH}"
 else
     echo "No change"
