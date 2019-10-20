@@ -10,6 +10,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |#|Title|Solution|Difficulty|Tags|
 |-|-----|--------|----------|----|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/098.validate-binary-search-tree)|Medium|[Tree], [Depth-first Search]
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/099.recover-binary-search-tree)|Hard|[Tree], [Depth-first Search]
 |100|[Same Tree](https://leetcode.com/problems/same-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/100.same-tree)|Easy|[Tree], [Depth-first Search]
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/101.symmetric-tree)|Easy|[Tree], [Depth-first Search], [Breadth-first Search]
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/104.maximum-depth-of-binary-tree)|Easy|[Tree], [Depth-first Search]
