@@ -85,6 +85,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |112|[Path Sum](https://leetcode.com/problems/path-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/112.path-sum)|Easy|[Tree], [Depth-first Search]
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/113.path-sum-ii)|Medium|[Tree], [Depth-first Search]
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/114.flatten-binary-tree-to-linked-list)|Medium|[Tree], [Depth-first Search]
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/116.populating-next-right-pointers-in-each-node)|Medium|[Tree], [Depth-first Search]
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/118.pascals-triangle)|Easy|[Array]
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/119.pascals-triangle-ii)|Easy|[Array]
 |120|[Triangle](https://leetcode.com/problems/triangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/120.triangle)|Medium|[Array], [Dynamic Programming]
