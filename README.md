@@ -135,6 +135,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/222.count-complete-tree-nodes)|Medium|[Binary Search], [Tree]
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/225.implement-stack-using-queues)|Easy|[Stack], [Design]
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/226.invert-binary-tree)|Easy|[Tree]
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/228.summary-ranges)|Medium|[Array]
 |231|[Power of Two](https://leetcode.com/problems/power-of-two)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/231.power-of-two)|Easy|[Math], [Bit Manipulation]
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/232.implement-queue-using-stacks)|Easy|[Stack], [Design]
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/234.palindrome-linked-list)|Easy|[Linked List], [Two Pointers]

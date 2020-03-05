@@ -49,6 +49,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/209.minimum-size-subarray-sum)|Medium|[Array], [Two Pointers], [Binary Search]
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/217.contains-duplicate)|Easy|[Array], [Hash Table]
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/219.contains-duplicate-ii)|Easy|[Array], [Hash Table]
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/228.summary-ranges)|Medium|[Array]
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/238.product-of-array-except-self)|Medium|[Array]
 |268|[Missing Number](https://leetcode.com/problems/missing-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/268.missing-number)|Easy|[Array], [Math], [Bit Manipulation]
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/283.move-zeroes)|Easy|[Array], [Two Pointers]
