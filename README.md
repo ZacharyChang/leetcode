@@ -113,6 +113,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/171.excel-sheet-column-number)|Easy|[Math]
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/172.factorial-trailing-zeroes)|Easy|[Math]
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/175.combine-two-tables)|Easy|
+|179|[Largest Number](https://leetcode.com/problems/largest-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/179.largest-number)|Medium|[Sort]
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/182.duplicate-emails)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/183.customers-who-never-order)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/189.rotate-array)|Easy|[Array]

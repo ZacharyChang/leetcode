@@ -11,6 +11,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |-|-----|--------|----------|----|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/075.sort-colors)|Medium|[Array], [Two Pointers], [Sort]
 |148|[Sort List](https://leetcode.com/problems/sort-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/148.sort-list)|Medium|[Linked List], [Sort]
+|179|[Largest Number](https://leetcode.com/problems/largest-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/179.largest-number)|Medium|[Sort]
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/242.valid-anagram)|Easy|[Hash Table], [Sort]
 |274|[H-Index](https://leetcode.com/problems/h-index)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/274.h-index)|Medium|[Hash Table], [Sort]
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/349.intersection-of-two-arrays)|Easy|[Hash Table], [Two Pointers], [Binary Search], [Sort]
