@@ -200,6 +200,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/463.island-perimeter)|Easy|[Hash Table]
 |475|[Heaters](https://leetcode.com/problems/heaters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/475.heaters)|Easy|[Binary Search]
 |476|[Number Complement](https://leetcode.com/problems/number-complement)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/476.number-complement)|Easy|[Bit Manipulation]
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/482.license-key-formatting)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/485.max-consecutive-ones)|Easy|[Array]
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/492.construct-the-rectangle)|Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/496.next-greater-element-i)|Easy|[Stack]
