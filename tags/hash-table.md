@@ -16,6 +16,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/049.group-anagrams)|Medium|[Hash Table], [String]
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/094.binary-tree-inorder-traversal)|Medium|[Hash Table], [Stack], [Tree]
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/136.single-number)|Easy|[Hash Table], [Bit Manipulation]
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/187.repeated-dna-sequences)|Medium|[Hash Table], [Bit Manipulation]
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/202.happy-number)|Easy|[Hash Table], [Math]
 |204|[Count Primes](https://leetcode.com/problems/count-primes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/204.count-primes)|Easy|[Hash Table], [Math]
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/205.isomorphic-strings)|Easy|[Hash Table]

@@ -116,6 +116,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |179|[Largest Number](https://leetcode.com/problems/largest-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/179.largest-number)|Medium|[Sort]
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/182.duplicate-emails)|Easy|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/183.customers-who-never-order)|Easy|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/187.repeated-dna-sequences)|Medium|[Hash Table], [Bit Manipulation]
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/189.rotate-array)|Easy|[Array]
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/191.number-of-1-bits)|Easy|[Bit Manipulation]
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/197.rising-temperature)|Easy|
