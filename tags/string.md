@@ -26,6 +26,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/071.simplify-path)|Medium|[String], [Stack]
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/125.valid-palindrome)|Easy|[Two Pointers], [String]
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/151.reverse-words-in-a-string)|Medium|[String]
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/165.compare-version-numbers)|Medium|[String]
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/214.shortest-palindrome)|Hard|[String]
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/344.reverse-string)|Easy|[Two Pointers], [String]
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/345.reverse-vowels-of-a-string)|Easy|[Two Pointers], [String]
