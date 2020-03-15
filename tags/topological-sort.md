@@ -5,13 +5,11 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 [![Go Report Card](https://goreportcard.com/badge/github.com/ZacharyChang/leetcode)](https://goreportcard.com/report/github.com/ZacharyChang/leetcode)
 [![codecov](https://codecov.io/gh/ZacharyChang/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/ZacharyChang/leetcode)
 
-## graph
+## topological-sort
 
 |#|Title|Solution|Difficulty|Tags|
 |-|-----|--------|----------|----|
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/210.course-schedule-ii)|Medium|[Depth-first Search], [Breadth-first Search], [Graph], [Topological Sort]
-|802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/802.find-eventual-safe-states)|Medium|[Depth-first Search], [Graph]
-|990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/990.satisfiability-of-equality-equations)|Medium|[Union Find], [Graph]
 
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
