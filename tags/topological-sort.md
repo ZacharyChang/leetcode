@@ -9,6 +9,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 
 |#|Title|Solution|Difficulty|Tags|
 |-|-----|--------|----------|----|
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/207.course-schedule)|Medium|[Depth-first Search], [Breadth-first Search], [Graph], [Topological Sort]
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/210.course-schedule-ii)|Medium|[Depth-first Search], [Breadth-first Search], [Graph], [Topological Sort]
 
 
