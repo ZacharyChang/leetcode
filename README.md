@@ -165,6 +165,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/299.bulls-and-cows)|Easy|[Hash Table]
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/303.range-sum-query-immutable)|Easy|[Dynamic Programming]
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/304.range-sum-query-2d-immutable)|Medium|[Dynamic Programming]
+|322|[Coin Change](https://leetcode.com/problems/coin-change)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/322.coin-change)|Medium|[Dynamic Programming]
 |326|[Power of Three](https://leetcode.com/problems/power-of-three)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/326.power-of-three)|Easy|[Math]
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/328.odd-even-linked-list)|Medium|[Linked List]
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/338.counting-bits)|Medium|[Dynamic Programming], [Bit Manipulation]

@@ -27,6 +27,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/279.perfect-squares)|Medium|[Math], [Dynamic Programming], [Breadth-first Search]
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/303.range-sum-query-immutable)|Easy|[Dynamic Programming]
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/304.range-sum-query-2d-immutable)|Medium|[Dynamic Programming]
+|322|[Coin Change](https://leetcode.com/problems/coin-change)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/322.coin-change)|Medium|[Dynamic Programming]
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/338.counting-bits)|Medium|[Dynamic Programming], [Bit Manipulation]
 |343|[Integer Break](https://leetcode.com/problems/integer-break)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/343.integer-break)|Medium|[Math], [Dynamic Programming]
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/357.count-numbers-with-unique-digits)|Medium|[Math], [Dynamic Programming], [Backtracking]
