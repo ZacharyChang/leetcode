@@ -29,6 +29,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/264.ugly-number-ii)|Medium|[Math], [Dynamic Programming], [Heap]
 |268|[Missing Number](https://leetcode.com/problems/missing-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/268.missing-number)|Easy|[Array], [Math], [Bit Manipulation]
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/279.perfect-squares)|Medium|[Math], [Dynamic Programming], [Breadth-first Search]
+|319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/319.bulb-switcher)|Medium|[Math], [Brainteaser]
 |326|[Power of Three](https://leetcode.com/problems/power-of-three)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/326.power-of-three)|Easy|[Math]
 |343|[Integer Break](https://leetcode.com/problems/integer-break)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/343.integer-break)|Medium|[Math], [Dynamic Programming]
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/357.count-numbers-with-unique-digits)|Medium|[Math], [Dynamic Programming], [Backtracking]
