@@ -13,6 +13,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/208.implement-trie-prefix-tree)|Medium|[Design], [Trie]
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/225.implement-stack-using-queues)|Easy|[Stack], [Design]
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/232.implement-queue-using-stacks)|Easy|[Stack], [Design]
+|355|[Design Twitter](https://leetcode.com/problems/design-twitter)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/355.design-twitter)|Medium|[Hash Table], [Heap], [Design]
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/706.design-hashmap)|Easy|[Hash Table], [Design]
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/707.design-linked-list)|Medium|[Linked List], [Design]
 
