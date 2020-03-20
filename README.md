@@ -190,6 +190,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |394|[Decode String](https://leetcode.com/problems/decode-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/394.decode-string)|Medium|[Stack], [Depth-first Search]
 |396|[Rotate Function](https://leetcode.com/problems/rotate-function)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/396.rotate-function)|Medium|[Math]
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/397.integer-replacement)|Medium|[Math], [Bit Manipulation]
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/401.binary-watch)|Easy|[Backtracking], [Bit Manipulation]
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/404.sum-of-left-leaves)|Easy|[Tree]
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/409.longest-palindrome)|Easy|[Hash Table]
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/412.fizz-buzz)|Easy|

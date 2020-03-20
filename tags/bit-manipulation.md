@@ -20,6 +20,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |342|[Power of Four](https://leetcode.com/problems/power-of-four)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/342.power-of-four)|Easy|[Bit Manipulation]
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/389.find-the-difference)|Easy|[Hash Table], [Bit Manipulation]
 |397|[Integer Replacement](https://leetcode.com/problems/integer-replacement)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/397.integer-replacement)|Medium|[Math], [Bit Manipulation]
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/401.binary-watch)|Easy|[Backtracking], [Bit Manipulation]
 |476|[Number Complement](https://leetcode.com/problems/number-complement)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/476.number-complement)|Easy|[Bit Manipulation]
 
 

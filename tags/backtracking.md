@@ -15,6 +15,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |46|[Permutations](https://leetcode.com/problems/permutations)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/046.permutations)|Medium|[Backtracking]
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/047.permutations-ii)|Medium|[Backtracking]
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/357.count-numbers-with-unique-digits)|Medium|[Math], [Dynamic Programming], [Backtracking]
+|401|[Binary Watch](https://leetcode.com/problems/binary-watch)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/401.binary-watch)|Easy|[Backtracking], [Bit Manipulation]
 
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
