@@ -32,6 +32,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/345.reverse-vowels-of-a-string)|Easy|[Two Pointers], [String]
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/383.ransom-note)|Easy|[String]
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/387.first-unique-character-in-a-string)|Easy|[Hash Table], [String]
+|415|[Add Strings](https://leetcode.com/problems/add-strings)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/415.add-strings)|Easy|[String]
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/434.number-of-segments-in-a-string)|Easy|[String]
 |443|[String Compression](https://leetcode.com/problems/string-compression)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/443.string-compression)|Easy|[String]
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/459.repeated-substring-pattern)|Easy|[String]

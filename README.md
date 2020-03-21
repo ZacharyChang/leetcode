@@ -196,6 +196,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/412.fizz-buzz)|Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/413.arithmetic-slices)|Medium|[Math], [Dynamic Programming]
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/414.third-maximum-number)|Easy|[Array]
+|415|[Add Strings](https://leetcode.com/problems/add-strings)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/415.add-strings)|Easy|[String]
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/434.number-of-segments-in-a-string)|Easy|[String]
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/438.find-all-anagrams-in-a-string)|Medium|[Hash Table]
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/441.arranging-coins)|Easy|[Math], [Binary Search]
