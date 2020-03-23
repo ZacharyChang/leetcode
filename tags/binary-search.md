@@ -32,6 +32,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/367.valid-perfect-square)|Easy|[Math], [Binary Search]
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/374.guess-number-higher-or-lower)|Easy|[Binary Search]
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Easy|[Binary Search], [Dynamic Programming], [Greedy]
+|436|[Find Right Interval](https://leetcode.com/problems/find-right-interval)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/436.find-right-interval)|Medium|[Binary Search]
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/441.arranging-coins)|Easy|[Math], [Binary Search]
 |475|[Heaters](https://leetcode.com/problems/heaters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/475.heaters)|Easy|[Binary Search]
 |658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/658.find-k-closest-elements)|Medium|[Binary Search]
