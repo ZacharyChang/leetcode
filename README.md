@@ -198,6 +198,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/414.third-maximum-number)|Easy|[Array]
 |415|[Add Strings](https://leetcode.com/problems/add-strings)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/415.add-strings)|Easy|[String]
 |434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/434.number-of-segments-in-a-string)|Easy|[String]
+|436|[Find Right Interval](https://leetcode.com/problems/find-right-interval)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/436.find-right-interval)|Medium|[Binary Search]
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/438.find-all-anagrams-in-a-string)|Medium|[Hash Table]
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/441.arranging-coins)|Easy|[Math], [Binary Search]
 |443|[String Compression](https://leetcode.com/problems/string-compression)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/443.string-compression)|Easy|[String]
