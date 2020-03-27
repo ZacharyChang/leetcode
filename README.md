@@ -96,6 +96,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |134|[Gas Station](https://leetcode.com/problems/gas-station)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/134.gas-station)|Medium|[Greedy]
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/136.single-number)|Easy|[Hash Table], [Bit Manipulation]
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/137.single-number-ii)|Medium|[Bit Manipulation]
+|139|[Word Break](https://leetcode.com/problems/word-break)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/139.word-break)|Medium|[Dynamic Programming]
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/141.linked-list-cycle)|Easy|[Linked List], [Two Pointers]
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/142.linked-list-cycle-ii)|Medium|[Linked List], [Two Pointers]
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/144.binary-tree-preorder-traversal)|Medium|[Stack], [Tree]

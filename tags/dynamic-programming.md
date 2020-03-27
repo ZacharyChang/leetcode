@@ -19,6 +19,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/096.unique-binary-search-trees)|Medium|[Dynamic Programming], [Tree]
 |120|[Triangle](https://leetcode.com/problems/triangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/120.triangle)|Medium|[Array], [Dynamic Programming]
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/121.best-time-to-buy-and-sell-stock)|Easy|[Array], [Dynamic Programming]
+|139|[Word Break](https://leetcode.com/problems/word-break)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/139.word-break)|Medium|[Dynamic Programming]
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/152.maximum-product-subarray)|Medium|[Array], [Dynamic Programming]
 |198|[House Robber](https://leetcode.com/problems/house-robber)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/198.house-robber)|Easy|[Dynamic Programming]
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/213.house-robber-ii)|Medium|[Dynamic Programming]
