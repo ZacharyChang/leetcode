@@ -23,6 +23,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/172.factorial-trailing-zeroes)|Easy|[Math]
 |202|[Happy Number](https://leetcode.com/problems/happy-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/202.happy-number)|Easy|[Hash Table], [Math]
 |204|[Count Primes](https://leetcode.com/problems/count-primes)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/204.count-primes)|Easy|[Hash Table], [Math]
+|223|[Rectangle Area](https://leetcode.com/problems/rectangle-area)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/223.rectangle-area)|Medium|[Math]
 |231|[Power of Two](https://leetcode.com/problems/power-of-two)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/231.power-of-two)|Easy|[Math], [Bit Manipulation]
 |258|[Add Digits](https://leetcode.com/problems/add-digits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/258.add-digits)|Easy|[Math]
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/263.ugly-number)|Easy|[Math]
