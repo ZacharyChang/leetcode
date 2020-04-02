@@ -1,13 +1,10 @@
 package challenge
 
-import "fmt"
-
 func isHappy(n int) bool {
 	return helper(n, make(map[int]bool))
 }
 
 func helper(n int, m map[int]bool) bool {
-	fmt.Printf("n: %d\n", n)
 	if n == 1 {
 		return true
 	}

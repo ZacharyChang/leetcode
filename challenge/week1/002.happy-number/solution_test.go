@@ -25,6 +25,13 @@ func Test_isHappy(t *testing.T) {
 			},
 			true,
 		},
+		{
+			"[Test Case 3]",
+			args{
+				106,
+			},
+			false,
+		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
