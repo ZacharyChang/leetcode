@@ -1,7 +1,6 @@
 package leetcode
 
 import (
-	"reflect"
 	"testing"
 )
 
@@ -13,7 +12,6 @@ func Test_findOrder(t *testing.T) {
 	tests := []struct {
 		name string
 		args args
-		want []int
 	}{
 		{
 			"[Test Case 1]",
@@ -24,9 +22,6 @@ func Test_findOrder(t *testing.T) {
 						1, 0,
 					},
 				},
-			},
-			[]int{
-				0, 1,
 			},
 		},
 		{
@@ -40,18 +35,12 @@ func Test_findOrder(t *testing.T) {
 					{3, 2},
 				},
 			},
-			[]int{
-				0, 1, 2, 3,
-			},
 		},
 		{
 			"[Test Case 3]",
 			args{
 				2,
 				[][]int{},
-			},
-			[]int{
-				1, 0,
 			},
 		},
 		{
@@ -64,14 +53,26 @@ func Test_findOrder(t *testing.T) {
 					{2, 0},
 				},
 			},
-			[]int{},
 		},
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if got := findOrder(tt.args.numCourses, tt.args.prerequisites); !reflect.DeepEqual(got, tt.want) {
-				t.Errorf("findOrder() = %v, want %v", got, tt.want)
+			if got := findOrder(tt.args.numCourses, tt.args.prerequisites); !checkResult(tt.args.prerequisites, got) {
+				t.Errorf("findOrder() = %v, order invalid", got)
 			}
 		})
 	}
+}
+
+func checkResult(prerequisites [][]int, order []int) bool {
+	orderMap := make(map[int]int, len(order))
+	for idx, v := range order {
+		orderMap[v] = idx
+	}
+	for _, pre := range prerequisites {
+		if orderMap[pre[0]] < orderMap[pre[1]] {
+			return false
+		}
+	}
+	return true
 }
