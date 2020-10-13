@@ -9,6 +9,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 
 |#|Title|Solution|Difficulty|Tags|
 |-|-----|--------|----------|----|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/146.lru-cache)|Medium|[Design]
 |155|[Min Stack](https://leetcode.com/problems/min-stack)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/155.min-stack)|Easy|[Stack], [Design]
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/208.implement-trie-prefix-tree)|Medium|[Design], [Trie]
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/225.implement-stack-using-queues)|Easy|[Stack], [Design]
@@ -16,6 +17,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/355.design-twitter)|Medium|[Hash Table], [Heap], [Design]
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/706.design-hashmap)|Easy|[Hash Table], [Design]
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/707.design-linked-list)|Medium|[Linked List], [Design]
+|1429|[First Unique Number](https://leetcode.com/problems/first-unique-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1429.first-unique-number)|Medium|[Hash Table], [Design]
 
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md

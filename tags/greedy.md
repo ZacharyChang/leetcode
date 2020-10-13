@@ -10,6 +10,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |#|Title|Solution|Difficulty|Tags|
 |-|-----|--------|----------|----|
 |55|[Jump Game](https://leetcode.com/problems/jump-game)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/055.jump-game)|Medium|[Array], [Greedy]
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/122.best-time-to-buy-and-sell-stock-ii)|Easy|[Array], [Greedy]
 |134|[Gas Station](https://leetcode.com/problems/gas-station)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/134.gas-station)|Medium|[Greedy]
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/376.wiggle-subsequence)|Medium|[Dynamic Programming], [Greedy]
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/392.is-subsequence)|Easy|[Binary Search], [Dynamic Programming], [Greedy]

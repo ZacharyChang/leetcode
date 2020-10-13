@@ -41,10 +41,11 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/441.arranging-coins)|Easy|[Math], [Binary Search]
 |453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/453.minimum-moves-to-equal-array-elements)|Easy|[Math]
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/462.minimum-moves-to-equal-array-elements-ii)|Medium|[Math]
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/492.construct-the-rectangle)|Easy|[Math]
 |507|[Perfect Number](https://leetcode.com/problems/perfect-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/507.perfect-number)|Easy|[Math]
 |537|[Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/537.complex-number-multiplication)|Medium|[Math], [String]
 |593|[Valid Square](https://leetcode.com/problems/valid-square)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/593.valid-square)|Medium|[Math]
-|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/633.sum-of-square-numbers)|Easy|[Math]
+|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/633.sum-of-square-numbers)|Medium|[Math]
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/645.set-mismatch)|Easy|[Hash Table], [Math]
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/728.self-dividing-numbers)|Easy|[Math]
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/836.rectangle-overlap)|Easy|[Math]
@@ -54,6 +55,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |970|[Powerful Integers](https://leetcode.com/problems/powerful-integers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/970.powerful-integers)|Easy|[Hash Table], [Math]
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/976.largest-perimeter-triangle)|Easy|[Math], [Sort]
 |1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1009.complement-of-base-10-integer)|Easy|[Math]
+|1427|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1427.perform-string-shifts)|Easy|[Array], [Math]
 
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md

@@ -38,6 +38,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/647.palindromic-substrings)|Medium|[String], [Dynamic Programming]
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/650.2-keys-keyboard)|Medium|[Dynamic Programming]
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/746.min-cost-climbing-stairs)|Easy|[Array], [Dynamic Programming]
+|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1143.longest-common-subsequence)|Medium|[Dynamic Programming]
 
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md

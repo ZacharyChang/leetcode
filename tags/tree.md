@@ -30,6 +30,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/114.flatten-binary-tree-to-linked-list)|Medium|[Tree], [Depth-first Search]
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/116.populating-next-right-pointers-in-each-node)|Medium|[Tree], [Depth-first Search]
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/117.populating-next-right-pointers-in-each-node-ii)|Medium|[Tree], [Depth-first Search]
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/124.binary-tree-maximum-path-sum)|Hard|[Tree], [Depth-first Search]
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/129.sum-root-to-leaf-numbers)|Medium|[Tree], [Depth-first Search]
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/144.binary-tree-preorder-traversal)|Medium|[Stack], [Tree]
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/199.binary-tree-right-side-view)|Medium|[Tree], [Depth-first Search], [Breadth-first Search]
@@ -52,6 +53,8 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/872.leaf-similar-trees)|Easy|[Tree], [Depth-first Search]
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/965.univalued-binary-tree)|Easy|[Tree]
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/993.cousins-in-binary-tree)|Easy|[Tree], [Breadth-first Search]
+|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1008.construct-binary-search-tree-from-preorder-traversal)|Medium|[Tree]
+|1430|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1430.check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)|Medium|[Tree]
 
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md

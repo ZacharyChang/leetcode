@@ -14,6 +14,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |169|[Majority Element](https://leetcode.com/problems/majority-element)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/169.majority-element)|Easy|[Array], [Divide and Conquer], [Bit Manipulation]
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/187.repeated-dna-sequences)|Medium|[Hash Table], [Bit Manipulation]
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/191.number-of-1-bits)|Easy|[Bit Manipulation]
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/201.bitwise-and-of-numbers-range)|Medium|[Bit Manipulation]
 |231|[Power of Two](https://leetcode.com/problems/power-of-two)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/231.power-of-two)|Easy|[Math], [Bit Manipulation]
 |268|[Missing Number](https://leetcode.com/problems/missing-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/268.missing-number)|Easy|[Array], [Math], [Bit Manipulation]
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/338.counting-bits)|Medium|[Dynamic Programming], [Bit Manipulation]

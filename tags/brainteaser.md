@@ -10,6 +10,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |#|Title|Solution|Difficulty|Tags|
 |-|-----|--------|----------|----|
 |319|[Bulb Switcher](https://leetcode.com/problems/bulb-switcher)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/319.bulb-switcher)|Medium|[Math], [Brainteaser]
+|521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/521.longest-uncommon-subsequence-i)|Easy|[String], [Brainteaser]
 
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md

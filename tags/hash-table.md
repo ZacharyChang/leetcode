@@ -25,7 +25,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/242.valid-anagram)|Easy|[Hash Table], [Sort]
 |274|[H-Index](https://leetcode.com/problems/h-index)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/274.h-index)|Medium|[Hash Table], [Sort]
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/290.word-pattern)|Easy|[Hash Table]
-|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/299.bulls-and-cows)|Easy|[Hash Table]
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/299.bulls-and-cows)|Medium|[Hash Table]
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/347.top-k-frequent-elements)|Medium|[Hash Table], [Heap]
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/349.intersection-of-two-arrays)|Easy|[Hash Table], [Two Pointers], [Binary Search], [Sort]
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/350.intersection-of-two-arrays-ii)|Easy|[Hash Table], [Two Pointers], [Binary Search], [Sort]
@@ -37,6 +37,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/451.sort-characters-by-frequency)|Medium|[Hash Table], [Heap]
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/463.island-perimeter)|Easy|[Hash Table]
 |500|[Keyboard Row](https://leetcode.com/problems/keyboard-row)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/500.keyboard-row)|Easy|[Hash Table]
+|525|[Contiguous Array](https://leetcode.com/problems/contiguous-array)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/525.contiguous-array)|Medium|[Hash Table]
 |554|[Brick Wall](https://leetcode.com/problems/brick-wall)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/554.brick-wall)|Medium|[Hash Table]
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/560.subarray-sum-equals-k)|Medium|[Array], [Hash Table]
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/575.distribute-candies)|Easy|[Hash Table]
@@ -56,6 +57,7 @@ This repository is built for the [leetcode](https://leetcode.com) study.
 |957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/957.prison-cells-after-n-days)|Medium|[Hash Table]
 |970|[Powerful Integers](https://leetcode.com/problems/powerful-integers)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/970.powerful-integers)|Easy|[Hash Table], [Math]
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1002.find-common-characters)|Easy|[Array], [Hash Table]
+|1429|[First Unique Number](https://leetcode.com/problems/first-unique-number)|[Detail](https://github.com/ZacharyChang/leetcode/tree/master/1429.first-unique-number)|Medium|[Hash Table], [Design]
 
 
 [Array]: https://github.com/ZacharyChang/leetcode/tree/master/tags/array.md
